@@ -39,7 +39,7 @@ Assim como as mãos que transformam fios em tecido, na CAPIDATA transformamos da
 Toda contribuição começa com uma conversa. Participe:
 
 - **💬 GitHub Discussions:** [github.com/orgs/capidata/discussions](https://github.com/orgs/capidata/discussions)
-- **🧩 Element (Matrix):** [matrix.to/#/#capidata:matrix.org](https://matrix.to/#/#capidata:matrix.org)
+- **🧩 Matrix:** [matrix.to/#/#capidata:matrix.org](https://matrix.to/#/#capidata:matrix.org)
 
 ---
 
