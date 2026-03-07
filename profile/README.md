@@ -18,7 +18,7 @@ O polo têxtil do Agreste Pernambucano (ex.: Jataúba, Santa Cruz do Capibaribe,
 
 Assim como as mãos que transformam fios em tecido, na CAPIDATA transformamos dados brutos em informação estruturada, confiável e acessível. Nosso tear é colaborativo: cada contribuição é um fio que fortalece o tecido final.
 
-> 🎯 Temos um olhar especial para as necessidades de **micro, pequenas e médias empresas** — quem mais precisa de dados de qualidade, mas nem sempre tem acesso a soluções robustas e acessíveis.
+> 🎯 Temos um olhar especial para as necessidades de **micro, pequenos e médios negócios** — quem mais precisa de dados de qualidade, mas nem sempre tem acesso a soluções robustas e acessíveis.
 
 ---
 
@@ -47,20 +47,18 @@ Toda contribuição começa com uma conversa. Participe:
 
 Se você:
 - Acredita em **dados abertos e governança transparente**
-- Quer construir **arquiteturas escaláveis** com Rust e ferramentas modernas
+- Quer construir **arquiteturas escaláveis** com Rust, Go, Python e ferramentas modernas
 - Tem interesse em **IA ética e aumentada** ("AI recomenda, humano decide")
 - Ou simplesmente quer **fazer parte da maior comunidade de dados com identidade brasileira**
 
-**Junte-se a nós.** O tear está armado. Os fios estão prontos.
+_**Ventimbora!**_ O tear está armado. Os fios estão prontos.
 
 ---
 
 ## 🧵💧 #VemProTear
 
-> *"O futuro dos dados não será apenas inteligente — será tecido por muitas mãos, com raízes profundas e olhos no mundo."*
-
-**CAPIDATA — Tecendo governança, fio a fio.**
+> *"O futuro dos dados não será apenas inteligente, mas será tecido por muitas mãos, com raízes profundas e olhos no mundo."*
 
 ---
 
-**Licença:** Todos os projetos da CAPIDATA serão lançados sob licenças verdadeiramente abertas (em breve mais informações).
+**Licença:** Todos os projetos da CAPIDATA serão lançados sob licenças abertas (em breve mais informações).
