@@ -18,7 +18,7 @@ O polo têxtil do Agreste Pernambucano (ex.: Jataúba, Santa Cruz do Capibaribe,
 
 Assim como as mãos que transformam fios em tecido, na CAPIDATA transformamos dados brutos em informação estruturada, confiável e acessível. Nosso tear é colaborativo: cada contribuição é um fio que fortalece o tecido final.
 
-> 🎯 Temos um olhar especial para as necessidades de **micro, pequenos e médios negócios** — quem mais precisa de dados de qualidade, mas nem sempre tem acesso a soluções robustas e acessíveis.
+> 🎯 Temos um olhar especial para as necessidades de **micro, pequenos e médios negócios** — quem mais precisa de dados de qualidade, mas nem sempre tem acesso a soluções que sejam ao mesmo tempo robustas e acessíveis.
 
 ---
 
