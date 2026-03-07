@@ -49,7 +49,7 @@ Se você:
 - Acredita em **dados abertos e governança transparente**
 - Quer construir **arquiteturas escaláveis** com Rust, Go, Python e ferramentas modernas
 - Tem interesse em **IA ética e aumentada** ("AI recomenda, humano decide")
-- Ou simplesmente quer **fazer parte da maior comunidade de dados com identidade brasileira**
+- Ou simplesmente quer **fazer parte de uma comunidade de dados com identidade brasileira**
 
 _**Ventimbora!**_ O tear está armado. Os fios estão prontos.
 
