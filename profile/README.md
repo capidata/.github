@@ -157,7 +157,7 @@ Conflito é normal. Divergência é sinal de vida, não de doença. O Pacto Fund
 | Documento | Descrição |
 | --- | --- |
 | [Pacto Fundante v0.2](https://github.com/capidata/.github/blob/main/estatuto/pacto-fundante-v0.2.md) | Quem somos, como decidimos, o que nos protege |
-| [Brasil e A Ética do Desejo](https://github.com/capidata/.github/blob/main/docs/Brasil_e_A_Etica_do_Desejo.md) | Ensaio completo — fundamentação filosófico-política |
+| [Brasil e A Ética do Desejo](https://github.com/capidata/.github/blob/main/docs/ETICA_DO_DESEJO.md) | Ensaio completo — fundamentação filosófico-política |
 | [README do ecossistema](https://github.com/capidata/.github/blob/main/README.md) | Feature stories, áreas de contribuição, mapa de soluções |
 | [CONTRIBUTING.md](https://github.com/capidata/.github/blob/main/CONTRIBUTING.md) | Como contribuir |
 | [LICENCA.md](https://github.com/capidata/.github/blob/main/LICENCA.md) | Licença Ética Capiba |
