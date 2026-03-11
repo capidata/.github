@@ -2,7 +2,8 @@
 
 ## Amor, Justiça, Potência e Sociedade
 
-**Silvano Neto**
+*Silvano Neto*
+
 **Pernambuco, 2026**
 
 > «Transforme sua dor em potência, o tempo todo, sempre.»
