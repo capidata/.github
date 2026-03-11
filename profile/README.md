@@ -44,7 +44,7 @@ O capitalismo nos controla nos melancolizando — privatizando o sofrimento, tra
 
 **Condições, não programa** — A transformação não é decreto que se adota. São condições de possibilidade que se constroem deliberadamente.
 
-O ensaio [*Brasil e A Ética do Desejo*](https://github.com/capidata/.github/blob/main/docs/Brasil_e_A_Etica_do_Desejo.md) (Silvano Neto, 2026) desenvolve essa fundamentação em profundidade.
+O ensaio [*Brasil e A Ética do Desejo*](https://github.com/capidata/.github/blob/main/docs/ETICA_DO_DESEJO.md) (Silvano Neto, 2026) desenvolve essa fundamentação em profundidade.
 
 ---
 
