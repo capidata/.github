@@ -9,6 +9,22 @@
 
 ---
 
+## Sumário
+
+Este ensaio propõe uma ética do desejo como fundamento para a transformação social no Brasil. A tese central é que a violência social — da díade familiar à geopolítica imperial — opera por um mesmo mecanismo: o desejo projetado, pelo qual um corpo tenta fazer o outro viver conforme o seu próprio temperamento, usando o afeto como instrumento de controle.
+
+O argumento se desenvolve em quatro movimentos.
+
+O primeiro movimento (capítulos I–II) parte de uma cena autobiográfica para diagnosticar o mecanismo do desejo projetado como célula primordial do que o ensaio chama de câncer social. O amor projetado — atenção condicionada disfarçada de afeto incondicional — nasce dentro do vínculo, usa os mesmos canais do cuidado legítimo, e se replica fractalmente da família à escola, da igreja ao Estado, do Estado ao imperialismo. O diagnóstico de Winnicott sobre o eu falso é ampliado para o contexto da periferia urbana brasileira, onde a falha primária não é da díade mãe-bebê, mas das instituições que aparecem na vida cotidiana como violência difusa e sistêmica.
+
+O segundo movimento (capítulos III–VI) mobiliza quatro tradições filosóficas para nomear o mecanismo com precisão. Spinoza fornece a fundação ontológica: o conatus como essência, a ambitio como mecânica formal da projeção, a distinção entre potentia e potestas, e a proposição VP3 — uma paixão compreendida é o começo de uma ação — como programa ético. Lacan fornece a gramática estrutural: o desejo do Outro, os quatro discursos (com ênfase na passagem do discurso do mestre ao discurso do analista como horizonte político), a identificação com o sintoma como alternativa à travessia do fantasma coletiva, e uma teoria do fracasso centrada no acting out. Foucault fornece a analítica do poder capilar: o assujettissement, as tecnologias do eu, a governamentalidade, e as contracondutas como ponto onde o sujeito começa a ser governado de outra maneira. Deleuze e Guattari invertem a relação entre desejo e falta: o desejo é produção, o microfascismo opera em regime molecular, e a questão organizativa não é ter ou não ter organização, mas qual arquitetura maximiza a potência sem capturá-la.
+
+O terceiro movimento (capítulos VII–VIII) desloca a análise para o Sul Global. Freire, Fanon, Rolnik, Rivera Cusicanqui, Gonzalez, Krenak, Dussel e Santos revelam que o desejo projetado opera não apenas interpessoalmente, mas como mecanismo estrutural do colonialismo — com cor, história colonial e geografia. O conceito de corpo vibrátil de Suely Rolnik é identificado como o mais próximo da tese central do ensaio: a capacidade de ser afetado pelo que o sistema de defesa identifica como ameaça e de deixar que esse afeto produza transformação em vez de proteção. O imperialismo é descrito como a metástase final do desejo projetado, e a necropolítica de Mbembe é articulada com a teoria dos jogos para demonstrar que a assimetria de horizontes temporais (o fator de desconto δ) é uma das formas mais eficazes de dominação.
+
+O quarto movimento (capítulos IX–XIII) converte o diagnóstico em condições de possibilidade. Não programa — porque uma ética do desejo que se apresenta como programa já reproduz o mecanismo que afirma combater. A convergência das cinco tradições filosóficas é formalizada. Os encontros transformadores são descritos em quatro movimentos fenomenológicos (nomeação coletiva, reconhecimento, identificação de causalidade, ação emergente). A teoria dos jogos, via Axelrod, Ostrom e Rubinstein, fornece prova matemática de que o design institucional deliberado permite escapar do Dilema do Prisioneiro — e de que a desigualdade extrema impede a cooperação mesmo com reciprocidade direta. A proposta de Comunidade-Nação é estruturada em sete camadas territoriais (do País à Rua), com a relação com o Estado operando em três registros simultâneos (uso sem dependência, preparação para a repressão, construção de poder para disputar o Estado). A federação transversal é proposta com seis princípios fundantes, incluindo protocolos de conflito sem expurgo e a exigência de que a forma do desejo — não apenas o conteúdo do programa — seja constitutiva da organização.
+
+O ensaio é escrito desde Pernambuco, desde a periferia, como operação de redistribuição do sensível. Não é anticorpo — é tentativa de corpo vibrátil: texto que convida o leitor a ser afetado por ele, inclusive quando o afeto é crítica, resistência ou recusa.
+
 ## I. A ferida e o mecanismo
 
 ### A cena original
