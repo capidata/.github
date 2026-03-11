@@ -340,7 +340,7 @@ Este preâmbulo não constitui artigo normativo, mas serve de base interpretativ
 
 ## TÍTULO I — Da denominação, sede, finalidade e duração
 
-**Art. 1°.** O grupo informal denominado CAPIDATA — Comunidade Construtora do Protocolo Capiba, doravante denominado simplesmente CAPIDATA, é constituído por este Pacto Fundante, sem personalidade jurídica, sem fins econômicos, com prazo de duração indeterminado.
+**Art. 1°.** O grupo informal denominado CAPIDATA — Comunidade Brasileira de Arquitetura, Processamento e Inteligência em Dados, doravante denominado simplesmente CAPIDATA, é constituído por este Pacto Fundante, sem personalidade jurídica, sem fins econômicos, com prazo de duração indeterminado.
 
 §1° A sede simbólica da CAPIDATA é o repositório público `github.com/capidata`, acessível globalmente, sendo Pernambuco, Brasil, o território de origem do projeto.
 
