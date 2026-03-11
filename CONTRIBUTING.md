@@ -1,4 +1,4 @@
-# Como Contribuir com a CAPIDATA
+2# Como Contribuir com a CAPIDATA
 
 > _"Cada contribuição é um fio que fortalece o tecido final."_
 
@@ -312,7 +312,7 @@ Toda contribuição começa com uma conversa.
 
 ## O que não é bem-vindo
 
-- Contribuições que violam os [princípios invioláveis](estatuto/pacto-fundante-v0.1.md#nossos-princípios--o-que-não-pode-ser-mudado) do Pacto Fundante
+- Contribuições que violam os [princípios invioláveis](estatuto/pacto-fundante-v0.2.md#nossos-princípios--o-que-não-pode-ser-mudado) do Pacto Fundante
 - Código que cria dependência de serviço externo sem consentimento explícito
 - Soluções construídas sem nenhum contato com o problema real que pretendem resolver
 - Qualquer coisa que reduza a soberania de quem usa para aumentar a conveniência de quem constrói
