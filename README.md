@@ -33,13 +33,37 @@ Não é utopia. É protocolo.
 
 ---
 
+## A ética que nos move
+
+O Capiba não é só infraestrutura técnica. É infraestrutura ética.
+
+O capitalismo nos controla nos melancolizando — privatizando o sofrimento, transformando a dor coletiva em depressão individual. A CAPIDATA é o espaço onde esse sofrimento ganha nome coletivo, causa identificada e ação que emerge da compreensão.
+
+Cinco ideias orientam tudo que construímos:
+
+**1. Conatus** — Cada pessoa, cada comunidade, cada território se esforça para perseverar no próprio ser. A tecnologia ou amplia essa potência ou a diminui. Não existe meio-termo. Quando corpos se encontram e se fortalecem mutuamente, o que nasce é alegria. Quando se destroem, tristeza. O bem é aquilo que amplia a potência de agir; o mal é aquilo que a diminui.
+
+**2. O desejo é produção, não falta** — A CAPIDATA não existe para preencher uma carência. Existe para produzir realidade. A criação deliberada de falta é a arte da classe dominante. O Capiba recusa essa lógica: o que as comunidades já praticam — o mutirão, a cozinha comunitária, a moeda social, o coco de roda — são expressões de potência que a teoria não precisa inventar, apenas tornar legível.
+
+**3. O poder está em toda parte — inclusive aqui dentro** — Este projeto não cria um espaço livre de poder. Cria um espaço que assume a responsabilidade de tornar seus mecanismos de poder legíveis e contestáveis. Os padrões de dominação do sistema que combatemos podem se reproduzir aqui dentro. Reconhecê-los é dever de todos.
+
+**4. Uma paixão compreendida é o começo de uma ação** — Compreender a causa do afeto é o primeiro ato político. Não basta sentir a injustiça; é preciso nomear sua mecânica. É por isso que o Capiba exige explicabilidade de toda IA, transparência de todo processo, e legibilidade de toda decisão.
+
+**5. Condições, não programa** — A transformação não é decreto que se adota. São condições de possibilidade que se constroem. A diferença entre prescrever o que as pessoas devem ser e criar espaço para que elas produzam seu próprio saber é a diferença entre dominação e liberdade.
+
+O ensaio [*Brasil e A Ética do Desejo*](./docs/Brasil_e_A_Etica_do_Desejo.md) desenvolve essa fundamentação em profundidade. O glossário operativo dos conceitos está em [`docs/ETICA_DO_DESEJO.md`](./docs/ETICA_DO_DESEJO.md).
+
+---
+
 ## O que já existe
 
 - [x] Constituição do Core (princípios invioláveis)
 - [x] Arquitetura do ecossistema (IaaS → PaaS → SaaS → SuperApps)
-- [x] Modelo de governança (quórum dinâmico, proteção de assimetria)
+- [x] Modelo de governança (quórum dinâmico, proteção de assimetria, protocolos de conflito)
 - [x] Modelo de identidade (DID soberano + Perfil de Horizonte Temporal)
 - [x] Protocolo de commons (PRIVATE / HIDDEN / COMMONS / PUBLIC)
+- [x] Fundamentação filosófico-política (ensaio *Brasil e A Ética do Desejo*)
+- [x] Pacto Fundante v0.2 (estatuto com preâmbulo, 8 princípios, resolução de conflitos)
 - [x] Mapa de soluções (20+ repositórios planejados)
 - [ ] **Você**
 
@@ -224,7 +248,7 @@ O Capiba oferece inteligência jurídica popular, não advocacia de escritório.
   (Lei do Cooperativismo, Marco das OSCs, Estatuto da Cidade, etc.)
 - Templates de estatuto social compatíveis com o protocolo Capiba
 - Motor de compliance automático (LGPD, Marco Civil, legislação municipal)
-- Protocolo de resolução de conflitos (árbitros, mediação, instâncias)
+- Protocolo de resolução de conflitos (mediação graduada, instâncias acessíveis)
 - Modelo de licença ética (derivada da Peer Production License)
 - Documentação jurídica da propriedade coletiva de dados e modelos de IA
 - Interface entre DID soberano e CNPJ/CPF (identidade estatal)
@@ -323,6 +347,8 @@ para que a pesquisa sirva ao bairro antes de servir ao artigo.
 a primeira batalha não é no campo — é na narrativa.
 Quem conta a história primeiro define quem é o invasor e quem é o ocupante.
 O Capiba é infraestrutura de contra-narrativa soberana.
+
+Soberania de comunicação é extensão de soberania política. O alcance construído ao longo de anos por um comunicador popular pode ser destruído por decisão unilateral de uma corporação. Sem infraestrutura própria, toda construção de consciência política está vulnerável ao ponto de falha corporativo. O `capiba-voz` não é luxo — é necessidade estratégica.
 
 **O que construir:**
 
@@ -503,6 +529,8 @@ Potência local com conexão global, sem perder a identidade.
 O CapibaCultura é essa antena — para artistas que não querem
 ser engolidos pelo Spotify nem silenciados pelo algoritmo.
 
+O nordestino não precisa escolher entre a modernidade e o arcaico, entre Marx e o Xangô, entre o digital e o coco. A potência regional está exatamente na tensão entre contrários — não na pureza de nenhuma das posições.
+
 **O que construir:**
 
 - `capiba-cultura` — plataforma de economia criativa popular
@@ -574,6 +602,7 @@ Você não está entrando em algo pronto. Está fundando algo.
 **Se você é desenvolvedor(a):**
 
 - Leia a constituição do Core: [`capiba-core/spec`](https://github.com/capidata/capiba-core)
+- Leia o [Pacto Fundante](./estatuto/pacto-fundante-v0.2.md) — é o documento que define quem somos
 - Abra uma issue com sua área de interesse
 - Primeiro PR bem-vindo: qualquer coisa que funcione offline num Raspberry Pi
 
@@ -595,29 +624,34 @@ Você não está entrando em algo pronto. Está fundando algo.
 ## Princípios Invioláveis
 
 1. **Soberania**: nenhum dado sai do território sem consentimento explícito
-2. **Anti-colonial**: o projeto é escrito em português primeiro, sempre
-3. **Assimetria como dado**: quem tem mais a perder decide mais sobre o que perde
-4. **Ilegibilidade estratégica**: o direito à opacidade é protegido por design
-5. **Conatus coletivo**: a tecnologia aumenta a potência, nunca a substitui
-6. **Commons, não mercadoria**: o código é livre; os dados das comunidades, soberanos
-7. **Prática, não discurso**: cada feature precisa rodar em território real
+2. **Anti-colonial**: o projeto é escrito em português primeiro, sempre. A tensão entre contrários é potência, não defeito
+3. **Assimetria como dado**: quem tem mais a perder decide mais sobre o que perde — e o protocolo compensa assimetrias de potência ativamente
+4. **Ilegibilidade estratégica**: o direito à opacidade é protegido por design. Legibilidade serve ao povo, não ao extrator
+5. **Conatus coletivo**: a tecnologia aumenta a potência, nunca a substitui. Critério composicional: ampliou a potência de agir?
+6. **Commons, não mercadoria**: o código é livre; os dados das comunidades, soberanos. A vedação é recusa ética à expropriação
+7. **Prática, não discurso**: cada feature precisa rodar em território real. Se o usuário não entende, a feature falhou
+8. **Autocorreção permanente**: a CAPIDATA aceita ser transformada pelo confronto com quem vive o que ela teoriza
 
 ---
 
 ## O que o Capiba não é
 
 - Não é uma startup social
-- Não é uma ONG que "empoderar comunidades"
+- Não é uma ONG que "empodera comunidades"
 - Não é uma plataforma com modelo de negócio disfarçado de impacto
 - Não é tecnologia neutra — é tecnologia com ética embutida
 - Não é projeto acadêmico sem aplicação real
 - Não é para ser vendido, nem para virar produto de grande empresa
+- Não é cordialidade que usa o vínculo pessoal para reproduzir hierarquia — é cordialidade que compõe: a vizinha que cuida, o mutirão que constrói, a cozinha que alimenta
+- Não é espaço livre de contradição — é espaço que reconhece a contradição e a trabalha
 
 ---
 
 ## Licença
 
-Capiba usa a **Licença Ética Capiba** (derivada da Peer Production License):
+Capiba usa a **Licença Ética Capiba** (derivada da Peer Production License).
+
+As vedações abaixo não são regras arbitrárias de restrição de uso: constituem a recusa ética à expropriação da subjetividade criativa das comunidades pelo capital.
 
 - ✅ Uso livre para entidades sem fins lucrativos e commons
 - ✅ Uso livre para cooperativas e economia solidária
@@ -630,6 +664,18 @@ Capiba usa a **Licença Ética Capiba** (derivada da Peer Production License):
 
 ---
 
+## Documentação
+
+| Documento | Descrição |
+| --- | --- |
+| [`estatuto/pacto-fundante-v0.2.md`](./estatuto/pacto-fundante-v0.2.md) | Pacto Fundante — quem somos, como decidimos, o que nos protege |
+| [`docs/Brasil_e_A_Etica_do_Desejo.md`](./docs/Brasil_e_A_Etica_do_Desejo.md) | Ensaio completo — fundamentação filosófico-política |
+| [`docs/ETICA_DO_DESEJO.md`](./docs/ETICA_DO_DESEJO.md) | Glossário operativo dos conceitos |
+| [`CONTRIBUTING.md`](./CONTRIBUTING.md) | Como contribuir |
+| [`LICENCA.md`](./LICENCA.md) | Licença Ética Capiba |
+
+---
+
 ## Contato e Comunidade
 
 - GitHub: [github.com/capidata](https://github.com/capidata)
@@ -638,8 +684,6 @@ _Construído em Pernambuco. 2026._
 
 ---
 
-> _"O poder emancipatório não desce do País para a Rua:_
-> _a potência brota da Rua e do Bairro,_
-> _e as camadas superiores servem exclusivamente_
-> _como a armadura que protege essa base viva."_
-> — Sil
+> _"A teoria não precisa inventar o que já existe;_
+> _precisa tornar legível o que a experiência já pratica."_
+> — Silvano Neto, Brasil e A Ética do Desejo (2026)
