@@ -51,7 +51,7 @@ Cinco ideias orientam tudo que construímos:
 
 **5. Condições, não programa** — A transformação não é decreto que se adota. São condições de possibilidade que se constroem. A diferença entre prescrever o que as pessoas devem ser e criar espaço para que elas produzam seu próprio saber é a diferença entre dominação e liberdade.
 
-O ensaio [*Brasil e A Ética do Desejo*](./docs/Brasil_e_A_Etica_do_Desejo.md) desenvolve essa fundamentação em profundidade. O glossário operativo dos conceitos está em [`docs/ETICA_DO_DESEJO.md`](./docs/ETICA_DO_DESEJO.md).
+O ensaio *Brasil e A Ética do Desejo* desenvolve essa fundamentação em profundidade. O glossário operativo dos conceitos está em [`docs/ETICA_DO_DESEJO.md`](./docs/ETICA_DO_DESEJO.md).
 
 ---
 
