@@ -42,7 +42,7 @@ Enquanto as ferramentas próprias de governança do protocolo não existem, este
 
 ## Estrutura
 
-```
+```text
 .github/
 ├── .gitignore
 ├── CLAUDE.md               este arquivo — guia para Claude Code

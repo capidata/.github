@@ -13,7 +13,7 @@ do momento em que nasce a ideia até o momento em que ela vive no ecossistema.
 
 ## As Cinco Fases
 
-```
+```text
 1. PREPARAÇÃO     →  a ideia ganha forma e contexto
 2. DESENVOLVIMENTO →  a história é construída
 3. GARANTIA       →  a história é verificada
@@ -38,7 +38,7 @@ a contribuição precisa ter raiz. Isso significa responder:
 
 **Quem é o sujeito?**
 
-```
+```text
 Como [quem],
 quero [o quê],
 para que [por quê].
@@ -90,7 +90,7 @@ produção que transforma a ideia da Fase 1 em algo verificável por outra pesso
 
 **Commits com contexto:**
 
-```
+```text
 feat(capiba-feira): adiciona índice de preço justo por território
 
 Calcula preço médio ponderado por δ efetivo dos MEIs contribuintes.
@@ -99,7 +99,7 @@ Resolve: #42 — MEI sem referência de preço no mercado local.
 
 **Branches com intenção:**
 
-```
+```text
 feature/preco-justo-territorial
 fix/sincronizacao-offline-bairro
 docs/guia-capiba-node-raspberry
@@ -221,7 +221,7 @@ Para o protocolo Core: passa pelo Comitê de Guardiões antes do merge.
 
 Seguimos [Semantic Versioning](https://semver.org/lang/pt-BR/):
 
-```
+```text
 MAJOR.MINOR.PATCH
 
 MAJOR → mudança incompatível com versões anteriores
@@ -280,6 +280,44 @@ do problema real → à solução → de volta ao território.
 
 Aprendizado documentado. Ecossistema atualizado.
 O próximo contribuidor que chegar encontra o caminho mais iluminado do que estava antes.
+
+---
+
+## Assistente Capiba no Zed
+
+Se você usa o [Zed](https://zed.dev) com a extensão `capiba-zed` instalada,
+o assistente tem acesso direto ao protocolo Capiba via servidor MCP.
+Não é obrigatório — mas acelera o processo.
+
+### Slash commands por fase
+
+| Fase | Comando | O que faz |
+| ---- | ------- | --------- |
+| 1 | `/capiba-historia` | Estrutura a história de contribuição (Como/quero/para que) |
+| 1 | `/capiba-ideia` | Sessão de ideação com contexto do ecossistema |
+| 1–5 | `/capiba-fase <nome>` | Guia detalhado para a fase atual |
+| 2 | `/capiba-compat` | Gera rascunho do `COMPAT.md` contra os princípios do Core |
+| 3 | `/capiba-revisar` | Revisão ética e técnica do código aberto no editor |
+| 3 | `/capiba-teste` | Gera testes contextualizados para o código selecionado |
+| 3–4 | `/capiba-pr` | Gera descrição de PR com checklists preenchidos |
+| — | `/capiba-onboard` | Onboarding — entenda a CAPIDATA e o Pacto Fundante |
+
+### MCP tools disponíveis no Agent Panel
+
+Com o `capiba-mcp` ativo no painel do agente, o Claude tem acesso a:
+
+| Tool | Quando usar |
+| ---- | ----------- |
+| `capiba_gerar_historia` | Fase 1 — estruturar o enunciado do problema e do sujeito |
+| `capiba_fase_atual` | Qualquer fase — detecta em que ponto do processo o worktree está |
+| `capiba_get_principio` | Fase 2–3 — consultar um princípio inviolável específico (1–8) |
+| `capiba_check_compat` | Fase 3 — análise estática da contribuição contra os princípios |
+| `capiba_get_decisao` | Qualquer fase — lê uma decisão do ledger por número |
+
+### Como ativar o capiba-mcp no Zed
+
+Consulte [`capiba-zed/docs/setup.md`](https://github.com/capidata/capiba-zed/blob/main/docs/setup.md)
+para instalação do binário e configuração do `settings.json`.
 
 ---
 
