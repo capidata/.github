@@ -1,4 +1,4 @@
-2# Como Contribuir com a CAPIDATA
+# Como Contribuir com a CAPIDATA
 
 > _"Cada contribuição é um fio que fortalece o tecido final."_
 
