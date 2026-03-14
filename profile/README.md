@@ -175,6 +175,8 @@ Conflito é normal. Divergência é sinal de vida, não de doença. O Pacto Fund
 
 ## 🚀 Quer contribuir?
 
+Comece pela [**esteira de issues**](https://github.com/capidata/.github/issues) — são histórias de contribuição com problemas reais, sujeitos reais e caminhos claros. Infraestrutura, IA, governança, educação, comunicação — tem entrada para qualquer área.
+
 Se você:
 - Acredita que **tecnologia não é neutra** — e quer construir com ética explícita
 - Quer criar **ferramentas para quem mais precisa**, não para quem mais pode pagar

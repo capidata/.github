@@ -65,6 +65,7 @@ O ensaio *Brasil e A Ética do Desejo* desenvolve essa fundamentação em profun
 - [x] Fundamentação filosófico-política (ensaio *Brasil e A Ética do Desejo*)
 - [x] Pacto Fundante v0.2 (estatuto com preâmbulo, 8 princípios, resolução de conflitos)
 - [x] Mapa de soluções (20+ repositórios planejados)
+- [x] [**Histórias de contribuição**](https://github.com/capidata/.github/issues) — problemas reais, sujeitos reais, prontos para construir
 - [ ] **Você**
 
 ---
@@ -599,25 +600,29 @@ não dependa de plataformas do Norte para circular.
 O projeto está no **momento zero** — e isso é uma vantagem.
 Você não está entrando em algo pronto. Está fundando algo.
 
-**Se você é desenvolvedor(a):**
+### Comece pela esteira de issues
 
-- Leia a constituição do Core: [`capiba-core/spec`](https://github.com/capidata/capiba-core)
+Temos [**issues abertas**](https://github.com/capidata/.github/issues) — cada uma é uma história de contribuição com sujeito real, problema concreto e critérios de aceitação. Não são tarefas genéricas. São convites para construir junto.
+
+| Se você é... | Comece por |
+| --- | --- |
+| **Desenvolvedor(a)** | Issues de infraestrutura (`capiba-node`, `capiba-storage`) ou software (`capiba-app-mei`) |
+| **Cientista de dados / ML** | Issues de IA (`PreçoJusto`, `CréditoRede`, `DemandaBairro`) |
+| **Advogado(a) / jurista** | Issues de governança (soberania de dados, templates de estatuto) |
+| **Educador(a) / ativista** | Issues de comunidade (entrada não-técnica) ou educação (`CapibaEduca`) |
+| **Designer** | Issues de software (acessibilidade, testes com MEI real) |
+| **Pesquisador(a)** | Issues de ciência (protocolo de pesquisa com soberania comunitária) |
+| **Comunicador(a)** | Issues de comunicação (`CapibaVoz`, arquivo de luta) |
+| **Entidade (MEI, coop, movimento)** | Issues de território (piloto real, relato de experiência) |
+
+Cada issue tem cenários reais (incluindo bloqueios), stack técnico quando aplicável, e impacto no δ efetivo. Escolha uma, leia, comente, proponha — ou abra uma nova.
+
+### Outras formas de começar
+
 - Leia o [Pacto Fundante](./estatuto/pacto-fundante-v0.2.md) — é o documento que define quem somos
-- Abra uma issue com sua área de interesse
+- [Se apresente nas Discussions](https://github.com/orgs/capidata/discussions/categories/apresentacoes) — é o gesto fundante
+- Abra uma Discussion em [💡 Ideias](https://github.com/orgs/capidata/discussions/categories/ideias) se sua ideia ainda não tem issue
 - Primeiro PR bem-vindo: qualquer coisa que funcione offline num Raspberry Pi
-
-**Se você não é desenvolvedor(a):**
-
-- Seu conhecimento é tão fundante quanto o código
-- Abra uma issue em [`.github`](https://github.com/capidata/.github)
-  descrevendo sua área e o que você pode construir
-- A primeira assembleia da CAPIDATA está sendo convocada
-
-**Se você é uma entidade (MEI, Associação, Cooperativa, Movimento):**
-
-- Você é o usuário real que dá sentido a tudo isso
-- Entre em contato para ser o primeiro território piloto
-- Sua experiência tem peso político especial nas decisões
 
 ---
 

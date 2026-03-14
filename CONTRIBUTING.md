@@ -55,6 +55,11 @@ Protocolo Core? IaaS? PaaS? SaaS? SuperApp? Governança?
 
 ### Como fazer
 
+**Olhe as issues abertas primeiro.**
+A [esteira de issues](https://github.com/capidata/.github/issues) já tem histórias de contribuição estruturadas — com sujeito real, critérios de aceitação, cenários de uso e stack técnico. Se alguma te atrai, comente na issue e comece a partir dela.
+
+Se nenhuma issue cobre o que você quer fazer:
+
 - Abra uma **Discussion** na categoria [💡 Ideias](https://github.com/orgs/capidata/discussions/categories/ideias) ou [🛠️ Técnico](https://github.com/orgs/capidata/discussions/categories/tecnico)
 - Ou abra uma **Issue** com o template [Nova Solução](ISSUE_TEMPLATE/nova-solucao.md)
 - Ou simplesmente comece — e documente o contexto no PR quando chegar lá
@@ -337,7 +342,11 @@ para instalação do binário e configuração do `settings.json`.
 
 Nunca contribuiu com open source? Não sabe por onde começar?
 
-Algumas entradas com peso real:
+### Leia uma issue
+
+A [esteira de issues](https://github.com/capidata/.github/issues) é o melhor ponto de entrada. Cada issue é uma história de contribuição com problema real, sujeito real e caminhos claros. Escolha uma que te atraia, leia os cenários, e comente — mesmo que seja "tenho interesse" ou "tenho dúvida sobre X".
+
+### Outras entradas com peso real
 
 - **Se apresente** → [Discussion de apresentações](https://github.com/orgs/capidata/discussions/categories/apresentacoes) — é o gesto fundante
 - **Relate um problema real** de território → Issue com template [🌱 Território](ISSUE_TEMPLATE/territorio.md) — sua experiência tem peso político especial
