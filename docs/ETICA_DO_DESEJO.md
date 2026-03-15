@@ -4,7 +4,7 @@
 
 _Silvano Neto_
 
-**Pernambuco, 2026**
+**Pernambuco, 15 de março de 2026**
 
 > "Transforme sua dor em potência, o tempo todo, sempre."
 
