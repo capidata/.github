@@ -4,7 +4,7 @@
 
 # CAPIDATA
 
-> Comunidade Construtora do Protocolo Capiba — soberania, inteligência e governança popular de dados 🇧🇷
+> Comunidade para Hacker-cientistas, construtora do Protocolo Capiba — soberania, inteligência e governança popular de dados 🇧🇷
 
 A **CAPIDATA** é uma comunidade **open-source e sem fins lucrativos** dedicada a construir o ecossistema **Capiba** — um protocolo anti-colonial de soberania, inteligência e governança popular de dados.
 
