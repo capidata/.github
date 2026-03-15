@@ -1,0 +1,277 @@
+# Licença Ética Capiba
+### Versão 0.2 — 2026
+
+> *"O conhecimento que nasce da periferia pertence à periferia.*
+> *Quem usa para construir o commons, usa livremente.*
+> *Quem usa para extrair valor do commons, devolve ao commons."*
+
+---
+
+## Por que uma licença ética
+
+Toda tecnologia carrega a ética de quem a construiu. A maioria das licenças de software livre trata o código como objeto neutro: permite qualquer uso, por qualquer agente, para qualquer fim. Essa neutralidade é, ela mesma, uma posição política — a posição de quem pode se dar ao luxo de não perguntar para que serve o que construiu.
+
+A Licença Ética Capiba recusa essa neutralidade. As vedações que este documento estabelece não são regras arbitrárias de restrição de uso: constituem a recusa ética à expropriação da subjetividade criativa das comunidades pelo capital. Quando vedamos a venda de dados de usuários, a publicidade comportamental ou o treinamento de IA sem consentimento comunitário, estamos nomeando os mecanismos concretos pelos quais o sistema colonial-capitalístico converte a potência criativa das comunidades em mercadoria — e declarando que o que a CAPIDATA constrói não será instrumento desse processo.
+
+O commons ético não é o mesmo que o commons irrestrito. Liberdade para todos inclui liberdade para quem extrai. Liberdade para o commons exclui quem extrai — e isso é intencional.
+
+---
+
+# VERSÃO POPULAR
+
+Esta licença define quem pode usar o que a CAPIDATA constrói, como pode usar, e o que não pode fazer em nenhuma circunstância.
+
+Foi escrita para ser entendida por qualquer pessoa — não só por advogados.
+
+---
+
+## Quem pode usar livremente
+
+**Você pode usar, copiar, modificar e distribuir este trabalho sem nenhuma obrigação financeira se for:**
+
+- Uma pessoa física usando para fins não comerciais
+- Um MEI, associação, cooperativa ou organização de economia solidária
+- Uma comunidade tradicional, quilombola ou indígena
+- Um movimento social ou coletivo sem fins lucrativos
+- Um pesquisador ou instituição acadêmica que compartilha os resultados com a comunidade geradora dos dados
+- Qualquer entidade que use o trabalho para fortalecer o commons — não para privatizá-lo
+
+**Condição:** se você modificar e distribuir, sua versão modificada deve ser distribuída sob esta mesma licença. O commons só cresce se permanecer commons.
+
+---
+
+## Quem pode usar com contribuição
+
+**Empresas e entidades com fins econômicos podem usar este trabalho desde que contribuam de volta ao commons.**
+
+O que conta como contribuição:
+- Devolver as modificações ao repositório de origem
+- Contribuir financeiramente ao fundo do ecossistema Capiba
+- Contribuir com tempo técnico ao ecossistema, proporcional ao uso
+
+A forma e proporção da contribuição são negociadas com a CAPIDATA antes do uso comercial. Entre em contato: github.com/capidata
+
+---
+
+## O que ninguém pode fazer
+
+**Estas vedações são absolutas. Nenhum acordo, pagamento ou circunstância as remove.** Existem porque nomeiam os mecanismos concretos pelos quais a potência criativa das comunidades é convertida em mercadoria — e a CAPIDATA recusa que o que constrói seja instrumento desse processo.
+
+❌ **Vender dados de usuários** — em nenhuma forma, para nenhum fim
+
+❌ **Publicidade comportamental** — usar este trabalho para rastrear, perfilar ou influenciar o comportamento de pessoas sem seu consentimento
+
+❌ **Vigilância e controle social** — uso por forças policiais, militares, sistemas de pontuação social, controle migratório ou qualquer agente que opere em violação aos direitos humanos
+
+❌ **Treinamento de IA sem consentimento** — usar dados gerados por comunidades para treinar modelos sem consentimento explícito e participação ativa dessas comunidades na governança do modelo
+
+❌ **Apropriação do commons** — usar este trabalho como base para criar produto proprietário que substitua o original e impeça o acesso livre das comunidades que originaram o conhecimento
+
+❌ **Uso por regimes autoritários** — uso por governos ou entidades que sistematicamente violam direitos civis, políticos ou sociais
+
+---
+
+## Sobre inteligência artificial
+
+Os modelos de IA treinados sobre dados de commons pertencem à rede que gerou os dados — não à empresa ou pessoa que treinou o modelo.
+
+Todo modelo derivado deve ser:
+- **Explicável:** qualquer comunidade geradora pode entender como funciona
+- **Auditável:** qualquer membro da comunidade geradora pode inspecioná-lo
+- **Revogável:** a comunidade geradora pode retirar seus dados e o modelo deve ser retreinado
+
+Essas exigências decorrem diretamente do princípio do Conatus coletivo: a IA amplia a potência humana, nunca a substitui — e cabendo ao humano a decisão, o humano precisa de condições reais para compreender, fiscalizar e revogar o que a IA produz.
+
+---
+
+## Língua primária
+
+Esta licença foi escrita em português como idioma primário. Em caso de conflito com traduções, prevalece esta versão.
+
+---
+
+# VERSÃO JURÍDICA
+
+**LICENÇA ÉTICA CAPIBA — Versão 0.2**
+*Pernambuco, Brasil — 2026*
+
+---
+
+## Preâmbulo
+
+A presente Licença Ética Capiba (doravante "Licença") governa o uso, cópia, modificação e distribuição das obras intelectuais produzidas pela CAPIDATA e por seus colaboradores (doravante "Obra").
+
+Esta Licença é fundamentada nos oito princípios invioláveis do Pacto Fundante da CAPIDATA (v0.2), em especial os princípios de soberania de dados, orientação anti-colonial, conatus coletivo e autocorreção permanente. Deve ser interpretada à luz do Preâmbulo do Pacto Fundante, cujo critério hermenêutico central é a pergunta: "amplia ou diminui a potência de agir dos corpos que compõem esta rede?"
+
+As vedações absolutas do Capítulo III não constituem restrições arbitrárias ao uso da Obra: constituem a recusa ética à expropriação capitalística da subjetividade criativa das comunidades, operacionalizada como cláusula contratual. A distinção entre Entidades do Commons e Entidades Comerciais não decorre do faturamento, mas da estrutura de propriedade, governança e finalidade — o critério é composicional: o uso amplia ou diminui a potência de agir das comunidades que originaram a Obra?
+
+Esta Licença é inspirada na Peer Production License (Bauwens, Kostakis, 2012) e na Hippocratic License (Ehmke, 2019), adaptada à realidade jurídica e político-econômica do Brasil e da América Latina.
+
+---
+
+## Definições
+
+**"Obra"** designa qualquer trabalho protegido por direito autoral disponibilizado sob esta Licença, incluindo código-fonte, especificações de protocolo, documentação, modelos de dados, modelos de inteligência artificial e demais produções intelectuais.
+
+**"Obra Derivada"** designa qualquer trabalho que incorpore ou modifique a Obra, incluindo traduções, adaptações, compilações e obras que incorporem a Obra como componente.
+
+**"Entidade do Commons"** designa: (i) pessoas físicas para uso não comercial; (ii) microempreendedores individuais; (iii) associações sem fins econômicos; (iv) cooperativas e entidades de economia solidária; (v) comunidades tradicionais, quilombolas e indígenas; (vi) movimentos sociais e coletivos sem fins lucrativos; (vii) instituições de pesquisa que repartam os benefícios com as comunidades geradoras dos dados.
+
+**"Entidade Comercial"** designa qualquer pessoa jurídica com fins econômicos que não se enquadre na definição de Entidade do Commons.
+
+**"Dados de Commons"** designa dados gerados por comunidades no âmbito do protocolo Capiba, classificados como COMMONS:LOCAL, COMMONS:REGIONAL ou COMMONS:NACIONAL conforme o capiba-commons.
+
+**"Modelo de IA de Commons"** designa modelo de inteligência artificial treinado, total ou parcialmente, sobre Dados de Commons.
+
+---
+
+## Capítulo I — Permissões para Entidades do Commons
+
+**Art. 1°.** É concedida, gratuitamente, a qualquer Entidade do Commons, licença não exclusiva, mundial e perpétua para:
+
+- I — usar a Obra para qualquer finalidade compatível com os princípios desta Licença;
+- II — copiar e distribuir a Obra em qualquer meio ou formato;
+- III — modificar a Obra e criar Obras Derivadas;
+- IV — distribuir Obras Derivadas.
+
+**Art. 2°.** O exercício das permissões do art. 1° está condicionado ao cumprimento das seguintes obrigações:
+
+- I — **Atribuição:** toda distribuição da Obra ou de Obra Derivada deve manter os avisos de autoria e indicar esta Licença de forma clara e acessível;
+
+- II — **Copyleft ético:** toda Obra Derivada distribuída publicamente deve ser licenciada sob esta mesma Licença, na versão vigente ou em versão posterior aprovada pela CAPIDATA;
+
+- III — **Integridade da missão:** o uso não pode contrariar as vedações absolutas estabelecidas no Capítulo III desta Licença.
+
+---
+
+## Capítulo II — Permissões para Entidades Comerciais
+
+**Art. 3°.** Entidades Comerciais podem exercer as permissões do art. 1° mediante contribuição prévia e proporcional ao commons, nos termos a serem acordados com a CAPIDATA antes do início do uso.
+
+**Art. 4°.** São formas de contribuição aceitáveis, isoladas ou combinadas:
+
+- I — devolução integral das modificações ao repositório de origem, sob esta Licença, no prazo de 90 (noventa) dias após o início do uso;
+- II — contribuição financeira ao Fundo do Ecossistema Capiba, em valor proporcional à receita derivada do uso da Obra;
+- III — alocação de tempo técnico remunerado ao desenvolvimento do ecossistema, proporcional ao uso comercial.
+
+**Art. 5°.** O uso comercial sem acordo prévio constitui violação desta Licença e sujeita a Entidade Comercial às sanções previstas na legislação brasileira de direitos autorais (Lei n° 9.610/1998) e de propriedade intelectual aplicável.
+
+**Art. 6°.** Para solicitar licença comercial, a Entidade Comercial deve contatar a CAPIDATA através do repositório github.com/capidata e aguardar manifestação formal no prazo de 30 (trinta) dias corridos.
+
+---
+
+## Capítulo III — Vedações Absolutas
+
+**Art. 7°.** As vedações deste capítulo operacionalizam a recusa ética da CAPIDATA à expropriação da subjetividade criativa das comunidades. Nomeiam os mecanismos concretos pelos quais o sistema colonial-capitalístico converte a potência criativa das comunidades em mercadoria, e declaram que a Obra não será instrumento desse processo.
+
+**Art. 8°.** É vedado a qualquer licenciado, independentemente de categoria ou acordo celebrado, sob pena de rescisão automática e imediata desta Licença:
+
+- **I — Comercialização de dados de usuários:** transferir, vender, alugar, licenciar ou de qualquer forma ceder dados pessoais ou comportamentais de usuários da Obra a terceiros, mediante ou sem contraprestação;
+
+- **II — Publicidade comportamental:** usar a Obra ou dados gerados por seu intermédio para rastrear, perfilar, segmentar ou influenciar o comportamento de pessoas sem seu consentimento livre, informado, específico e revogável;
+
+- **III — Vigilância e controle social:** usar a Obra em sistemas de: (a) reconhecimento facial para identificação de indivíduos em espaço público; (b) pontuação social ou creditícia opaca; (c) monitoramento de dissidência política, religiosa ou sindical; (d) controle migratório ou de fronteiras; (e) qualquer finalidade que opere em violação sistemática a direitos humanos reconhecidos internacionalmente;
+
+- **IV — Treinamento de IA sem consentimento:** usar Dados de Commons para treinar, ajustar fino (fine-tune) ou avaliar modelos de inteligência artificial sem: (a) consentimento explícito e coletivo das comunidades geradoras dos dados; (b) participação dessas comunidades na governança do modelo resultante; (c) compromisso de explicabilidade, auditabilidade e revogabilidade;
+
+- **V — Fechamento do commons:** (a) patentear componentes da Obra ou técnicas nela descritas; (b) usar a Obra como base para produto proprietário que impeça o acesso livre das comunidades originantes; (c) impor restrições adicionais às permissões desta Licença sobre a Obra ou Obras Derivadas;
+
+- **VI — Uso por agentes repressivos:** usar a Obra em operações de forças policiais, militares, de inteligência ou paramilitares, e por governos ou entidades que sistematicamente violem direitos civis, políticos, econômicos, sociais ou culturais.
+
+---
+
+## Capítulo IV — Modelos de Inteligência Artificial
+
+**Art. 9°.** O Modelo de IA de Commons resultante de treinamento sobre Dados de Commons é de titularidade coletiva da rede de comunidades que gerou os dados, não do desenvolvedor do modelo nem da CAPIDATA.
+
+**Art. 10.** Todo Modelo de IA de Commons deve satisfazer, cumulativamente, as seguintes condições:
+
+- I — **Explicabilidade:** o modelo deve ser documentado de forma que qualquer membro da comunidade geradora, com assistência técnica razoável, possa compreender como opera e quais vieses apresenta;
+
+- II — **Auditabilidade:** o modelo, seus pesos, dados de treinamento e métricas de avaliação devem estar acessíveis para inspeção por qualquer membro da comunidade geradora, sob sigilo técnico quando necessário;
+
+- III — **Revogabilidade:** a comunidade geradora pode, por decisão estratégica interna, revogar o consentimento de uso de seus dados, obrigando o retreinamento ou descontinuação do modelo no prazo de 180 (cento e oitenta) dias.
+
+**Art. 11.** É vedado distribuir comercialmente Modelo de IA de Commons sem licença específica negociada com as comunidades geradoras dos dados.
+
+**Art. 12.** As exigências deste capítulo decorrem do princípio do Conatus coletivo (Pacto Fundante v0.2, Art. 4°, inciso V): sistemas de inteligência artificial informam e sugerem, cabendo ao humano a decisão. Para que a decisão humana seja genuína, são necessárias condições reais de compreensão, fiscalização e revogação.
+
+---
+
+## Capítulo V — Disposições Gerais
+
+**Art. 13.** Esta Licença não constitui cessão de direitos autorais. A titularidade coletiva da Obra permanece com a CAPIDATA e seus colaboradores, conforme registrado no ledger público do ecossistema.
+
+**Art. 14.** A violação de qualquer disposição desta Licença rescinde automaticamente as permissões concedidas ao infrator, sem necessidade de notificação prévia, ressalvado o direito da CAPIDATA de perseguir reparação pelos danos causados.
+
+**Art. 15.** A rescisão não afeta os direitos de terceiros que tenham recebido Obras Derivadas do infrator sob esta Licença, desde que continuem cumprindo suas obrigações.
+
+**Art. 16.** Se qualquer disposição desta Licença for considerada inválida ou inexequível por jurisdição competente, as demais disposições permanecem em pleno vigor.
+
+**Art. 17.** A CAPIDATA reserva-se o direito de publicar versões revisadas desta Licença. Cada versão receberá número identificador único. A Obra pode indicar versão específica ou "versão vigente ou posterior", conforme opção do distribuidor.
+
+**Art. 18.** Esta Licença deve ser interpretada à luz dos princípios invioláveis e do Preâmbulo do Pacto Fundante da CAPIDATA. Em caso de ambiguidade, prevalece a interpretação que amplia a potência de agir das comunidades que originaram a Obra.
+
+**Art. 19.** Esta Licença é regida pela legislação brasileira, em especial a Lei n° 9.610/1998 (Lei de Direitos Autorais), a Lei n° 13.709/2018 (LGPD) e o Código Civil Brasileiro.
+
+**Art. 20.** O foro competente para dirimir conflitos decorrentes desta Licença é o da Comarca de Recife, Estado de Pernambuco, salvo norma de ordem pública em contrário.
+
+**Art. 21.** Esta Licença é redigida em língua portuguesa como idioma primário. Em caso de conflito entre esta versão e traduções, prevalece o texto em língua portuguesa.
+
+---
+
+# COMO APLICAR ESTA LICENÇA
+
+Inclua o seguinte aviso em cada arquivo de código-fonte e no README:
+
+```
+Copyright (c) [ano] [nome(s) do(s) autor(es)]
+Distribuído sob a Licença Ética Capiba v0.2
+https://github.com/capidata/.github/blob/main/LICENCA.md
+
+Uso livre para o commons. Uso comercial requer acordo prévio.
+Vigilância, venda de dados e IA sem consentimento são vedados.
+```
+
+E inclua o arquivo `LICENCA.md` (este arquivo) na raiz do repositório.
+
+---
+
+# PERGUNTAS FREQUENTES
+
+**Posso usar o Capiba para construir um produto pago?**
+Sim, desde que você negocie um acordo de contribuição com a CAPIDATA antes de começar. Entre em contato pelo github.com/capidata.
+
+**Sou pesquisador(a) acadêmico(a). Preciso pagar?**
+Não, desde que seus resultados sejam compartilhados com as comunidades geradoras dos dados e publicados sob licença aberta.
+
+**Sou uma cooperativa com receita. Preciso pagar?**
+Não. Cooperativas são Entidades do Commons nesta licença, independentemente de sua receita. O critério é a estrutura de propriedade e governança, não o faturamento.
+
+**Posso usar o Capiba numa prefeitura ou governo estadual?**
+Depende do uso. Uso para prestação de serviços públicos à população é permitido. Uso para vigilância, controle social ou monitoramento de dissidência é vedado, mesmo que o agente seja público.
+
+**A licença se aplica à documentação também?**
+Sim. Código, especificações, documentação, modelos de dados e qualquer outro artefato produzido no ecossistema estão sob esta Licença, salvo indicação expressa em contrário.
+
+**Esta licença é compatível com GPL ou MIT?**
+Não integralmente. As vedações absolutas do Capítulo III tornam esta Licença mais restritiva que MIT e incompatível com GPL em alguns contextos comerciais. Isso é intencional: o commons ético não é o mesmo que o commons irrestrito.
+
+**Quem fiscaliza o cumprimento da licença?**
+A comunidade. Violações podem ser reportadas via Issue no repositório github.com/capidata/.github com o label `licença`. A CAPIDATA reserva-se o direito de buscar reparação judicial quando necessário.
+
+**Por que as vedações existem? Não seria mais livre sem elas?**
+Liberdade para todos inclui liberdade para quem extrai. As vedações nomeiam os mecanismos concretos pelos quais a potência criativa das comunidades é convertida em mercadoria — venda de dados, publicidade comportamental, IA sem consentimento, vigilância. Remover as vedações seria declarar que o Capiba pode ser usado para aprofundar a dependência de quem o gerou. Essa é a posição que a licença recusa.
+
+**O que mudou da v0.1 para a v0.2?**
+A v0.2 incorpora a fundamentação filosófico-política do ensaio *Brasil e A Ética do Desejo* e do Pacto Fundante v0.2. Os termos substantivos da licença permanecem os mesmos. As mudanças são de fundamentação: a seção "Por que uma licença ética" explica a recusa da neutralidade; as vedações absolutas ganham um artigo declaratório que nomeia seu fundamento ético (Art. 7°); o preâmbulo jurídico referencia os oito princípios do Pacto v0.2 e o critério hermenêutico composicional; o capítulo de IA ganha artigo que conecta as exigências ao princípio do Conatus coletivo; e um novo artigo (Art. 18) estabelece que a licença é interpretada à luz do Pacto Fundante, prevalecendo a interpretação que amplia a potência de agir das comunidades. A renumeração dos artigos decorre da inserção do Art. 7° declaratório e do Art. 12 de fundamentação no capítulo de IA.
+
+---
+
+*Licença Ética Capiba v0.2 — CAPIDATA — Pernambuco, 2026*
+*Derivada conceitualmente da Peer Production License (Bauwens & Kostakis, 2012)*
+*e da Hippocratic License (Ehmke, 2019)*
+
+> *"A teoria não precisa inventar o que já existe;*
+> *precisa tornar legível o que a experiência já pratica."*
+> — Silvano Neto, Brasil e A Ética do Desejo (2026)

@@ -1,0 +1,403 @@
+:root {
+    --bg: #fafaf9;
+    --fg: #27272a;
+    --accent: #dc67e6;
+    --accent-light: #f3e7f9;
+    --accent-dark: #9d2fb8;
+    --muted: #71717a;
+    --surface: #f4f4f5;
+    --border: #e7d0f0;
+    --primary-red: #7f1d1d;
+    --primary-green: #059669;
+    --primary-blue: #0ea5e9;
+    --primary-gold: #f59e0b;
+    --font-family: "Charter", "Georgia", serif;
+}
+
+body.dark-mode {
+    --bg: #0d0d0d;
+    --fg: #e0ddd5;
+    --accent: #dc67e6;
+    --accent-light: #2d1838;
+    --accent-dark: #ff8cff;
+    --muted: #a89968;
+    --surface: #1a1917;
+    --border: #5d2570;
+}
+
+body.font-sans {
+    --font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", sans-serif;
+}
+
+body.font-mono {
+    --font-family: "JetBrains Mono", "Fira Code", "Courier New", monospace;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var(--font-family);
+    background: var(--bg);
+    color: var(--fg);
+    line-height: 1.7;
+    min-height: 100vh;
+    transition: background-color 0.15s, color 0.15s;
+}
+
+/* loading overlay */
+.loading-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(4px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+    transition: opacity 0.3s, visibility 0.3s;
+}
+
+.loading-overlay.hidden {
+    opacity: 0;
+    visibility: hidden;
+}
+
+.loading-spinner {
+    width: 48px;
+    height: 48px;
+    border: 4px solid var(--accent-light);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+/* nav lateral */
+.layout {
+    display: flex;
+    min-height: 100vh;
+}
+
+nav {
+    width: 280px;
+    min-width: 280px;
+    border-right: 2px solid var(--accent);
+    padding: 2rem 1.5rem;
+    position: sticky;
+    top: 0;
+    height: 100vh;
+    overflow-y: auto;
+}
+
+nav h1 {
+    font-size: 1.1rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 0.3rem;
+}
+
+nav .subtitle {
+    font-size: 0.8rem;
+    color: var(--muted);
+    margin-bottom: 2rem;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav li {
+    margin-bottom: 0.4rem;
+}
+
+nav a {
+    color: var(--fg);
+    text-decoration: none;
+    font-size: 0.9rem;
+    display: block;
+    padding: 0.3rem 0.6rem;
+    border-radius: 4px;
+    transition: all 0.15s;
+    border-left: 2px solid transparent;
+    padding-left: 0.4rem;
+}
+
+nav a:hover {
+    background: var(--accent-light);
+    color: var(--accent);
+    border-left-color: var(--accent);
+}
+
+nav a.active {
+    background: var(--accent-light);
+    color: var(--accent);
+    font-weight: 600;
+    border-left-color: var(--accent);
+}
+
+nav .loading {
+    color: var(--muted);
+    font-size: 0.85rem;
+    font-style: italic;
+}
+
+.theme-toggle {
+    margin-top: 2rem;
+    padding-top: 2rem;
+    border-top: 2px solid var(--accent);
+    display: flex;
+    gap: 0.5rem;
+}
+
+.theme-toggle button {
+    flex: 1;
+    padding: 0.5rem;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--fg);
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.8rem;
+    transition: all 0.15s;
+}
+
+.theme-toggle button:hover {
+    border-color: var(--accent);
+}
+
+.theme-toggle button.active {
+    background: var(--accent);
+    color: #fff;
+    font-weight: 600;
+}
+
+.font-selector {
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+}
+
+.font-selector label {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--muted);
+    margin-bottom: 0.3rem;
+}
+
+.font-selector-buttons {
+    display: flex;
+    gap: 0.3rem;
+}
+
+.font-selector-buttons button {
+    flex: 1;
+    padding: 0.4rem;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--fg);
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.75rem;
+    transition: all 0.15s;
+}
+
+.font-selector-buttons button:hover {
+    border-color: var(--accent);
+}
+
+.font-selector-buttons button.active {
+    background: var(--accent);
+    color: #fff;
+    font-weight: 600;
+}
+
+.font-serif {
+    font-family: "Charter", "Georgia", serif;
+}
+
+.font-sans {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+.font-mono {
+    font-family: "JetBrains Mono", "Fira Code", monospace;
+}
+
+/* conteudo */
+main {
+    flex: 1;
+    max-width: 52rem;
+    padding: 3rem 3rem 6rem;
+}
+
+.index-view {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.index-view img {
+    max-width: 100%;
+    width: 100%;
+    margin-bottom: 2rem;
+    border-radius: 12px;
+}
+
+.index-view h2 {
+    font-size: 1.6rem;
+    color: var(--accent);
+    margin-bottom: 1rem;
+}
+
+.index-view p {
+    color: var(--muted);
+    margin-bottom: 2rem;
+}
+
+/* markdown renderizado */
+.md h1 {
+    font-size: 1.8rem;
+    color: var(--accent);
+    margin: 2rem 0 1rem;
+}
+.md h2 {
+    font-size: 1.4rem;
+    color: var(--accent);
+    margin: 2.5rem 0 0.8rem;
+    border-bottom: 2px solid var(--accent);
+    padding-bottom: 0.4rem;
+}
+.md h3 {
+    font-size: 1.15rem;
+    color: var(--accent-dark);
+    margin: 1.8rem 0 0.6rem;
+    border-left: 2px solid var(--accent);
+    padding-left: 0.8rem;
+}
+.md p {
+    margin-bottom: 1rem;
+    text-align: justify;
+}
+.md blockquote {
+    border-left: 4px solid var(--accent);
+    padding: 0.5rem 1.2rem;
+    margin: 1.2rem 0;
+    background: var(--accent-light);
+    color: var(--fg);
+    font-style: italic;
+    border-radius: 0 4px 4px 0;
+}
+.md blockquote p {
+    margin-bottom: 0.4rem;
+}
+.md ul,
+.md ol {
+    padding-left: 1.5rem;
+    margin-bottom: 1rem;
+}
+.md li {
+    margin-bottom: 0.3rem;
+}
+.md strong {
+    color: var(--accent);
+    font-weight: 700;
+}
+.md em {
+    font-style: italic;
+}
+.md a {
+    color: var(--accent);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    transition: all 0.15s;
+}
+.md a:hover {
+    color: var(--accent-dark);
+    background: var(--accent-light);
+    text-decoration: none;
+}
+.md code {
+    font-family: "JetBrains Mono", "Fira Code", monospace;
+    font-size: 0.85em;
+    background: var(--surface);
+    padding: 0.15em 0.4em;
+    border-radius: 3px;
+}
+.md pre {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 1rem 1.2rem;
+    overflow-x: auto;
+    margin: 1.2rem 0;
+}
+.md pre code {
+    background: none;
+    padding: 0;
+}
+.md table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.2rem 0;
+    font-size: 0.9rem;
+}
+.md th,
+.md td {
+    border: 1px solid var(--border);
+    padding: 0.5rem 0.8rem;
+    text-align: left;
+}
+.md th {
+    background: var(--accent-light);
+    color: var(--accent);
+    font-weight: 600;
+}
+.md hr {
+    border: none;
+    border-top: 1px solid var(--border);
+    margin: 2rem 0;
+}
+.md img {
+    max-width: 100%;
+    border-radius: 6px;
+}
+
+/* separador do ensaio */
+.md p:has(> br):empty,
+.md p:only-child {
+}
+
+/* mobile */
+@media (max-width: 768px) {
+    .layout {
+        flex-direction: column;
+    }
+    nav {
+        width: 100%;
+        min-width: unset;
+        position: static;
+        height: auto;
+        border-right: none;
+        border-bottom: 1px solid var(--border);
+        padding: 1.5rem 1rem;
+    }
+    main {
+        padding: 2rem 1.2rem 4rem;
+    }
+}

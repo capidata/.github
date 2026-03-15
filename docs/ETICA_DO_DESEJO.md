@@ -84,6 +84,8 @@ Ronald Laing: a família pode ser um sistema de jogos que mantêm a sanidade de 
 
 A célula se replica porque o mecanismo é fractal. O mesmo padrão ("eu te amo na condição de que você seja o que preciso que você seja") opera da díade afetiva à geopolítica imperial. No nível interpessoal: o pai e o filho. No nível institucional: a escola e o aluno, o partido e o militante. No nível nacional: o Estado e o cidadão. No nível global: o imperialismo e a nação dependente. Nomear o mecanismo em sua célula primordial é a condição para reconhecê-lo em todas as outras escalas onde opera.
 
+O mecanismo está nomeado. Não como metáfora: como mecânica. O desejo projetado opera da díade ao império com a mesma estrutura formal — e se replica porque usa os canais do cuidado legítimo, tornando-se indistinguível dele para quem está dentro. A experiência o conhece antes da teoria. A criança que apanha no recreio sabe, no corpo, o que este ensaio levará treze capítulos para formular. Mas nomear pelo corpo não basta. A experiência sem conceito produz sofrimento lúcido. O conceito sem experiência produz tese de doutorado. O que se segue é o trabalho de forjar as ferramentas de precisão que a experiência exige.
+
 • • •
 
 ## III. Spinoza: o conatus e a mecânica do desejo projetado
@@ -206,6 +208,10 @@ A máquina de guerra é exterior ao aparelho de Estado. O xadrez é jogo de Esta
 
 O rizoma é um sistema acentrado, não hierárquico, sem General e sem memória organizadora. Toda vez que uma organização de esquerda reproduz a estrutura arborescente (centro, raiz, galhos, folhas com funções fixas), ela está reterritorializando o espaço que afirmava liberar. A questão não é ter ou não ter organização. É qual arquitetura organizativa maximiza a potência sem capturá-la.
 
+Quatro tradições filosóficas convergem sobre o mesmo ponto cego: o sujeito que acredita desejar livremente já está desejando a partir de uma posição que não escolheu. A ambitio de Spinoza, o desejo do Outro de Lacan, o assujettissement de Foucault, a edipianização de Deleuze e Guattari — cada um ilumina uma face do mecanismo que o capítulo II nomeou como célula primordial. A convergência não é acidental. Quatro modos diferentes de dizer que a liberdade começa onde se reconhece o quanto do próprio desejo é do outro.
+
+Mas há uma lacuna que a honestidade intelectual obriga a marcar. As quatro tradições são europeias. Pensaram a partir de corpos que não apanham da polícia na volta do trabalho. Que não tiveram a língua arrancada pelo colonizador. Que não precisaram inventar moeda própria para comer. O diagnóstico é preciso. O endereço de quem diagnostica importa. O que se segue é o deslocamento que corrige essa assimetria.
+
 • • •
 
 ## VII. O olhar desde a periferia
@@ -259,6 +265,10 @@ Ruy Mauro Marini formula a superexploração do trabalho: na periferia, o trabal
 Mbembe: a soberania em sua expressão mais radical é o poder de decidir quem pode viver e quem deve morrer. Quando o fator de desconto δ de uma população aproxima-se de zero (quando sobreviver hoje é o único problema real), toda lógica da cooperação colapsa. O Brasil produz necropolítica com eficiência industrial: chacinas nas periferias, encarceramento em massa de jovens negros, letalidade policial concentrada geograficamente.
 
 A resistência ao necropoder começa pela criação de novas temporalidades. O quilombo, a ocupação do MST, a comunidade zapatista: reconstituem o δ, reabrem o futuro onde o poder imperial o havia fechado. Não é coincidência que a mística do MST cuide deliberadamente do horizonte temporal. Do passado como memória de luta e do futuro como possibilidade real.
+
+O aparato teórico está completo. Da cena original ao imperialismo, o mecanismo do desejo projetado foi rastreado em cada escala onde opera — e em cada escala a mesma estrutura formal se confirma: um corpo tenta fazer o outro viver conforme o seu próprio temperamento. A periferia adicionou o que faltava à teoria europeia: a cor, a terra, o sotaque, a fome. O corpo que Spinoza pensou como conatus tem agora o rosto concreto de quem vive sob necropolítica e produz vida apesar dela.
+
+A pergunta muda. Já não se trata de diagnosticar. Trata-se de perguntar: que tipo de resposta esse diagnóstico admite? Não um programa — pois um programa que prescreve a libertação do desejo já está projetando. Condições de possibilidade. Encontros que ampliem a potência de agir sem determinar o que os corpos devem fazer com ela.
 
 • • •
 
@@ -489,6 +499,30 @@ Seis princípios fundantes:
 **3. Soberania técnica:** comunicação que não dependa de plataformas do adversário. O departamento de hackers como função estratégica.
 
 **4. Revolução como jogo iterado:** cada banco comunitário que persiste, cada ocupação que vira assentamento, cada podcast que ensina Marx em Borborema, cada coletivo que acolhe um sofrimento antes privatizado. Elevar o δ coletivo. Reconstituir o futuro onde o imperialismo o havia fechado.
+
+• • •
+
+## Coda: a dor que não se privatiza
+
+Volto ao recreio.
+
+O moleque que me batia não era meu inimigo. Era o mensageiro de uma projeção que começou antes dele nascer e que continuaria operando depois que nós dois saíssemos daquela escola. O pai dele projetava sobre ele o que não realizou. Ele projetava sobre mim o que não podia devolver ao pai. Eu engolia a pancada e voltava para casa estudar. Convertia dor em desempenho: a forma que o sistema oferece ao corpo periférico que quer sobreviver sem quebrar.
+
+Esse mecanismo, agora sei, tem nome em Spinoza. Tem estrutura em Lacan. Tem capilaridade em Foucault. Tem regime molecular em Deleuze e Guattari. Tem cor em Fanon, terra em Krenak, moeda em Banco Palmas. Tem rosto concreto em cada mãe que cria filho sozinha na Zona Norte do Recife enquanto o Estado aparece como CAPS que medica sem escutar.
+
+Este ensaio não resolve nada disso. Ensaio nenhum resolve. O que ele faz, o que tentou fazer, é nomear o mecanismo com precisão suficiente para que o reconhecimento substitua a culpa. Para que o sofrimento que era privado se torne diagnóstico coletivo. Para que a pergunta deixe de ser "o que há de errado comigo" e passe a ser "que tipo de encontro amplia minha potência de agir e a de quem está ao meu lado."
+
+A ética do desejo não é uma teoria sobre o que as pessoas devem querer. É a recusa de projetar sobre o outro o que ele deve ser. É disciplina. Dura, cotidiana, que se perde e se reconquista. Criar condições para que o outro produza seu próprio saber em vez de consumir o meu.
+
+Não tenho garantia de que funciona. Banco Palmas, MST, quilombos, cozinhas comunitárias, o podcast que ensina Marx em Borborema: demonstram que composições que ampliam potência existem e resistem. Demonstram também que o custo dessa resistência é real, pago no corpo, e que nenhuma teoria compensa quem o paga.
+
+O que posso oferecer é isto. A convicção, construída no confronto entre a experiência vivida e as melhores ferramentas conceituais que encontrei, de que o desejo projetado é a célula primordial do câncer social. E de que a cura não é programa imposto de cima. É a construção paciente, molecular, territorial, federativa, de encontros onde a potência de agir se amplie sem que ninguém precise ser o que o outro precisa que ele seja.
+
+Transforme sua dor em potência, o tempo todo, sempre.
+
+Essa frase que abre o ensaio não é autoajuda. É imperativo ético com condições materiais. A dor se transforma em potência quando encontra coletivo que a nomeie. Quando a nomeação revela a causa estrutural. Quando a compreensão gera ação que não foi prescrita por ninguém. E quando a ação, ao transformar o mundo, transforma também quem age. Sem garantia. Sem roteiro. Sem mestre que diga como.
+
+O ensaio termina aqui. O trabalho não.
 
 • • •
 

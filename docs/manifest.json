@@ -1,0 +1,32 @@
+{
+  "name": "CAPIDATA — Protocolo de dados com soberania comunitária",
+  "short_name": "CAPIDATA",
+  "description": "Infraestrutura de dados aberta, offline-first e governada por quem a usa. Nascida em Pernambuco, para o Brasil.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "assets/images/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/favicon-64x64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/favicon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/capidata.png",
+      "sizes": "1408x768",
+      "type": "image/png"
+    }
+  ]
+}
