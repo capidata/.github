@@ -155,9 +155,7 @@ nav .loading {
 }
 
 .theme-toggle {
-    margin-top: 2rem;
-    padding-top: 2rem;
-    border-top: 2px solid var(--accent);
+    margin-top: 1rem;
     display: flex;
     gap: 0.5rem;
 }
@@ -224,6 +222,40 @@ nav .loading {
     background: var(--accent);
     color: #fff;
     font-weight: 600;
+}
+
+.social-links {
+    margin-top: 2rem;
+    padding-top: 2rem;
+    border-top: 2px solid var(--accent);
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+}
+
+.social-link {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.45rem 0.6rem;
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    background: var(--surface);
+    color: var(--muted);
+    font-size: 0.8rem;
+    text-decoration: none;
+    transition: all 0.15s;
+}
+
+.social-link svg {
+    width: 1rem;
+    height: 1rem;
+    flex-shrink: 0;
+}
+
+.social-link:hover {
+    border-color: var(--accent);
+    color: var(--accent);
 }
 
 .font-serif {
