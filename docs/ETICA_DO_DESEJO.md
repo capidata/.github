@@ -4,7 +4,7 @@
 
 _Silvano Neto_
 
-**Pernambuco, 15 de março de 2026**
+**Pernambuco, 16 de março de 2026**
 
 > "Transforme sua dor em potência, o tempo todo, sempre."
 
@@ -76,9 +76,11 @@ Erich Fromm: o amor maduro é composição spinoziana. Potências que se encontr
 
 Alice Miller: a criança sensível aprende a se adaptar às necessidades narcisistas dos pais ao custo do próprio eu autêntico. Miller traça a linha direta da educação repressiva à política autoritária. Todo perseguidor foi um dia vítima. Essa linha, no contexto brasileiro, passa obrigatoriamente pelas instituições: o professor que humilha não o faz apenas por crueldade individual. Opera dentro de uma pedagogia que o formou exatamente assim.
 
-Byung-Chul Han: a sociedade do desempenho produz autoexploração. O sujeito do desempenho é simultaneamente explorador e explorado no mesmo corpo. Han não tem teoria do sofrimento como organizador político. O que ele descreve como patologia terminal (a depressão do sujeito que não consegue mais) pode ser o ponto de partida de outra coisa, desde que o sofrimento encontre coletivo que o acolha e o nomeie.
+Byung-Chul Han: a sociedade do desempenho produz autoexploração. O sujeito do desempenho é simultaneamente explorador e explorado no mesmo corpo. A formulação importa porque nomeia o ponto onde o mecanismo fractal atinge sua forma terminal: na autoexploração, o projetor e o projetado colapsaram na mesma pessoa. O sujeito projeta sobre si mesmo o ideal que o sistema precisa — e experimenta isso como liberdade. A "liberdade paradoxal" de Han é o nome que ele dá ao que este ensaio chama de captura do conatus pelo discurso capitalista: quanto mais o sujeito se cobra, mais livre se sente, e mais eficiente é a exploração. O verbo modal mudou — do "não-ter-o-direito" disciplinar ao "poder ilimitado" do desempenho — mas o desejo projetado não desapareceu. Dispensou a instância externa. A ambitio não precisa mais de porta-voz. Han, contudo, não tem teoria do sofrimento como organizador político. O que ele descreve como patologia terminal (a depressão do sujeito que não consegue mais, o "não-mais-poder-poder") pode ser o ponto de partida de outra coisa, desde que o sofrimento encontre coletivo que o acolha e o nomeie. O cansaço solitário que Han diagnostica é a experiência fenomenológica da atomização: todos isolados, todos perdendo, ninguém conseguindo romper o ciclo porque a cooperação exige encontro e o encontro exige tempo que a precariedade negou.
 
 Ronald Laing: a família pode ser um sistema de jogos que mantêm a sanidade de uns à custa da loucura de outros. O "louco" da família frequentemente é aquele que porta a verdade que o sistema não suporta. Isso ressoa com a criança periférica cujo corpo "hiperatensivo" é medicado quando o problema real é a escola que não sabe acolhê-la.
+
+Édouard Louis: o caso empírico que confirma a tese deste ensaio desde uma outra geografia. Na aldeia operária do norte da França, o eu falso não era instalado pela díade mãe-bebê: era instalado pelo território inteiro. A masculinidade compulsória, a homofobia como norma afetiva do grupo, a fábrica como único horizonte. O ambiente institucional inteiro exigia complacência. A criança Eddy Bellegueule repetia para si "hoje eu vou ser um durão": a mesma adaptação defensiva que Winnicott descreveu na clínica, mas com rosto de classe e sexualidade. O mapa etiológico que este ensaio propõe, onde a falha primária é institucional antes de ser familiar, encontra em Louis a confirmação de que o mecanismo opera com a mesma estrutura formal em Hallencourt e em Borborema.
 
 ### O mecanismo e suas escalas
 
@@ -160,9 +162,13 @@ Lacan nomeia o mecanismo. O acting out é o momento em que o sujeito que não su
 
 Toda organização política que leve a sério a ética do desejo precisa de protocolos para acolher o acting out (a deserção súbita, o cisma explosivo, a identificação fervorosa com um novo significante-mestre) como mecanismo regular. Não como traição excepcional.
 
+O acting out tem também uma forma que não é recaída ao mestre: a fuga. Édouard Louis descreve em *Mudar: Método* a transformação radical de si como acting out em sentido estrito. A deserção do território quando a abertura do desejo é insuportável dentro dele. Louis não adere a um novo significante-mestre. Ele deserta. Muda de nome, de corpo, de classe, de mundo. A fuga não é integração do sintoma nem recaída: é terceira via, forçada pela hostilidade total do ambiente ao desejo que emergiu. A ética do desejo precisa reconhecer essa forma de acting out não como fracasso mas como sobrevivência. E trabalhar para que as condições coletivas tornem a fuga menos necessária.
+
 ### Desejo e consumo: o discurso capitalista
 
 O discurso capitalista (formulação tardia de Lacan, apresentada na conferência de Milão em 1972) opera como uma torção do discurso do mestre que elimina a impossibilidade: o sujeito neoliberal não deseja, consome. Consumo não é desejo. O desejo é o excedente irredutível que nenhum objeto satisfaz. É o que move além de qualquer satisfação. O consumo é a promessa de que o próximo objeto vai satisfazer. Promessa que o capitalismo renova infinitamente precisamente porque nunca cumpre.
+
+O neuro-enhancement é a tradução farmacológica desse discurso: a ritalina, o modafinil, o ansiolítico prometem eliminar a impossibilidade via comprimido. A vitalidade é reduzida a função e desempenho vital. O corpo vira máquina a ser otimizada. Mas o doping tem classe. O cirurgião que opera melhor com enhancer e o estudante do Ibura que estuda dopado para o ENEM habitam o mesmo paradigma em posições radicalmente assimétricas. Para o primeiro, é otimização. Para o segundo, é condição de sobrevivência — o preço farmacológico de competir num jogo desenhado contra ele.
 
 Quando este ensaio fala em "liberar o desejo" ou em "desejo não projetivo", está falando de algo que o discurso capitalista ativamente impossibilita. A passagem do consumo ao desejo (que é também a passagem da depressão neoliberal à potência spinoziana) requer condições coletivas de encontro que precisam ser deliberadamente construídas.
 
@@ -187,6 +193,8 @@ O cuidado de si (_epimeleia heautou_) era, na cultura greco-romana, historicamen
 ### A parresia e as contracondutas
 
 A parresia é o dizer-a-verdade que arrisca: o sujeito que fala de baixo para cima, que enuncia o que o poder preferia que permanecesse calado, e que o faz como dever ético. O coco de roda, o manguebeat, o maracatu, a moeda social, a ocupação de terra, a cozinha comunitária: são contracondutas. Recusam a condução do desejo pelo capital e pelo Estado colonial sem precisar destruir todas as instituições para isso. A contraconduta não é a revolução total. É o ponto onde o sujeito começa a ser governado de outra maneira.
+
+Mas a contraconduta não é apenas resistência ativa. Han distingue, via Nietzsche, a potência positiva (poder fazer) da potência negativa (poder não-fazer). A potência negativa não é impotência — é a soberania de não reagir ao estímulo, de não projetar sobre o outro, de não expulsar quem diverge. A mestra de coco que mantém a roda no terreiro enquanto o algoritmo pede atenção para outra coisa está exercendo potência negativa: afirmação de outra temporalidade, outro regime de atenção, outro modo de estar no corpo. A sociedade do desempenho destrói a potência negativa porque converte toda capacidade em obrigação de fazer. Quando só existe potência positiva, o sujeito está "irremediavelmente exposto a todo estímulo" — e a hiperatividade que sobra é a forma mais acabada da passividade. A contraconduta mais radical é a capacidade institucionalizada de não-fazer: os protocolos de conflito sem expurgo que o capítulo XIII propõe são potência negativa organizativa — a capacidade de não reagir ao acting out com punição, de não cindir quando a tensão se torna insuportável.
 
 • • •
 
@@ -264,7 +272,9 @@ Ruy Mauro Marini formula a superexploração do trabalho: na periferia, o trabal
 
 Mbembe: a soberania em sua expressão mais radical é o poder de decidir quem pode viver e quem deve morrer. Quando o fator de desconto δ de uma população aproxima-se de zero (quando sobreviver hoje é o único problema real), toda lógica da cooperação colapsa. O Brasil produz necropolítica com eficiência industrial: chacinas nas periferias, encarceramento em massa de jovens negros, letalidade policial concentrada geograficamente.
 
-A resistência ao necropoder começa pela criação de novas temporalidades. O quilombo, a ocupação do MST, a comunidade zapatista: reconstituem o δ, reabrem o futuro onde o poder imperial o havia fechado. Não é coincidência que a mística do MST cuide deliberadamente do horizonte temporal. Do passado como memória de luta e do futuro como possibilidade real.
+Mas a necropolítica não opera sozinha. Na periferia brasileira, o sujeito está sob violência necropolítica e violência neuronal simultaneamente — e essa sobreposição é o que nem Mbembe nem Han, isoladamente, conseguem pensar. O jovem negro da Zona Norte do Recife que dirige Uber doze horas por dia está sob violência clássica do Estado (a polícia que para, a blitz que humilha, a bala que mata) e sob autoexploração no sentido de Han (o sujeito de desempenho que se cobra, que toma ritalina para aguentar, que se sente culpado quando descansa). A superexploração de Marini (o salário que não cobre a reprodução biológica) é a camada estrutural que sustenta as duas: o corpo precisa se autoexplorar porque é superexplorado, e é superexplorado dentro de um regime necropolítico que o trata como descartável. Três camadas, um corpo. O diagnóstico que opera desde o centro — seja a biopolítica de Foucault, a necropolítica de Mbembe ou a psicopolítica de Han — captura uma camada de cada vez. A periferia exige articulação simultânea.
+
+A resistência ao necropoder começa pela criação de novas temporalidades. O quilombo, a ocupação do MST, a comunidade zapatista: reconstituem o δ, reabrem o futuro onde o poder imperial o havia fechado. Não é coincidência que a mística do MST cuide deliberadamente do horizonte temporal. Do passado como memória de luta e do futuro como possibilidade real. O que Han chama de "transitoriedade radical" — a perda moderna de toda promessa de duração — é, na periferia, condição material imposta antes de ser patologia subjetiva. E a reconstituição do δ não é exercício contemplativo: é luta de classes pelo tempo.
 
 O aparato teórico está completo. Da cena original ao imperialismo, o mecanismo do desejo projetado foi rastreado em cada escala onde opera — e em cada escala a mesma estrutura formal se confirma: um corpo tenta fazer o outro viver conforme o seu próprio temperamento. A periferia adicionou o que faltava à teoria europeia: a cor, a terra, o sotaque, a fome. O corpo que Spinoza pensou como conatus tem agora o rosto concreto de quem vive sob necropolítica e produz vida apesar dela.
 
@@ -298,7 +308,7 @@ O que as experiências mais duradouras parecem ter em comum pode ser descrito em
 
 No Banco Palmas, o processo não começou com a moeda social. Começou com o mapeamento coletivo da situação do bairro: semanas onde moradores descreviam, uns para os outros, o que tinham e o que precisavam. O ato de nomear coletivamente uma situação já transforma a relação com ela. Em Freire, é o círculo de cultura: o grupo identifica palavras geradoras (palavras que carregam a experiência concreta) e a partir delas constrói a análise que conecta o particular ao estrutural.
 
-Esses quatro movimentos são o protocolo mínimo dos encontros transformadores. Não é receita. É descrição do que as experiências mais duradouras parecem ter em comum. O programa de pesquisa que este ensaio sugere propõe documentar sistematicamente esses processos nos bancos comunitários, assentamentos e coletivos que já os praticam.
+Esses quatro movimentos são o protocolo mínimo dos encontros transformadores. Não é receita. É descrição do que as experiências mais duradouras parecem ter em comum. E os quatro pressupõem uma condição que Han, via Benjamin, nomeou: o tédio profundo — a suspensão da urgência produtiva para que algo se revele. A hiperatividade da sociedade do desempenho destrói exatamente essa condição. A multitarefa, a atenção dispersa, a precarização do tempo: não são apenas patologias individuais. São destruição das condições temporais do encontro. Onde não há pausa, não há nomeação. Onde não há nomeação, o sofrimento permanece privado. A destruição do tempo é violência contra o conatus tão real quanto a destruição do território — e na periferia, as duas operam juntas. O programa de pesquisa que este ensaio sugere propõe documentar sistematicamente esses processos nos bancos comunitários, assentamentos e coletivos que já os praticam.
 
 ### Guattari, Santos e o buen vivir
 
@@ -314,13 +324,59 @@ Santos: a ecologia dos saberes responde ao epistemicídio. O buen vivir: não vi
 
 Publicar este ensaio é usar a linguagem do dominante (o texto, o argumento, o circuito acadêmico e político) para introduzir algo que perturba esse mesmo circuito. Um risco que precisa ser nomeado: a metáfora imunológica, frequentemente usada para descrever esse gesto, carrega uma armadilha.
 
-O sistema imunológico defende o organismo tal como ele é. Não produz mutação. Produz conservação. Um anticorpo não transforma o organismo: o protege para que permaneça o mesmo. Se o que este ensaio propõe é uma subjetividade capaz de ruptura com o colonial-capitalístico, a metáfora imunológica trai a tese.
+O sistema imunológico defende o organismo tal como ele é. Não produz mutação. Produz conservação. Um anticorpo não transforma o organismo: o protege para que permaneça o mesmo. Se o que este ensaio propõe é uma subjetividade capaz de ruptura com o colonial-capitalístico, a metáfora imunológica trai a tese. Han chega à mesma conclusão por outro caminho: critica Baudrillard por tentar descrever a violência da positividade com vocabulário imunológico (viral, anticorpos, defesa) e critica Esposito por construir toda uma teoria da Immunitas sobre um paradigma em declínio. A Immunitas descreve o mundo que foi — a sociedade disciplinar, a negatividade do Outro — não o mundo que é. A convergência não é casual: quando o diagnóstico muda (da violência do Outro para a violência de si mesmo), a metáfora da defesa perde sentido. Não há de quem se defender quando o agressor e a vítima são o mesmo corpo.
 
 A metáfora adequada é o corpo vibrátil de Rolnik: a capacidade de ser afetado pelo que o sistema de defesa identifica como ameaça e de deixar que esse afeto produza transformação em vez de proteção. Este ensaio não é anticorpo. É tentativa de corpo vibrátil: texto que convida o leitor a ser afetado por ele, inclusive quando o afeto é crítica, resistência, recusa. Um texto que aceita ser parcialmente destruído pelo confronto com quem vive empiricamente o que ele teoriza é mais útil do que um texto que se defende.
 
 ### Butler: a performatividade como força constitutiva
 
 Butler demonstrou que a identidade é performativamente constituída pelas próprias expressões que supostamente são seus resultados. A subversão é possível através da repetição com deslocamento. Não pela recusa do performativo, mas pela sua reapropriação. O desejo projetado opera como um performativo forçado: nomeia e constitui o Outro de acordo com o enquadramento do projetor. A contraperformatividade reapropria o gesto e desloca o enquadramento.
+
+### Louis: o transfúgio de classe e o corpo que foge
+
+Édouard Louis, nascido Eddy Bellegueule numa aldeia operária do norte da França, é o caso-limite que este ensaio precisa confrontar. O corpo dissidente que sobrevive matando o eu anterior porque o território não oferece condições de composição. *Mudar: Método* (*Changer: méthode*, 2021) e *O Fim de Eddy* (*En finir avec Eddy Bellegueule*, 2014) não são teoria sobre o desejo projetado. São a experiência vivida do mecanismo em cada célula. O relato de uma fuga que ilumina, pela ausência, as condições que este ensaio propõe construir.
+
+**O eu falso como imperativo territorial.** Louis vive o diagnóstico de Winnicott transposto para a classe operária. A masculinidade na aldeia não era escolha identitária: era condição de pertença. A criança Eddy repetia para si "hoje eu vou ser um durão". Isso é, na gramática deste ensaio, o eu falso sendo instalado não pela díade familiar mas pelo ambiente institucional inteiro: a escola que humilha quem é diferente, a rua que pune quem não se conforma, a fábrica como horizonte único. A complacência de Winnicott tem aqui rosto, classe e sexualidade. A conexão com a periferia brasileira é direta. O mapa etiológico do capítulo I, onde a falha primária não é da díade mãe-bebê mas das instituições que aparecem na vida cotidiana como violência difusa, encontra em Louis a confirmação empírica numa outra geografia. O mecanismo é o mesmo. O sotaque muda, a estrutura não.
+
+**A ambitio na díade familiar.** O pai de Eddy projeta sobre o filho o destino operário, a virilidade, a continuidade de uma linhagem. "Eu te amo na condição de que você seja o que preciso que você seja", a célula primordial do capítulo II, opera aqui com a precisão de um relógio. A homossexualidade de Eddy funciona como falha no mecanismo de replicação: o câncer social não consegue se reproduzir naquele corpo específico. O corpo gay, afeminado, dissonante, literalmente não cabe no molde. E quando o câncer não consegue se replicar, o corpo é expulso. Não por crueldade excepcional do pai. Por mecânica. A ambitio spinoziana opera na escala da díade com a mesma estrutura formal que este ensaio rastreou da família ao imperialismo. A relação cumulativa entre duas vergonhas, a vergonha de classe e a vergonha sexual, produz uma lógica de rejeição que se transforma em projeto de evasão. Não por programa político. Por reflexo de sobrevivência.
+
+**A fuga como acting out.** Louis muda o nome. Muda o rosto. Muda o corpo, os dentes, o sotaque, as amizades, a classe social. *Mudar: Método* revela cada ação consciente empreendida, com cálculo implacável, para deixar de ser quem seus natais pareciam tê-lo condenado a se tornar. Na gramática lacaniana deste ensaio, isso opera mais como acting out do que como identificação com o sintoma. Louis não integra Eddy Bellegueule. Ele o enterra. O livro é, por admissão do próprio autor, um funeral deliberado do antigo eu.
+
+Este ensaio propõe outra coisa. Que o sintoma não deve ser eliminado, mas habitado. Que a identificação com o sintoma (o nordestino que não precisa deixar de ser nordestino, o pretuguês que não é resíduo a superar) é o ato ético onde o sujeito assume seu desejo sem tentar resolvê-lo pela via da anulação. Louis faz o contrário: resolve pela anulação. E o vazio que relata ao final é exatamente o que este ensaio prediria. Quando a transformação opera por negação do sintoma (e não por identificação com ele), o sujeito conquista mobilidade mas perde composição. A potência de agir aumenta em certas direções e colapsa em outras. A ascensão social é simultaneamente triunfo e tragédia: o afastamento da família, das raízes, da história é tanto a condição da sobrevivência quanto o preço que nenhuma conquista externa preenche.
+
+Isso não invalida Louis. Ilumina a ausência. A ausência das condições coletivas que este ensaio propõe (os encontros transformadores do capítulo IX, as sete camadas do capítulo XII, os protocolos de conflito sem expurgo) que teriam permitido a Eddy Bellegueule sobreviver sem precisar morrer.
+
+**As noções comuns como prisão.** Louis vive a versão francesa de um fenômeno que este ensaio descreve pela via da cordialidade brasileira: a solidariedade de classe que simultaneamente acolhe e aprisiona. A escolha de trabalhar em vez de estudar, porque "estudar não é para nós, que somos homens de verdade", era o destino social considerado normal. A noção comum spinoziana (o cuidado mútuo da classe, a solidariedade operária) funciona como prisão quando o corpo que a habita não cabe na norma afetiva do grupo.
+
+Isso complica o argumento spinoziano de forma produtiva. O capítulo III e o capítulo IX mobilizam as noções comuns como fundamento da composição política. Louis demonstra que noções comuns não são automaticamente libertadoras. Podem ser noções comuns de dominação: propriedades reais compartilhadas que incluem a homofobia, o machismo, a rigidez dos papéis de gênero. Quando as propriedades compartilhadas reproduzem o mecanismo de projeção, a composição que delas resulta diminui a potência de agir em vez de ampliá-la. A qualificação teórica que Louis exige é precisa: a composição só amplia potência quando as propriedades compartilhadas não são, elas mesmas, vetores do desejo projetado. As noções comuns precisam ser avaliadas pelo critério composicional (amplia ou diminui?) e não aceitas como boas apenas por serem comuns.
+
+**Contracondutas individuais e desterritorializantes.** As contracondutas que este ensaio descreve no capítulo V (o coco de roda, o maracatu, a moeda social, a ocupação de terra) são coletivas e territorializadas. As de Louis são individuais e desterritorializantes: o teatro, a leitura, a École Normale Supérieure. Louis procurava espaços seguros onde a masculinidade compulsória não estava. Esses espaços eram sempre fora do território. A biblioteca era a porta de saída para um mundo onde ele podia existir.
+
+A diferença não é de valor. É de condição. Louis coloca uma questão que este ensaio pode e deve absorver: e quando o território é tão hostil que a contraconduta exige deserção? Nem todo corpo consegue transformar a cordialidade que domina em cordialidade que compõe a partir de dentro. Alguns corpos só sobrevivem fugindo. A ética do desejo que propõe condições coletivas de encontro precisa reconhecer que, enquanto essas condições não existem, a fuga individual não é traição ao coletivo. É sobrevivência. E a sobrevivência tem precedência ontológica: o conatus, antes de ser programa político, é esforço de perseverar no próprio ser.
+
+**O corpo que foge e o corpo vibrátil.** A tensão mais produtiva entre Louis e este ensaio opera aqui. Rolnik propõe o corpo vibrátil: a capacidade de ser afetado pelo que o sistema de defesa identifica como ameaça e de deixar que esse afeto produza transformação em vez de proteção. Louis faz o oposto. Não se deixa atravessar. Se blinda. Se reconstrói. Se reinventa como defesa. O método de Louis é construção de persona, não vibração. Onde Rolnik descreve um corpo que se reorganiza a partir do encontro perturbador, Louis descreve um corpo que se fabrica contra o encontro. A armadura é o método.
+
+E no entanto. O ato de escrever *Mudar: Método*, de retornar ao passado, nomear a dor, expor o mecanismo com precisão cirúrgica, é precisamente o gesto de corpo vibrátil que a vida concreta de Louis não pôde ser. A escrita faz o que o corpo não conseguiu fazer em tempo real: ser afetado sem ser destruído. A investigação autobiográfica é sempre o relato de uma transformação interna do narrador; o gesto de escrita opera um corte que inaugura uma diferença entre o passado e o presente. Louis, ao escrever, se deixa atravessar pelo encontro que a vida precisou blindar. A escrita é o corpo vibrátil tardio. O que chega depois da sobrevivência, quando o corpo já está seguro o suficiente para vibrar.
+
+**VP3: o livro como operação ética.** *Mudar: Método* é, inteiro, uma operação da Proposição 3 da Parte V da Ética de Spinoza: um afeto que é paixão deixa de ser paixão quando dele formamos uma ideia clara e distinta. Louis transforma paixão (vergonha, ódio, medo, desejo de fuga, vazio) em ideia clara e distinta. Cada capítulo do livro é a conversão de uma experiência opaca em mecanismo legível. O livro não é a fuga. O livro é a compreensão da fuga. E compreender é já agir de outro modo.
+
+A convergência com a Coda deste ensaio é precisa. Louis é o artista da fome de Kafka: o sujeito que converteu a própria destruição em obra, a autoengenharia em espetáculo de sobrevivência. Mas a escrita como VP3 é já o gesto da pantera: a alegria despretensiosa de quem compreende o que viveu e, ao compreender, age de outro modo. A passagem de uma a outra não é automática nem garantida. Mas é possível. E a prova de que é possível está no próprio livro que a opera.
+
+**Foucault, Bourdieu, Eribon: o transfugismo como categoria.** A transformação de Louis é uma operação radical das tecnologias do eu que Foucault descreve no capítulo V deste ensaio. Louis não apenas cuida de si: se fabrica. A diferença com o cuidado de si greco-romano é que Louis opera sob coerção. A fabricação de si é condição de sobrevivência, não exercício de liberdade. O *epimeleia heautou* pressupõe um sujeito que escolhe constituir-se; Louis é um sujeito que precisa constituir-se para não ser destruído. A soberania do gesto é comprometida pela necessidade. A questão foucaultiana que o próprio Foucault não desenvolveu plenamente: as práticas de liberdade podem existir onde a alternativa é a destruição?
+
+Pierre Bourdieu, que Louis estudou na École Normale Supérieure e que informa toda a sua obra, fornece o conceito que faltava para nomear o que Louis faz: a reengenharia do habitus. O habitus é o corpo que carrega classe. Sotaque, postura, dentes, gestos, gostos, modos de olhar: são a classe inscrita no corpo antes de qualquer decisão consciente. A transformação de Louis é literalmente a alteração deliberada do que estava inscrito sem sua permissão. O habitus de classe é, na gramática deste ensaio, uma forma de eu falso coletivamente instalado. Winnicott o descreveu na escala clínica. Bourdieu o descreveu na escala sociológica. Louis o viveu e o desinstalou. Com o preço que a desinstalação cobra.
+
+Didier Eribon, mentor de Louis e autor de *Retorno a Reims* (*Retour à Reims*, 2009), é o precedente intelectual do transfugismo como categoria analítica. Eribon articula classe e sexualidade como duas vergonhas que se reforçam mutuamente: a vergonha de ser gay obriga à fuga da classe operária homofóbica; a fuga de classe produz a vergonha de ter abandonado os seus. O duplo vínculo é estrutural, não pessoal. Louis radicaliza o gesto de Eribon: onde Eribon analisa, Louis opera. Transforma a análise em método. E paga o preço que o método cobra.
+
+Annie Ernaux, a outra grande transfuge da literatura francesa, oferece o contraponto. Em *O Lugar* (*La Place*) e *Os Anos* (*Les Années*), Ernaux habita a vergonha de classe como material literário. Não foge dela: a transforma em objeto de escrita sem tentar eliminá-la. A diferença entre Ernaux e Louis é a diferença entre dois modos de relação com o sintoma. Ernaux está mais próxima da identificação com o sintoma que este ensaio propõe: assume a marca sem apagá-la, faz do ch'ixi de Rivera Cusicanqui o método literário. Louis está mais próximo do acting out: converte a marca em combustível de mutação. Ambos produzem obra. Ambos sobrevivem. O custo subjetivo é diferente.
+
+**Han e a autoexploração como fuga.** A autoengenharia de Louis é uma forma extrema do sujeito do desempenho que Han descreve no capítulo II deste ensaio: o sujeito que se torna projeto de si mesmo, simultaneamente explorador e explorado no mesmo corpo. Mas com uma diferença crucial que complica Han. Para o sujeito do desempenho que Han diagnostica, a autoexploração é sem saída: produz depressão, burnout, o "não-mais-poder-poder". Para Louis, a autoexploração é traumática mas produz mobilidade real. O preço não é a depressão terminal: é o vazio de quem já pode tudo e não pertence a nada. A liberdade paradoxal de Han (quanto mais se cobra, mais livre se sente) tem em Louis uma variante que Han não previu: a autoexploração como única via de escape da violência de classe. Louis não se autoexplora porque o discurso capitalista capturou seu conatus. Se autoexplora porque a alternativa é a destruição pelo desejo projetado de um território inteiro.
+
+A distinção importa para este ensaio porque revela que a autoexploração não é fenômeno monolítico. Existe a autoexploração do sujeito do desempenho (capturado pelo capital, sem horizonte de escape) e a autoexploração do transfúgio (que usa as próprias ferramentas da dominação como alavanca de fuga). A segunda não é menos destrutiva. Mas é estratégica de uma forma que a primeira não é. E o que permite distingui-las é exatamente o que Louis faz ao escrever: a operação de VP3 que converte a paixão em ideia clara e distinta.
+
+**A lacuna que Louis ilumina.** *Mudar: Método* coloca o problema que a Ética do Desejo pode e deve desenvolver: o custo subjetivo do transfugismo como única via de sobrevivência para corpos dissidentes em territórios onde o desejo projetado é totalizante. Este ensaio propõe condições de possibilidade, não programa. E propõe que essas condições sejam construídas coletivamente, no território. Louis é a prova de que, na ausência dessas condições, o sujeito é forçado a se autoengenheirar sozinho. E o preço é o vazio que nenhuma conquista externa preenche.
+
+A Comunidade-Nação que este ensaio propõe nas sete camadas, da Rua ao País, é, entre outras coisas, a tentativa de criar as condições para que nenhum Eddy Bellegueule precise matar a si mesmo para sobreviver. A cozinha comunitária da Camada 7, a escola problematizadora da Camada 5, os protocolos de conflito sem expurgo da federação transversal: são a resposta institucional à solidão de Louis. Não porque prometam que todo corpo dissidente será acolhido. Mas porque criam as condições (materiais, afetivas, organizativas) para que o acolhimento seja possível. E para que a fuga, quando aconteça, não precise ser total. Não precise ser a morte do eu anterior. Não precise cobrar o preço que Louis pagou.
 
 ### Rancière, Glissant, hooks, Gramsci
 
@@ -388,6 +444,206 @@ A organização territorial da Comunidade-Nação segue os critérios que a expe
 
 **Camada 7 — A Rua / O Ponto de Moradia Coletiva:** lavanderias comunitárias, cozinhas solidárias, hortas de quintal, cuidados autogestionados. É aqui que os encontros transformadores do capítulo IX acontecem no cotidiano. É a célula da vida comum que o capitalismo atomizou e que a Comunidade-Nação precisa reconstituir.
 
+Segue detalhamento:
+
+---
+
+_Camada 1 — O País_
+
+*A membrana e o δ coletivo*
+
+O País é a condição de possibilidade das seis camadas seguintes. Não porque o Estado-Nação seja a forma política final ou desejável, mas porque, nas condições concretas do capitalismo dependente, a soberania nacional é o piso sem o qual toda cooperação interna é vulnerável ao colapso externo. O conceito operativo é o δ (fator de desconto) da teoria dos jogos: sem soberania, o horizonte temporal coletivo colapsa. Quem não sabe se amanhã haverá moeda, infraestrutura ou território não coopera a longo prazo. A soberania eleva o δ. E δ elevado é condição matemática da cooperação iterada.
+
+*Soberania como função, não como fetiche*
+
+A soberania que esta camada exige não é o nacionalismo burguês que celebra a bandeira enquanto entrega o subsolo. É soberania funcional: controle sobre as variáveis que determinam se as camadas inferiores podem existir.
+
+**Soberania monetária e financeira.** A capacidade de emitir moeda, regular fluxos de capital e financiar infraestrutura sem dependência do mercado de títulos em dólar. Sem isso, toda política social é vulnerável a um ciclo de alta de juros no Federal Reserve. A experiência argentina demonstra: não há política redistributiva sustentável sem controle cambial e capacidade fiscal soberana. O Banco Palmas opera em moeda social local precisamente porque a moeda nacional já está parcialmente capturada pelo circuito financeiro global. A Camada 1 protege as moedas sociais da Camada 7 garantindo que a moeda nacional que as referencia não colapse sob pressão especulativa.
+
+- **Soberania alimentar e energética.** A dependência de insumos importados (fertilizantes, sementes transgênicas, diesel) torna a produção agrícola da Camada 2 vulnerável a sanções, flutuações de preço e condicionamentos geopolíticos. O Brasil tem as condições biofísicas para soberania alimentar e energética completa. O que impede é a estrutura produtiva orientada à exportação de commodities. A reforma agrária da Camada 2 não se sustenta sem política agrícola nacional que priorize mercado interno e diversificação de matrizes.
+- **Soberania técnica e comunicacional.** O episódio da derrubada das contas de Jones Manoel pelo Meta em 2025 é a prova empírica: sem infraestrutura de comunicação própria, toda construção de consciência política está vulnerável a decisão unilateral de corporação estrangeira. Isso implica: backbone de internet com pontos de troca (IXPs) distribuídos, plataformas federadas (ActivityPub, Matrix), satélites de comunicação sob controle público, e formação técnica massiva em segurança da informação. O departamento de hackers como função estratégica nacional, não apenas organizativa.
+- **Soberania militar e de inteligência.** A questão mais difícil e que o ensaio original deliberadamente não desenvolve em detalhe. Qualquer construção popular que ameace interesses do capital transnacional enfrentará, em algum momento, violência organizada. A história da América Latina é uma enciclopédia de golpes, assassinatos e invasões contra projetos soberanos. A Camada 1 precisa de capacidade dissuasória que torne a intervenção custosa. Isso não significa militarismo. Significa que a questão da defesa não pode ser terceirizada para as Forças Armadas como estão constituídas (historicamente alinhadas ao imperialismo) nem ignorada como se a boa vontade internacional fosse suficiente.
+
+*A relação com o imperialismo: os três jogos simultâneos*
+
+O País joga simultaneamente três jogos com as potências imperiais:
+
+- **Jogo 1 — Comercial:** o Brasil como exportador de commodities está inserido em cadeias globais de valor que extraem mais-valia pelo mecanismo da troca desigual (Marini). A transição da Camada 1 é gradual: diversificação produtiva, agregação de valor interno, redirecionamento do comércio para o Sul Global. Não ruptura abrupta que provoque retaliação antes que as condições internas estejam construídas.
+- **Jogo 2 — Financeiro:** a dívida pública denominada em moeda estrangeira e o regime de metas de inflação são mecanismos de disciplinamento externo. A transição exige: auditoria cidadã da dívida, controle de capitais progressivo, construção de reservas em moedas diversificadas, e desenvolvimento de sistemas de pagamento alternativos ao SWIFT.
+- **Jogo 3 — Militar e informacional:** presença de bases, acordos de inteligência, dependência de sistemas de armas e de plataformas digitais. A transição é a mais lenta e a mais perigosa. Exige acúmulo de capacidade técnica interna antes de qualquer ruptura formal.
+
+*Ostrom na escala nacional*
+
+O oitavo princípio de Ostrom (governança em múltiplas camadas para sistemas aninhados) é a arquitetura. A Camada 1 não governa as seis seguintes. Produz as condições para que elas se autogovernem. A distinção spinoziana potentia/potestas opera aqui: o Estado soberano existe para que a potência constituinte da multidão encontre suas formas próprias de expressão. Quando o Estado captura a potência em vez de protegê-la, a Camada 1 se tornou o inimigo. O design democrático spinoziano na escala nacional é o conjunto de instituições que minimizam essa captura: separação de poderes real (não formal), mecanismos de revogação de mandato, transparência fiscal radical, e participação direta nas decisões estratégicas (política monetária, energética, militar).
+
+---
+
+_Camada 2 — A Unidade Territorial Viva (Bacia, Bioma, Cadeia)_
+
+*Contra a divisão administrativa*
+
+As regiões do IBGE são artefatos burocráticos herdados do Estado colonial-desenvolvimentista. Não correspondem às dinâmicas reais de reprodução da vida. A Zona da Mata de Pernambuco (economia canavieira, latifúndio secular, força de trabalho negra descendente de escravizados) e o Agreste (economia têxtil, pequena propriedade, semiárido, polo de confecção de Caruaru-Santa Cruz-Toritama) são mundos diferentes que a divisão estadual coloca na mesma unidade. Colocá-las sob a mesma administração apaga o que a experiência concreta revelou como distinção estratégica.
+
+A Unidade Territorial Viva se organiza por três critérios sobrepostos que a experiência dos movimentos identificou como estrategicamente determinantes:
+
+- **Bacias hidrográficas.** A água determina o conflito. Quem controla a água controla a produção e a reprodução da vida. A transposição do São Francisco não é apenas obra de engenharia: é redesenho de poder territorial. A bacia é a unidade natural de gestão de recursos hídricos, e deveria ser a unidade de planejamento territorial. As experiências de comitês de bacia no Brasil (Lei 9.433/1997) fornecem o esqueleto institucional, mas precisam ser radicalmente democratizadas. Hoje são espaços capturados por grandes usuários (irrigantes, hidrelétricas, empresas de saneamento).
+- **Biomas.** A Caatinga exige formas de produção e reprodução radicalmente diferentes do Cerrado ou da Mata Atlântica. O bioma determina o que pode ser cultivado, como a água é manejada, quais são os ciclos produtivos possíveis. A agroecologia que funciona na Zona da Mata não é a mesma que funciona no Sertão. Comunidades quilombolas e indígenas já operam por essa lógica há séculos. O conhecimento está lá. A Camada 2 o torna legível sem extrair.
+- **Cadeias produtivas.** O polo têxtil do Agreste (Santa Cruz do Capibaribe, Toritama, Caruaru) é uma cadeia produtiva que organiza a vida de centenas de milhares de famílias. A cadeia do coco no litoral nordestino, a cadeia da mandioca no Recôncavo baiano, a cadeia do açaí na Amazônia: são os circuitos reais de produção e troca que a Camada 2 precisa articular em cooperativas.
+
+*A reforma agrária como fundação*
+
+Sem reforma agrária, não há Camada 2. O Brasil tem a segunda maior concentração fundiária do mundo. O índice de Gini da terra é 0,73. Menos de 1% dos proprietários controlam quase 50% da área rural. A reforma agrária que a Camada 2 exige não é a reforma de mercado do Banco Mundial (que distribui títulos individuais transformando camponeses em devedores). É a reforma estrutural que o MST pratica: ocupação, acampamento, assentamento, cooperativa. Desconcentração de terra como condição material da desconcentração de poder.
+
+O MST é o precedente empírico mais sólido para esta camada: 450 mil famílias assentadas, organização por base ecológica e produtiva, escolas próprias (mais de 2 mil), cooperativas de produção e comercialização, inserção na Via Campesina internacional. A prova de que a Camada 2 não é utopia. É a descrição formalizada do que já existe.
+
+*Soberania alimentar como soberania política*
+
+A Via Campesina distingue segurança alimentar (ter comida suficiente, não importa de onde venha) de soberania alimentar (o direito dos povos de definir suas próprias políticas agrícolas e alimentares). A diferença é política: segurança alimentar é compatível com dependência; soberania alimentar não. A Camada 2 opera pela soberania: produção diversificada para mercado interno, sementes crioulas, agroecologia como paradigma produtivo, circuitos curtos de comercialização que eliminem a intermediação que captura o valor do trabalho camponês.
+
+*Krenak e a terra como sujeito*
+
+Krenak diagnostica: nos alienamos do organismo de que somos parte de maneira tão absoluta que nos sentimos autorizados a funcionar como se a Terra não existisse. A Camada 2 é o ponto onde essa alienação é confrontada materialmente. A terra não é recurso a ser explorado. É sujeito com o qual se compõe. Os territórios indígenas e quilombolas já operam por essa lógica. A Camada 2 não os incorpora. Reconhece-os como precedentes e se organiza em torno deles.
+
+---
+
+_Camada 3 — O Estado Federativo_
+
+*O Estado redesenhado, não abolido*
+
+A posição deste ensaio sobre o Estado é spinoziana, não anarquista. No Tratado Político, Spinoza é mais cauteloso do que no Spinoza de Deleuze e Negri: a potestas existe porque a potência constituinte ainda não encontrou sua forma adequada de expressão. Abolir o Estado antes que as formas da potência constituinte estejam construídas é entregar o território ao capital, que tem as suas formas organizativas prontas. O horizonte é o Estado redesenhado por instituições que minimizem a captura da potência por poucos.
+
+*O Valor de Shapley como critério de redistribuição*
+
+O Valor de Shapley (da teoria dos jogos cooperativos) é o critério matematicamente justo de distribuição dos ganhos da cooperação: cada jogador recebe a média de suas contribuições marginais a todas as coalizões possíveis. Aplicado à federação: cada Unidade Territorial Viva (Camada 2) contribui de forma diferente para o produto coletivo. O Agreste pernambucano contribui com confecção. A Amazônia contribui com regulação climática. O Pré-Sal contribui com receita petrolífera. O Valor de Shapley distribui os recursos federativos proporcionalmente à contribuição marginal real de cada território, e não pela força política de suas bancadas parlamentares (que é o critério atual, que reproduz a assimetria de poder já existente).
+
+Isso exige três condições técnicas: (a) dados públicos e auditáveis sobre a contribuição de cada território; (b) cálculo computacional do Valor de Shapley para n jogadores, o que é NP-difícil para n grande mas aproximável para partições territoriais de ordem razoável; (c) mecanismos políticos que tornem o critério vinculante, não apenas indicativo.
+
+*Democracia direta e representativa em composição*
+
+O Estado Federativo opera em dois registros simultâneos. A democracia representativa (eleições para câmaras e executivos) coexiste com a democracia direta (plebiscitos vinculantes, orçamento participativo, assembleias territoriais). A experiência do Orçamento Participativo de Porto Alegre (1989–2004) demonstrou que cidadãos comuns, quando dispõem de informação e de espaço deliberativo, tomam decisões orçamentárias tão ou mais racionais que tecnocratas. A experiência também demonstrou os limites: quando o partido que sustentava o OP perdeu o executivo, o processo foi desmontado. O que prova que a democracia direta precisa de institucionalização que a torne independente do ciclo eleitoral.
+
+*Poder Judiciário e resolução de conflitos*
+
+Os oito princípios de Ostrom incluem resolução de conflitos acessível. O sistema judiciário brasileiro é o oposto disso: caro, lento, classista, racista, geograficamente concentrado. A Camada 3 exige: justiça restaurativa como paradigma (não punitiva), mecanismos comunitários de mediação com validade legal, eleição popular de magistrados nas instâncias inferiores, e transparência radical dos processos decisórios do Judiciário.
+
+*Mídia e produção simbólica*
+
+O oligopólio midiático brasileiro (onde seis famílias controlam mais de 70% da audiência televisiva) é uma máquina de produção de consenso que opera o discurso do mestre em escala nacional: S1 que organiza o saber do espectador, recalcando a verdade da divisão social. A Camada 3 exige: regulação democrática da mídia (não censura: democratização da concessão e da propriedade), financiamento público de mídia comunitária, e soberania digital como política de Estado.
+
+---
+
+_Camada 4 — A Mesorregião / O Polo Produtivo_
+
+*Ostrom como especificação técnica*
+
+Esta é a escala onde os oito princípios de Ostrom se aplicam com máxima precisão. A mesorregião é o commons: o recurso compartilhado que precisa de governança para não ser destruído por sobreuso ou capturado por free-riders.
+
+- **Princípio 1 — Fronteiras definidas.** Quem faz parte da cooperativa, quem tem direito de uso dos recursos, quem vota. Fronteiras não excludentes mas explícitas. A experiência dos assentamentos do MST mostra que fronteiras vagas produzem conflitos de uso que minam a cooperação.
+- **Princípio 2 — Regras adaptadas localmente.** As regras de uso dos recursos no polo têxtil do Agreste não são as mesmas do polo ceramista do Recôncavo. A mesorregião produz suas próprias normas a partir da experiência concreta de quem produz e reproduz a vida ali.
+- **Princípio 3 — Participação dos afetados nas decisões.** Quem é afetado pela decisão participa da decisão. Não delegação a representantes que não vivem a consequência. Assembleias de produtores, não conselhos de notáveis.
+- **Princípio 4 — Monitoramento por membros.** A fiscalização é feita por quem faz parte, não por auditores externos. A confiança é construída pela transparência interna, não imposta por controle externo. É aqui que os dados como infraestrutura de confiança se tornam operativos: dashboards públicos de produção, comercialização e distribuição de excedentes.
+- **Princípio 5 — Sanções graduadas.** Não expulsão imediata por violação. Advertência, multa, restrição temporária, e só em último caso exclusão. O protocolo de conflito sem expurgo do ensaio original é a aplicação política deste princípio.
+- **Princípio 6 — Resolução de conflitos acessível.** Mecanismos locais, rápidos e baratos. Não tribunais distantes que levam anos para decidir.
+- **Princípio 7 — Reconhecimento externo do direito de se organizar.** A Camada 1 (País) e a Camada 3 (Estado Federativo) precisam reconhecer legalmente o direito das mesorregiões de se autogovernar. Sem isso, toda construção cooperativa é vulnerável a liminar judicial que a desmonte.
+- **Princípio 8 — Governança em múltiplas camadas.** A mesorregião não é soberana isolada. Está aninhada nas camadas superiores (Estado Federativo, País) e contém as camadas inferiores (Cidade, Bairro, Rua). Cada camada governa o que a sua escala permite e se articula com as demais.
+
+*Cooperativismo como modo de produção*
+
+A mesorregião é a escala da cooperativa de produção. Não a cooperativa de fachada (que o agronegócio usa para sonegar impostos), mas a cooperativa real: propriedade coletiva dos meios de produção, gestão democrática, distribuição de excedentes proporcional ao trabalho, e fundo de investimento coletivo. O polo têxtil do Agreste pernambucano já é, de fato, uma cadeia produtiva cooperativa informal: milhares de micro e pequenas oficinas que produzem em rede, compartilham fornecedores e comercializam em feiras coletivas (Moda Center, Parque das Feiras). O que falta é a formalização cooperativa que proteja essas relações de produção da precarização e da captura por intermediários.
+
+O Banco Palmas e os mais de 130 bancos comunitários derivados são o precedente financeiro: moeda social local que circula dentro da mesorregião, crédito produtivo sem juros extrativos, e mapeamento da economia local que torna legíveis os fluxos de valor que o sistema bancário convencional ignora.
+
+---
+
+_Camada 5 — A Cidade / O Município_
+
+*Arena da democracia direta*
+
+A cidade é a escala onde a democracia deixa de ser abstração e se torna encontro de corpos. É onde a assembleia é possível: pessoas que se olham, que reconhecem rostos, que compartilham espaço físico. A democracia direta tem limite de escala (Atenas tinha 30 mil cidadãos; Porto Alegre tinha 1,4 milhão quando implementou o OP). Acima de certo número, a participação direta exige mediações tecnológicas (plataformas de deliberação digital) que carregam seus próprios riscos de captura.
+
+*Orçamento Participativo: prova empírica e lições do fracasso*
+
+Porto Alegre (1989–2004) demonstrou empiricamente quatro coisas. Primeira: cidadãos comuns, quando informados, deliberam com racionalidade superior à dos tecnocratas, porque conhecem as prioridades do território que habitam. Segunda: a participação aumenta quando os resultados são visíveis (obras entregues nos bairros que votaram por elas). Terceira: o processo redistribui recursos para as periferias, invertendo a lógica histórica de concentração nos bairros ricos. Quarta: sem blindagem institucional, o processo é desmontável por mudança eleitoral.
+
+A lição do fracasso é tão importante quanto a prova do funcionamento: o OP de Porto Alegre foi desmontado porque dependia da vontade política do executivo municipal. A Camada 5 exige institucionalização constitucional da participação direta. Não como programa de governo: como direito constitucional que nenhum prefeito pode revogar.
+
+*Educação como prática da liberdade*
+
+A cidade é a escala onde a educação problematizadora de Freire se materializa. A escola municipal, o CRAS, a UBS, a biblioteca pública: são os pontos de contato onde o Estado encontra o cidadão. Quando esses pontos operam pela lógica bancária (depositar conhecimento/saúde/assistência sobre receptáculos passivos), produzem eu falso institucionalizado. Quando operam pela lógica problematizadora (criar condições para que o sujeito produza seu próprio saber sobre sua própria condição), produzem potência.
+
+A transformação desses pontos de contato não é apenas reforma curricular ou capacitação de profissionais. É mudança de paradigma institucional. O CAPS que diagnostica e medica sem escutar precisa se tornar espaço de escuta que eventualmente medica. A UBS sobrecarregada que atende sem presença precisa de condições materiais (profissionais suficientes, tempo de consulta adequado, infraestrutura digna) que permitam a presença. A escola que humilha o sotaque nordestino precisa de pedagogia que parta desse sotaque como riqueza, não como erro a corrigir.
+
+*Cultura como contraconduta*
+
+A cidade é onde as contracondutas foucaultianas encontram público. O coco de roda na praça, o maracatu na rua, o manguebeat no bar, o slam de poesia na periferia, o grafite no muro, o podcast que ensina Marx em Borborema: são práticas que recusam a condução do desejo pelo capital sem precisar destruir todas as instituições para isso. A política cultural municipal não é o braço festivo do governo. É infraestrutura de contraconduta: financiamento público de produção cultural autônoma, espaços públicos equipados para encontro, e proteção institucional contra a criminalização das expressões culturais periféricas.
+
+---
+
+_Camada 6 — O Bairro / O Território_
+
+*A escala do rosto*
+
+O bairro é onde a abstração do social ganha rosto humano. É onde se sabe quem está doente, quem perdeu emprego, quem está em risco. É a escala da solidariedade concreta: a vizinha que cuida, o mutirão que constrói, a rede de proteção informal que funciona antes e depois de qualquer política pública. A cordialidade que compõe, no sentido spinoziano, opera nesta escala.
+
+*Legibilidade para o povo, não para o Estado*
+
+James Scott (_Seeing Like a State_) demonstrou que a legibilidade — a capacidade de tornar uma população legível, contável, mapeável — é historicamente instrumento de controle estatal. O cadastro, o censo, o mapa: ferramentas de dominação que tornam o sujeito visível para o poder que o governa.
+
+A Camada 6 inverte a lógica: legibilidade que serve ao próprio povo, não ao Estado extrator. O mapeamento coletivo do Banco Palmas (onde moradores descreveram, uns para os outros, o que tinham e o que precisavam) é o paradigma. Os dados produzidos pertencem à comunidade. São usados para planejamento local, não para vigilância ou focalização de políticas que tratam a pobreza como desvio individual.
+
+Como infraestrutura comunitária de dados, operaria nesta camada: ferramentas de coleta, processamento e visualização de dados que sejam operáveis pela própria comunidade, com governança local sobre acesso e uso. Não é o pesquisador de fora que chega, coleta, publica e vai embora. É a comunidade que produz dados sobre si mesma para tomar decisões sobre si mesma.
+
+*Saúde territorial*
+
+A saúde mental e física da periferia não se resolve no consultório individual. Resolve-se (quando se resolve) na escala do território: agentes comunitários de saúde que conhecem cada família, equipes de saúde da família enraizadas no bairro, hortas comunitárias que alimentam e criam vínculo, espaços de escuta coletiva que nomeiam o sofrimento antes de medicá-lo. A Estratégia Saúde da Família (ESF) é o precedente institucional mais próximo: 45 mil equipes em todo o Brasil, cobrindo mais de 60% da população. O que falta é condição material (equipes completas, infraestrutura adequada, remuneração digna) e paradigma (saúde como composição de potência, não como ausência de doença).
+
+*Segurança como cuidado, não como policiamento*
+
+A segurança pública na periferia é sinônimo de violência estatal. A polícia que aborda antes de perguntar. A operação que invade, mata e justifica depois. A Camada 6 propõe inversão: segurança como cuidado territorial. Mediação comunitária de conflitos, justiça restaurativa, redes de proteção para mulheres e LGBTQIA+ em situação de violência doméstica, e desmilitarização progressiva do policiamento. A experiência das Unidades de Polícia Pacificadora (UPPs) no Rio de Janeiro demonstrou o que não fazer: ocupação militar disfarçada de política social, sem participação comunitária, sem transformação das condições estruturais que produzem violência.
+
+---
+
+_Camada 7 — A Rua / O Ponto de Moradia Coletiva_
+
+*A célula da vida comum*
+
+Esta é a camada onde a ética do desejo acontece ou não acontece. Não nas assembleias federativas. Não nos documentos programáticos. No cotidiano. Na lavanderia comunitária onde mulheres que antes lavavam roupa sozinhas em casa agora lavam juntas e, ao lavar, conversam, nomeiam, reconhecem. Na cozinha solidária onde a fome é enfrentada não pela caridade mas pela organização coletiva da alimentação. Na horta de quintal compartilhada entre três casas que produz o que nenhuma das três produziria sozinha. No cuidado autogestionado dos filhos que libera tempo para trabalho, estudo, organização.
+
+Esta é a escala que o capitalismo atomizou. A casa individual, a máquina de lavar individual, a cozinha individual, o cuidado individualizado dos filhos: não são conquistas de conforto. São tecnologias de isolamento que destroem a possibilidade de encontro. A Camada 7 não é nostalgia da vida comunitária pré-moderna. É a reconstituição deliberada, nas condições contemporâneas, dos espaços de encontro que o capital destruiu.
+
+*Os encontros transformadores no cotidiano*
+
+Os quatro movimentos fenomenológicos descritos no capítulo IX do ensaio — nomeação coletiva, reconhecimento, identificação de causalidade, ação emergente — acontecem nesta camada. Não como evento extraordinário. Como prática cotidiana.
+
+- **Nomeação coletiva:** na cozinha comunitária, a mulher que diz "não é que eu não sei cozinhar direito, é que o gás subiu 40% e eu não dou conta" está nomeando coletivamente uma situação que era sofrida privativamente como vergonha. O ato de nomear já transforma a relação com a situação.
+- **Reconhecimento:** as outras mulheres na cozinha reconhecem a experiência como partilhada. O sofrimento deixa de ser culpa individual e se torna diagnóstico coletivo. A depressão do sujeito que não consegue mais (Han) encontra coletivo que a acolhe e a transforma.
+- **Identificação de causalidade:** a conexão entre o preço do gás e a política de preços da Petrobras vinculada ao dólar. Entre o dólar e a política de juros do Fed. Entre o Fed e a estrutura da dependência. O singular conecta-se ao estrutural sem perder a singularidade.
+- **Ação emergente:** a cozinha comunitária não é apenas sobrevivência. É a ação que emerge da compreensão. Não foi prescrita por linha partidária. Nasceu do encontro entre necessidade material e potência coletiva de agir.
+
+*Economia do cuidado e reprodução social*
+
+O trabalho reprodutivo (cuidado de crianças, idosos, doentes; alimentação; limpeza; manutenção emocional dos vínculos) é a base invisível sobre a qual toda a economia produtiva se sustenta. E é realizado majoritariamente por mulheres negras, sem remuneração ou reconhecimento. A Camada 7 torna esse trabalho visível e coletivo: lavanderias comunitárias, cozinhas coletivas, creches autogestionadas, rodízios de cuidado. Não para aliviar as mulheres individualmente (embora faça isso), mas para transformar a reprodução social de trabalho privado invisível em prática coletiva reconhecida como fundamento da economia.
+
+*Tecnologias de encontro*
+
+A Camada 7 exige infraestrutura física e tecnológica mínima: espaços cobertos para reunião e atividades coletivas, cozinhas equipadas para produção comunitária, lavanderias compartilhadas, conexão à internet de qualidade, e ferramentas digitais de coordenação que não dependam de plataformas corporativas. Um grupo de Matrix para coordenar o rodízio de cuidado das crianças. Uma planilha colaborativa para o planejamento da cozinha solidária. Um mapa digital do que cada casa produz e do que precisa. Ferramentas simples, operáveis por quem não tem formação técnica, rodando em infraestrutura própria.
+
+*A rua como espaço político*
+
+A rua não é passagem entre a casa e o trabalho. É espaço político. O coco de roda acontece na rua. A feira acontece na rua. A assembleia popular acontece na rua. A brincadeira das crianças acontece na rua. A privatização do espaço público (condomínios fechados, shoppings, ruas sem calçada, praças sem banco) é tecnologia de destruição da Camada 7. A reconquista da rua como espaço de encontro é ato político: ocupar com o corpo o espaço que o capital quer vazio ou vigiado.
+
+---
+
+_A articulação entre as camadas_
+
+As sete camadas não são hierarquia onde a superior comanda a inferior. São sistema aninhado onde cada camada produz as condições de possibilidade da outra.
+
+A Rua (7) produz os encontros que geram consciência e organização. O Bairro (6) dá escala e legibilidade a esses encontros. A Cidade (5) oferece a arena institucional da democracia direta. A Mesorregião (4) organiza a produção cooperativa. O Estado Federativo (3) redistribui os recursos com justiça matemática. A Unidade Territorial Viva (2) enraíza a produção no bioma e na bacia. O País (1) protege tudo isso do imperialismo.
+
+A direção do fluxo é de baixo para cima: a potência nasce na Rua e se acumula até a escala nacional. A direção da proteção é de cima para baixo: o País protege as condições que permitem à Rua existir. Quando o fluxo se inverte (o Estado prescreve o que a Rua deve fazer), a Comunidade-Nação se transforma em Estado-Nação convencional e reproduz o mecanismo que afirmava combater.
+
+A transversalidade de Guattari é o princípio que atravessa todas as camadas: máxima comunicação entre níveis diferentes, sem hierarquia vertical que sufoca nem horizontalidade que dispersa sem acumular. A federação não é partido. Não é frente. É tecido. Cada fio (cada camada, cada coletivo, cada experiência) mantém sua consistência própria enquanto se entrelaça com os demais. O tear está armado. Os fios estão prontos.
+
 ### A relação com o Estado: três registros simultâneos
 
 A arquitetura acima não pode pressupor que o Estado vai tolerar sua construção. A história das experiências populares no Brasil é a história de acampamentos queimados, lideranças assassinadas, liminares judiciais, cortes de crédito, criminalização. A Comunidade-Nação precisa de uma teoria da relação com o Estado que opere em três registros ao mesmo tempo.
@@ -417,9 +673,9 @@ Esses não são exemplos para ilustrar uma tese. São demonstrações empíricas
 ### Conjuntura, organização e horizonte
 
 > "O capitalismo nos controla nos melancolizando." — Walter Benjamin, via Heribaldo Maia
-
+>
 > "A possibilidade é sofrermos melhor juntos — sofrer não mais em depressão, mas sofrer em ação, em agência, em potência de transformação." — Heribaldo Maia
-
+>
 > "Uma organização revolucionária tem de ter um departamento de hackers." — Jones Manoel
 
 ### O momento como diagnóstico
@@ -488,7 +744,7 @@ Seis princípios fundantes:
 
 **5. Inteligência coletiva soberana:** plataformas federadas (ActivityPub, Matrix, PeerTube) sem ponto único de falha corporativo. Uma organização revolucionária tem de ter um departamento de hackers. Não como metáfora: como função organizativa real. O hacker-cientista é a figura que essa função exige. Sujeito que opera nos sistemas do adversário para construir os sistemas da autonomia.
 
-**6. A forma do desejo, não apenas o conteúdo do programa:** a federação não pode ser construída por sujeitos no modo do ter. Precisa ser construída por corpos vibráteis. Que se deixam afetar pelo encontro em vez de se defender dele.
+**6. A forma do desejo, não apenas o conteúdo do programa:** a federação não pode ser construída por sujeitos no modo do ter. Precisa ser construída por corpos vibráteis. Que se deixam afetar pelo encontro em vez de se defender dele. E que sejam capazes de ira, não apenas de irritação. Han distingue: a irritação é reativa, pontual, impotente — responde ao estímulo e o alimenta. A ira "coloca definitivamente em questão o presente" e "está em condições de interromper um estado e fazer com que se inicie um novo estado." A esquerda contemporânea opera demasiado por irritação: o ciclo infinito de denúncia e indignação nas redes é reação que alimenta o algoritmo. A ocupação de terra pelo MST é ira: interrupção real do estado de coisas, não reação pontual ao estímulo. A federação precisa de sujeitos que saibam a diferença — e que cultivem a pausa interruptora que a ira exige em vez da reatividade que a irritação perpetua.
 
 ### Os próximos passos concretos
 
@@ -506,7 +762,9 @@ Seis princípios fundantes:
 
 Volto ao recreio.
 
-O moleque que me batia não era meu inimigo. Era o mensageiro de uma projeção que começou antes dele nascer e que continuaria operando depois que nós dois saíssemos daquela escola. O pai dele projetava sobre ele o que não realizou. Ele projetava sobre mim o que não podia devolver ao pai. Eu engolia a pancada e voltava para casa estudar. Convertia dor em desempenho: a forma que o sistema oferece ao corpo periférico que quer sobreviver sem quebrar.
+O moleque que me batia não era meu inimigo. Era o mensageiro de uma projeção que começou antes dele nascer e que continuaria operando depois que nós dois saíssemos daquela escola. O pai dele projetava sobre ele o que não realizou. Ele projetava sobre mim o que não podia devolver ao pai. Eu engolia a pancada e voltava para casa estudar. Convertia dor em desempenho: a forma que o sistema oferece ao corpo periférico que quer sobreviver sem quebrar. Kafka tem um nome para isso: o artista da fome. O sujeito que converte a própria destruição em espetáculo, a autodestruição em obra. É a forma extrema da autoexploração — o desempenho elevado a virtude. Funcional, mas não é o horizonte. Kafka também tem a pantera: o animal que encarna "a alegria despretensiosa da vida", corpo dotado de tudo que precisa, potência que irradia sem precisar de justificação. A ética do desejo não pode prometer a pantera. Mas pode identificar as condições que produzem artistas da fome — e recusar que o sofrimento autoimposto seja elevado a virtude.
+
+Édouard Louis é o artista da fome que encontrou a pantera na escrita. Converteu a destruição em método, a fuga em livro, o vazio em ideia clara e distinta. *Mudar: Método* é a operação de VP3 que transforma a paixão — vergonha, ódio, medo — em compreensão. O livro não é a fuga. É a compreensão da fuga. E compreender é já agir de outro modo. O que Louis demonstra é que a passagem do artista da fome à pantera não exige a abolição da dor. Exige a nomeação dela. E a nomeação, quando precisa, já é potência.
 
 Esse mecanismo, agora sei, tem nome em Spinoza. Tem estrutura em Lacan. Tem capilaridade em Foucault. Tem regime molecular em Deleuze e Guattari. Tem cor em Fanon, terra em Krenak, moeda em Banco Palmas. Tem rosto concreto em cada mãe que cria filho sozinha na Zona Norte do Recife enquanto o Estado aparece como CAPS que medica sem escutar.
 
@@ -607,6 +865,16 @@ Lênin, V. I. _Imperialismo, Fase Superior do Capitalismo_. São Paulo: Express�
 Gramsci, A. _Cadernos do Cárcere_. 6 vols. Rio de Janeiro: Civilização Brasileira, 1999–2002.
 
 Butler, J. _Problemas de Gênero_. Rio de Janeiro: Civilização Brasileira, 2003.
+
+Louis, É. _Mudar: Método_. Trad. Marília Garcia. São Paulo: Todavia, 2022.
+
+Louis, É. _O Fim de Eddy_. Trad. Marília Garcia. São Paulo: Todavia, 2018.
+
+Eribon, D. _Retorno a Reims_. Trad. Eduardo Brandão. São Paulo: Todavia, 2020.
+
+Ernaux, A. _O Lugar_. Trad. Marília Garcia. São Paulo: Fósforo, 2021.
+
+Bourdieu, P. _A Distinção_. Trad. Daniela Kern e Guilherme Teixeira. São Paulo: Edusp/Zouk, 2007.
 
 Rancière, J. _A Partilha do Sensível_. São Paulo: Editora 34, 2009.
 
