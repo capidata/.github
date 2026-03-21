@@ -152,6 +152,33 @@ async function fetchDocList() {
   }
 }
 
+async function injectMermaidDiagrams() {
+  const tags = content.querySelectorAll("mermaid[src]");
+  for (const tag of tags) {
+    const slug = tag.getAttribute("src");
+    const description = tag.getAttribute("description") || "";
+    const mmdUrl = `https://raw.githubusercontent.com/${OWNER}/${REPO}/${BRANCH}/${PATH}/diagramas/${slug}.mmd?v=${CACHE_BUSTER}`;
+    try {
+      const res = await fetch(mmdUrl);
+      if (!res.ok) continue;
+      const mmdSource = await res.text();
+      const wrapper = document.createElement("div");
+      wrapper.className = "mermaid-diagram";
+      let html = `<div class="mermaid">${mmdSource}</div>`;
+      if (description) {
+        html = `<p class="mermaid-description">${description}</p>\n${html}`;
+      }
+      wrapper.innerHTML = html;
+      tag.replaceWith(wrapper);
+    } catch {
+      continue;
+    }
+  }
+  if (typeof mermaid !== "undefined" && content.querySelector(".mermaid")) {
+    await mermaid.run({ querySelector: ".mermaid-diagram .mermaid" });
+  }
+}
+
 async function loadDoc(filename) {
   content.innerHTML =
     '<p style="color:var(--muted);font-style:italic;">carregando...</p>';
@@ -163,6 +190,7 @@ async function loadDoc(filename) {
     if (!res.ok) throw new Error(res.status);
     const md = await res.text();
     content.innerHTML = marked.parse(md);
+    await injectMermaidDiagrams();
   } catch (err) {
     content.innerHTML = "<p>Documento não encontrado.</p>";
     content.className = "index-view";
