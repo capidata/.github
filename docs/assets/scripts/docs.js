@@ -55,6 +55,16 @@ function applyTheme(theme) {
     themeDarkBtn.classList.remove("active");
   }
   localStorage.setItem("capidata-theme", theme);
+
+  // Update Mermaid theme if already loaded
+  if (typeof mermaid !== "undefined") {
+    mermaid.initialize({ theme: theme === "dark" ? "dark" : "default" });
+    // Re-render any existing diagrams
+    const diagrams = document.querySelectorAll(".mermaid");
+    if (diagrams.length > 0) {
+      mermaid.run({ querySelector: ".mermaid" });
+    }
+  }
 }
 
 themeLightBtn.addEventListener("click", () => applyTheme("light"));
@@ -175,6 +185,7 @@ async function injectMermaidDiagrams() {
     }
   }
   if (typeof mermaid !== "undefined" && content.querySelector(".mermaid")) {
+    initMermaidTheme();
     await mermaid.run({ querySelector: ".mermaid-diagram .mermaid" });
   }
 }
@@ -222,9 +233,18 @@ async function route() {
 
 window.addEventListener("hashchange", route);
 
+// Initialize Mermaid with current theme
+function initMermaidTheme() {
+  if (typeof mermaid !== "undefined") {
+    const isDarkMode = document.body.classList.contains("dark-mode");
+    mermaid.initialize({ theme: isDarkMode ? "dark" : "default" });
+  }
+}
+
 // Initialize theme, font and load docs
 initTheme();
 initFont();
+initMermaidTheme();
 showLoading();
 fetchCacheBuster().then(() =>
   fetchDocList().then(() => {

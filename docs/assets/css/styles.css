@@ -459,3 +459,8 @@ main {
     max-width: 100%;
     overflow-x: auto;
 }
+
+/* mermaid dark mode adjustments */
+body.dark-mode .mermaid-diagram .mermaid svg {
+    filter: brightness(0.9);
+}
