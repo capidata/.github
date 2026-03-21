@@ -55,6 +55,16 @@ function applyTheme(theme) {
     themeDarkBtn.classList.remove("active");
   }
   localStorage.setItem("capidata-theme", theme);
+
+  // Update Mermaid theme if already loaded
+  if (typeof mermaid !== "undefined") {
+    mermaid.initialize({ theme: theme === "dark" ? "dark" : "default" });
+    // Re-render any existing diagrams
+    const diagrams = document.querySelectorAll(".mermaid");
+    if (diagrams.length > 0) {
+      mermaid.run({ querySelector: ".mermaid" });
+    }
+  }
 }
 
 themeLightBtn.addEventListener("click", () => applyTheme("light"));
