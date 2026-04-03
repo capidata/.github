@@ -1,0 +1,182 @@
+%%{init: {'theme': 'dark', 'themeVariables': {'fontSize': '14px'}}}%%
+graph TB
+    %% ═══════════════════════════════════════════════════
+    %% 1º MOVIMENTO: DIAGNÓSTICO (Caps. I–II)
+    %% ═══════════════════════════════════════════════════
+    subgraph MOV1["<b>1º MOVIMENTO · DIAGNÓSTICO</b> (I–II)"]
+        direction TB
+        CENA["🔥 Cena original<br/>recreio periférico"]
+        DP["<b>DESEJO PROJETADO</b><br/><i>'eu te amo se você for<br/>o que preciso que seja'</i>"]
+        EU_FALSO["Eu falso<br/>(Winnicott ampliado:<br/>falha institucional,<br/>não apenas familiar)"]
+        FRACTAL["Replicação fractal<br/>díade → escola →<br/>Estado → império"]
+
+        CENA --> DP
+        DP --> EU_FALSO
+        DP --> FRACTAL
+    end
+
+    %% ═══════════════════════════════════════════════════
+    %% 2º MOVIMENTO: CINCO TRADIÇÕES (Caps. III–VIII)
+    %% ═══════════════════════════════════════════════════
+    subgraph MOV2["<b>2º MOVIMENTO · CINCO TRADIÇÕES FILOSÓFICAS</b> (III–VIII)"]
+        direction TB
+        SP["<b>III · Spinoza</b><br/>conatus (essência = perseverar)<br/>ambitio (projeção afetiva)<br/>potentia vs potestas<br/>VP3: paixão compreendida → ação<br/>cordialidade que compõe"]
+        LA["<b>IV · Lacan</b><br/>desejo do Outro<br/>4 discursos (mestre ↔ analista)<br/>identificação com o sintoma<br/>acting out como mecanismo regular<br/>discurso capitalista"]
+        FO["<b>V · Foucault</b><br/>assujettissement (duplo sentido)<br/>governamentalidade neoliberal<br/>tecnologias do eu<br/>biopolítica · parresia<br/>contracondutas · potência negativa"]
+        DG["<b>VI · Deleuze & Guattari</b><br/>desejo = produção (não falta)<br/>CsO vs organismo<br/>rizoma vs árvore<br/>microfascismo molecular<br/>devir-minoritário<br/>edipianização como captura"]
+        AC["<b>VII · Pensamento anticolonial</b><br/>Freire: educação bancária → libertadora<br/>Fanon: humanidade nova<br/>Rolnik: corpo vibrátil<br/>Rivera Cusicanqui: ch'ixi<br/>Lélia Gonzalez: amefricanidade<br/>Krenak: terra como sujeito"]
+        IMP["<b>VIII · Imperialismo</b><br/>Lênin + Luxemburg: necessidade estrutural<br/>Marini: superexploração do trabalho<br/>Mbembe: necropolítica (δ → 0)<br/>Santner: undeadness → bênçãos de mais vida<br/>3 violências simultâneas no corpo periférico"]
+
+        SP ~~~ LA
+        LA ~~~ FO
+        FO ~~~ DG
+        DG ~~~ AC
+        AC ~~~ IMP
+    end
+
+    FRACTAL --> MOV2
+
+    SP & LA & FO & DG & AC --> CONV["<b>CONVERGÊNCIA ESTRUTURAL</b><br/>Cinco nomes para o mesmo mecanismo:<br/>ambitio · desejo do Outro ·<br/>assujettissement · edipianização ·<br/>aderência ao opressor"]
+
+    %% ═══════════════════════════════════════════════════
+    %% 3º MOVIMENTO: CONDIÇÕES (Caps. IX–XIII)
+    %% ═══════════════════════════════════════════════════
+    subgraph MOV3["<b>3º MOVIMENTO · CONDIÇÕES DE POSSIBILIDADE</b> (IX–XIII)"]
+        direction TB
+        NAO_PROG["Condições, não programa<br/>(discurso do analista, não do mestre)<br/>prescrever liberta = contradição"]
+        COMUM["<b>O comum como invenção</b><br/>Viveiros de Castro: multinaturalismo<br/>noções comuns = mundo inventado no encontro<br/>de la Cadena: incomuns (aliança entre ontologias)<br/>Federici: trabalho reprodutivo como fundamento<br/>Tsing/Sheldrake/Margulis: simbiose em ruínas"]
+        FENOM["<b>4 movimentos fenomenológicos</b><br/>① Nomeação coletiva<br/>② Reconhecimento<br/>③ Identificação de causalidade<br/>④ Ação emergente"]
+        CV["<b>Corpo vibrátil + infraestrutura somática</b><br/>Rolnik: afetar-se pelo que ameaça<br/>Menakem: 5 âncoras (trauma no corpo)<br/>dor limpa vs dor suja<br/>Goodman: conatus vibracional<br/>Weheliye/Spillers: carne ≠ corpo<br/>Lefebvre: ritmoanálise · euritmia composicional"]
+        LOUIS["<b>Louis: o transfúgio</b> (X–XI)<br/>acting out como sobrevivência<br/>VP3 pela escrita (pantera tardia)<br/>noções comuns como prisão<br/>quando território = hostilidade total"]
+        JOGOS["<b>Matemática da cooperação</b> (XIII)<br/>Dilema do Prisioneiro → cooperação possível<br/>δ (fator de desconto) = poder temporal<br/>Ostrom: 8 princípios de design<br/>Shapley: distribuição justa<br/>Prigogine: conatus como estrutura dissipativa<br/>Kauffman: possível adjacente<br/>Bejan: hierarquia construtal vs extrativa"]
+
+        NAO_PROG --> COMUM
+        COMUM --> FENOM
+        NAO_PROG --> CV
+        CV --> LOUIS
+        FENOM --> JOGOS
+    end
+
+    CONV --> NAO_PROG
+    IMP --> JOGOS
+
+    %% ═══════════════════════════════════════════════════
+    %% 4º MOVIMENTO: ARQUITETURA (Caps. XIV–XVIII)
+    %% ═══════════════════════════════════════════════════
+    subgraph MOV4["<b>4º MOVIMENTO · COMUNIDADE-NAÇÃO EM 7 CAMADAS</b> (XIV–XVIII)"]
+        direction TB
+
+        subgraph MACRO["Escala macro · proteção"]
+            D1["<b>C1 · PAÍS</b><br/>membrana anti-imperialista<br/>soberania monetária, alimentar,<br/>técnica, militar<br/>eleva δ coletivo"]
+            D2["<b>C2 · UNIDADE TERRITORIAL</b><br/>bacia + bioma + cadeia<br/>reforma agrária estrutural<br/>soberania alimentar<br/>terra como sujeito (Krenak)<br/>rio Capibaribe como ator político"]
+            D3["<b>C3 · ESTADO FEDERATIVO</b><br/>medo distribuído (Spinoza TP)<br/>Shapley como redistribuição<br/>SUS como precedente<br/>revogação de mandato"]
+        end
+
+        subgraph MESO["Escala meso · articulação"]
+            D4["<b>C4 · MESORREGIÃO</b><br/>cooperativas de municípios<br/>Ostrom 8 princípios<br/>Banco Palmas · Via Campesina<br/>transversalidade (Guattari)"]
+            D5["<b>C5 · CIDADE</b><br/>democracia direta<br/>Orçamento Participativo<br/>educação problematizadora (Freire)<br/>cultura como contraconduta"]
+        end
+
+        subgraph MICRO["Escala micro · encontro"]
+            D6["<b>C6 · BAIRRO</b><br/>escala do rosto<br/>legibilidade para o povo<br/><b>opacidade soberana</b> (Glissant/Browne/Blas)<br/><b>transparência forense</b> (Weizman)<br/>saúde territorial (ESF)"]
+            D7["<b>C7 · RUA</b><br/>cozinha solidária · lavanderia<br/>horta · cuidado autogestionado<br/>os 4 movimentos no cotidiano<br/>economia do cuidado visível (Federici)"]
+        end
+
+        D1 --> D2 --> D3 --> D4 --> D5 --> D6 --> D7
+    end
+
+    JOGOS --> D1
+    FENOM --> D7
+
+    D7 -. "⬆ POTÊNCIA brota de baixo" .-> D1
+    D1 -. "⬇ PROTEÇÃO vem de cima" .-> D7
+
+    %% ═══════════════════════════════════════════════════
+    %% Práxis (Cap. XVIII)
+    %% ═══════════════════════════════════════════════════
+    subgraph PRAXIS["<b>PRÁXIS</b> (XVIII)"]
+        REG1["Registro 1:<br/>uso sem dependência"]
+        REG2["Registro 2:<br/>preparação p/ repressão"]
+        REG3["Registro 3:<br/>disputar o Estado"]
+        CELULAS["Células vivas:<br/>Banco Palmas · MST ·<br/>Quilombos · cozinhas solidárias"]
+
+        REG1 ~~~ REG2 ~~~ REG3
+        CELULAS
+    end
+
+    MOV4 --> PRAXIS
+
+    %% ═══════════════════════════════════════════════════
+    %% 5º MOVIMENTO: CONJUNTURA E SUJEITOS (Caps. XIX–XXI)
+    %% ═══════════════════════════════════════════════════
+    subgraph MOV5["<b>5º MOVIMENTO · CONJUNTURA E SUJEITOS</b> (XIX–XXI)"]
+        direction TB
+        CONJ["Conjuntura 2026:<br/>entre-lugar brasileiro<br/>bolsonarismo molecular<br/>tecnofeudalismo"]
+        REVS["3 revoluções que permanecem:<br/>Cuba (soberania + preço)<br/>Vietnã (cruzar o rio sentindo pedras)<br/>China (escala do possível)<br/><i>Onde criou condições? Onde prescreveu?</i>"]
+        HC["<b>Hacker-cientista</b><br/>joga no sistema do adversário<br/>constrói autonomia<br/>ira (interrompe) ≠ irritação (alimenta)<br/><b>cosmotécnica pernambucana</b><br/>(Hui · Vieira Pinto · Santos · Dagnino)<br/>infraestrutura relacional (Sarr/Escobar)"]
+        FED["<b>Federação transversal</b><br/>① Autonomia compositiva<br/>② Acordo sobre inimigo antes do programa<br/>③ Dados como infraestrutura de confiança<br/>④ Protocolos de conflito sem expurgo<br/>⑤ Inteligência coletiva soberana<br/><b>Plasticidade</b> (Malabou): 3 modos de autocorreção<br/><b>Incompletude</b> (Harney/Moten): recusar versão final"]
+
+        CONJ --> REVS
+        REVS --> HC
+        HC --> FED
+    end
+
+    PRAXIS --> CONJ
+
+    %% ═══════════════════════════════════════════════════
+    %% CODA
+    %% ═══════════════════════════════════════════════════
+    FED --> CODA_NODE["<b>CODA</b><br/>A dor que não se privatiza<br/><i>Transforme sua dor em potência,<br/>o tempo todo, sempre.</i><br/><br/>artista da fome → pantera<br/>a passagem é possível<br/>a prova está no livro que a opera"]
+
+    %% ═══════════════════════════════════════════════════
+    %% CRITÉRIO CENTRAL AMPLIADO (atravessa tudo)
+    %% ═══════════════════════════════════════════════════
+    CRITERIO{{"<b>CRITÉRIO COMPOSICIONAL AMPLIADO</b><br/><br/>① <i>Amplia ou diminui<br/>a potência de agir?</i> (Spinoza)<br/><br/>② <i>E o que faz com o que sobra?</i><br/>(Bataille/dépense · Santner/vida criatural<br/>Kordela/surplus · das Ding = vazio produtivo<br/>conversão, não travessia)<br/><br/>③ <i>Expande ou contrai o espaço<br/>de possibilidades futuras?</i><br/>(Kauffman/possível adjacente)"}}
+
+    CRITERIO -.- MOV1
+    CRITERIO -.- MOV2
+    CRITERIO -.- MOV3
+    CRITERIO -.- MOV4
+    CRITERIO -.- MOV5
+
+    %% ═══════════════════════════════════════════════════
+    %% 3 CAMADAS DE CONFLITO (transversal)
+    %% ═══════════════════════════════════════════════════
+    subgraph CONFLITO["<b>3 CAMADAS DE CONFLITO</b> (transversal)"]
+        direction LR
+        IDEO["Ideológica:<br/>divergência real"]
+        NARC["Narcisista:<br/>disputa identitária<br/>(raiz somática: dor suja)"]
+        MAT["Material:<br/>recursos concretos"]
+
+        IDEO ~~~ NARC ~~~ MAT
+    end
+
+    CONFLITO -.- FED
+
+    %% ═══════════════════════════════════════════════════
+    %% TESE CENTRAL (nova)
+    %% ═══════════════════════════════════════════════════
+    TESE["<b>A composição não exige<br/>transparência, completude<br/>nem linearidade.</b><br/><br/>Exige vias para o excedente<br/>(festa · arte · ritual · depense)<br/><br/>Reconhecimento do trabalho<br/>que reproduz as condições<br/>do encontro (Federici)<br/><br/>Ecologia das temporalidades<br/>(Lefebvre · Krenak · Mbembe)"]
+
+    TESE -.- CRITERIO
+
+    %% ═══════════════════════════════════════════════════
+    %% Estilos
+    %% ═══════════════════════════════════════════════════
+    classDef mov1 fill:#2d1b2e,stroke:#e94560,color:#f0f0f0
+    classDef mov2 fill:#1a2744,stroke:#4a90d9,color:#f0f0f0
+    classDef mov3 fill:#1a3a2a,stroke:#4caf50,color:#f0f0f0
+    classDef mov4 fill:#2a2a1a,stroke:#ff9800,color:#f0f0f0
+    classDef mov5 fill:#3a1a2a,stroke:#e91e63,color:#f0f0f0
+    classDef criterio fill:#b71c1c,stroke:#fff,color:#fff,font-weight:bold
+    classDef convergencia fill:#1a237e,stroke:#7c4dff,color:#fff,font-weight:bold
+    classDef tese fill:#1b5e20,stroke:#a5d6a7,color:#fff,font-weight:bold
+
+    class CENA,DP,EU_FALSO,FRACTAL mov1
+    class SP,LA,FO,DG,AC,IMP mov2
+    class NAO_PROG,COMUM,FENOM,CV,LOUIS,JOGOS mov3
+    class D1,D2,D3,D4,D5,D6,D7,REG1,REG2,REG3,CELULAS mov4
+    class CONJ,REVS,HC,FED,IDEO,NARC,MAT mov5
+    class CRITERIO criterio
+    class CONV convergencia
+    class TESE tese

@@ -4,14 +4,14 @@
 
 _Compilação de ideias desenvolvida por **Silvano Neto**, com apoio de ferramenta de inteligência artificial generativa_
 
-**Recife - Pernambuco - Brasil, 22 de março de 2026**
+**Recife - Pernambuco - Brasil, 04 de abril de 2026**
 
 > "Transforme sua dor em potência, o tempo todo, sempre."
 
 
 ## Sumário
 
-Este ensaio propõe uma ética do desejo como fundamento para a transformação social no Brasil. A tese central sustenta que a violência social, da díade familiar à geopolítica imperial, atravessa todos os estratos por um mesmo mecanismo. O desejo projetado. Um corpo tenta fazer o outro viver conforme o seu próprio temperamento, usando o afeto como instrumento de controle.
+Este ensaio propõe uma ética do desejo como fundamento para a transformação social no Brasil. A tese central sustenta que a violência social, da díade familiar à geopolítica imperial, atravessa todos os estratos por um mesmo mecanismo: o desejo projetado. Um corpo tenta fazer o outro viver conforme o seu próprio temperamento, usando o afeto como instrumento de controle.
 
 O argumento se desenvolve em cinco movimentos.
 
@@ -25,23 +25,23 @@ O terceiro movimento (capítulos IX–XIII) converte o diagnóstico em condiçõ
 
 O quarto movimento (capítulos XIV–XVIII) traduz essas condições teóricas em arquitetura territorial brasileira. A Comunidade-Nação é articulada em sete camadas (da Rua ao País), com cada camada negando uma das condições que tornaram o acting out necessário: o País soberano (cap. XIV), o Estado redesenhado em camadas 3 e 4 (cap. XV), a territorialidade de base e as formas de posse (cap. XVI), a vida comum em escala humana (cap. XVII), e a práxis com o Estado e economia sem captura (cap. XVIII). A arquitetura recusa o programa prescritivo e responde maximizando a potência de agir coletivamente.
 
-O quinto movimento (capítulos XIX–XXI) analisa a conjuntura de 2026 e os sujeitos políticos adequados ao momento. A análise do Estado brasileiro (cap. XIX) estabelece o terreno onde a transformação ocorre. O hacker-cientista (cap. XX) emerge como figura política adequada, aquele que atua nos sistemas do adversário para construir autonomia, recusando tanto a pureza revolucionária quanto a captura institucional. E a federação transversal (cap. XXI) com cinco princípios fundantes, incluindo protocolos de conflito sem expurgo, autonomia compositiva, e a exigência de que a forma do desejo (não apenas o conteúdo do programa) constitua a organização, materializa as condições teóricas como resposta política.
+O quinto movimento (capítulos XIX–XXI) analisa a conjuntura de 2026 e os sujeitos políticos adequados ao momento. A análise do Estado brasileiro (cap. XIX) estabelece o terreno onde a transformação ocorre. O hacker-cientista (cap. XX) emerge como figura política adequada, aquele que atua nos sistemas do adversário para construir autonomia, recusando tanto a pureza revolucionária quanto a captura institucional. E a federação transversal (cap. XXI) com cinco princípios fundantes, incluindo protocolos de conflito sem expurgo, autonomia compositiva, e a exigência de que a forma do desejo (não apenas o conteúdo do programa) constitua a organização, ao materializar as condições teóricas como resposta política.
 
 O ensaio se escreve desde Pernambuco, desde a periferia do sistema capitalista, como operação de redistribuição do sensível. Recusa ser anticorpo e se oferece como tentativa de corpo vibrátil, texto que convida o leitor a ser afetado por ele, inclusive quando o afeto toma a forma de crítica, resistência ou recusa.
 
 ## Metodologia Científica
 
-A estrutura deste ensaio funciona como a própria metodologia, não como artifício retórico. Quando o leitor segue a progressão de cinco movimentos, da cena do recreio à teoria dos filósofos, da formalização matemática à arquitetura territorial, e finalmente à análise da conjuntura política, acompanha uma operação dialética rigorosa. Partir da experiência vivida, abstrair o mecanismo universal que a determina, formalizá-lo em estruturas precisas, e retornar à prática com capacidade transformadora ampliada. Hegel, Marx e Ilyenkov desenvolveram este método materialista clássico, onde não há primado da teoria sobre a experiência, nem relativismo que nega a possibilidade de conhecimento. Há um movimento onde cada nível de análise (pessoal, institucional, estatal, teórico, formalizado) nega e supera o anterior enquanto preserva o que tinha de verdadeiro nele.
+A estrutura deste ensaio funciona como a própria metodologia, não como artifício retórico. Quando o leitor segue a progressão de cinco movimentos, da cena do recreio à teoria dos filósofos, da formalização matemática à arquitetura territorial, e finalmente à análise da conjuntura política, acompanha uma operação dialética rigorosa. Parte da experiência vivida, abstrai o mecanismo universal que a determina, formaliza-o em estruturas precisas, e retorna à prática com capacidade transformadora ampliada. Hegel, Marx e Ilyenkov desenvolveram este método materialista clássico, onde não há primado da teoria sobre a experiência, nem relativismo que nega a possibilidade de conhecimento. Há um movimento onde cada nível de análise (pessoal, institucional, estatal, teórico, formalizado) nega e supera o anterior enquanto preserva o que tinha de verdadeiro nele.
 
 O ensaio responde a cinco critérios dialéticos que garantem coerência interna. O primeiro, a coerência conceitual, exige que cada categoria introduzida seja retomada nos capítulos seguintes com maior precisão. O desejo projetado que aparece no recreio reaparece como ambitio em Spinoza, como discurso do Mestre em Lacan, como assujettissement em Foucault. Esses conceitos não se distinguem entre si, mas nomeiam com precisão crescente o mesmo mecanismo. O segundo critério, o movimento dialético propriamente dito (aufheben), garante que o diagnóstico pessoal do bullying não se anule por ser estrutural, mas se amplie. A filosofia não se anula por ser matemática, mas se formaliza. Este padrão se repete a cada transição de capítulo, como um ritmo que sustenta a coerência total.
 
-O terceiro critério, a materialidade, ancora toda abstração no que já existe. Spinoza, Lacan, Foucault não funcionam como autoridades distantes, mas como descritores precisos do que a prática já realiza. O Banco Palmas, o MST, os quilombos, as cozinhas comunitárias não ilustram a teoria, provam que a teoria descreve práticas que já existem. Este movimento de ida e volta entre abstração e concretude garante que o texto não se afaste da realidade vivida. O quarto critério, a clareza através de densidade controlada, regula o peso de cada parágrafo. Um parágrafo pode carregar até 130-140 palavras quando cada sentença tem peso conceitual, mas acima disso precisa de respiração. As quebras textuais não surgem arbitrariamente, mas em pontos de transição semântica, onde o argumento muda de direção ou introduz novo registro. Dessa forma a clareza serve ao conteúdo.
+O terceiro critério, a materialidade, ancora toda abstração no que já existe. Spinoza, Lacan, Foucault não funcionam como autoridades distantes, mas como descritores precisos do que a prática já realiza. O Banco Palmas, o MST, os quilombos, as cozinhas comunitárias não apenas ilustram a teoria, mas também provam que a teoria descreve práticas que já existem. Este movimento de ida e volta entre abstração e concretude garante que o texto não se afaste da realidade vivida. O quarto critério, a clareza através de densidade controlada, regula o peso de cada parágrafo. Um parágrafo pode carregar até 130-140 palavras quando cada sentença tem peso conceitual, mas acima disso precisa de respiração. As quebras textuais não surgem arbitrariamente, mas em pontos de transição semântica, onde o argumento muda de direção ou introduz novo registro. Dessa forma, a clareza serve ao conteúdo.
 
-O quinto critério, talvez o mais importante, exige alinhamento com o Pacto Fundante. Todo capítulo responde à pergunta central. Amplifica ou diminui a potência de agir dos corpos que compõem esta rede? Os oito princípios invioláveis, Soberania, Anti-colonialismo, Assimetria como dado, Ilegibilidade estratégica, Conatus coletivo, Commons, Prática sobre discurso, Autocorreção permanente, não são impostos de fora sobre o ensaio. Emergem de sua própria lógica interna. Quando um capítulo é coerente, dialético, materialista, claro e alinhado com esses cinco critérios, ele está pronto.
+O quinto critério, talvez o mais importante, exige alinhamento com um Pacto Fundante. Todo capítulo responde à pergunta central: "Amplifica ou diminui a potência de agir dos corpos que compõem esta rede?". Definimos oito princípios invioláveis: Soberania, Anti-colonialismo, Assimetria como dado, Ilegibilidade estratégica, Conatus coletivo, Commons, Prática sobre discurso, Autocorreção permanente, que não são meramente impostos de fora sobre o ensaio. Estes emergem de sua própria lógica interna. Quando um capítulo é coerente, dialético, materialista, claro e alinhado com esses cinco critérios, ele está pronto.
 
-Este ensaio realiza o que Rancière chamou de redistribuição do sensível. Não apenas em tema, mas em forma. Cada capítulo rejeita a separação disciplinar que torna a teoria inacessível a quem vive o problema. A psicanálise e a teoria dos jogos não estão separadas em disciplinas diferentes porque o corpo que sofre não sofre "psicanaliticamente" apenas ou "economicamente" apenas, sofre a conjunção dos dois. O português brasileiro, o vocabulário da periferia, as referências ao rap e ao coco de roda tanto quanto à filosofia, tudo isso recusa que a compreensão seja propriedade privada de quem pode pagar a pedagogia elevada.
+Este ensaio realiza o que Rancière chamou de redistribuição do sensível. Não apenas em tema, mas em forma. Cada capítulo rejeita a separação disciplinar que torna a teoria inacessível a quem vive o problema. A psicanálise e a teoria dos jogos não estão separadas em disciplinas diferentes, porque o corpo que sofre não sofre "psicanaliticamente" apenas ou "economicamente" apenas. Este corpo sofre a conjunção dos dois. O português brasileiro, o vocabulário da periferia, as referências ao rap e ao coco de roda tanto quanto à filosofia, tudo isso recusa que a compreensão seja propriedade privada de quem pode pagar a pedagogia elevada.
 
-Cada capítulo passou por um processo de verificação em cinco fases. Primeiro, uma leitura totalizante pergunta qual contradição central o capítulo resolve. Segundo, a análise das determinações verifica como os cinco critérios atuam nele. Terceiro, a síntese de ressalvas identifica onde o argumento carrega densidade excessiva e onde precisa respirar. Quarto, a aprovação avalia se a forma serve ao conteúdo ou o prejudica. Quinto, o retorno à totalidade confirma se o capítulo conecta coerentemente ao anterior e ao seguinte. Este processo garantiu que os 22 capítulos mais a Coda operem como unidade coerente, não como coleção de ensaios justapostos.
+Cada capítulo passou por um processo de verificação também em cinco fases. Primeiro, uma leitura totalizante pergunta qual contradição central o capítulo resolve. Segundo, a análise das determinações verifica como os cinco critérios atuam nele. Terceiro, a síntese de ressalvas identifica onde o argumento carrega densidade excessiva e onde precisa respirar. Quarto, a aprovação avalia se a forma serve ao conteúdo ou o prejudica. Quinto, o retorno à totalidade confirma se o capítulo conecta coerentemente ao anterior e ao seguinte. Este processo garantiu que os 21 capítulos mais a Coda operem como unidade coerente, não como coleção de ensaios justapostos.
 
 Por fim, o ensaio se escreve com a intenção de ser um corpo vibrátil, conforme o conceito que Suely Rolnik desenvolve. Não para transmitir informação neutra, mas para convidar o leitor a ser afetado. Este afeto pode ser concordância, discordância, incômodo ou raiva. O que importa é que o texto não deixe o leitor indiferente, porque a indiferença constitui o estado que o sistema capitalista busca instalar. Indignação que se expressa nas redes sociais mas não transforma estrutura alimenta ainda uma forma de indiferença. O corpo vibrátil que este ensaio propõe se deixa tocar pelo argumento de modo que a compreensão engendre ação capaz de transformar a si mesmo e ao mundo ao redor.
 
@@ -55,29 +55,29 @@ Por que eu revidaria? Os pais deveriam ter perdido as suas vidas enquanto me agr
 
 Só muito depois compreendi a dimensão estrutural disso. A criança que apanhava jogava uma partida única, sobreviver ao recreio. O adulto por trás do soco jogava um jogo longo, iterado ao longo de anos. A negação de si, o ideal não cumprido, a delegação da própria redenção ao corpo do filho.
 
-No recreio periférico, o mecanismo se revela sem disfarce. O moleque que me agredia não era assassino-em-potencial, mas criança sob regime de necropolítica. Casa sem estabilidade, pai com passado violento, nenhuma segurança de amanhã. Santner chamou de *undeadness*, vida-morta, o que esse regime instala na psique. O excesso biopolítico que faz o corpo aprender a justificar sua própria existência sem parar e nunca conseguir. Não é falta de caráter. É engenharia política. Seus pais o usavam como instrumento de suas próprias frustrações, frustrações que a estrutura de classes alimentava sistematicamente. O que pareceu questão de caráter individual (o rapaz é ruim de nascença) era manifestação territorial de um sistema que precisava dele agressivo, dócil ao comando, incapaz de pensar politicamente sua própria condição.
+No recreio periférico, o mecanismo se revela sem disfarce. O moleque que me agredia não era assassino-em-potencial, mas criança sob regime de necropolítica. Casa sem estabilidade, pai com passado violento, nenhuma segurança de amanhã. Santner chamou de *undeadness*, vida-morta, o que esse regime instala na psique. O excesso biopolítico que faz o corpo aprender a justificar sua própria existência sem parar e nunca conseguir. Não é falta de caráter, mas algo como engenharia política. Seus pais o usavam como instrumento de suas próprias frustrações, frustrações que a estrutura de classes alimentava sistematicamente. O que pareceu questão de caráter individual (o rapaz é ruim de nascença) era manifestação territorial de um sistema que precisava dele agressivo, dócil ao comando, incapaz de pensar politicamente sua própria condição.
 
-Jacques Alain Miller, psicanalista que desenvolveu a clínica de Lacan e sua teoria da alienação, oferece o termo preciso para essa transmissão de violência entre gerações. Chamaria de "identificação com o agressor". A criança, incapaz de transformar o corpo que sofre, internaliza a lógica do carrasco e a reproduz contra outro corpo que sofre igualmente.
+Jacques Alain Miller, psicanalista que desenvolveu a clínica de Lacan e sua teoria da alienação, oferece o termo preciso para essa transmissão de violência entre gerações. Chamaria de "identificação com o agressor": a criança, incapaz de transformar o corpo que sofre, internaliza a lógica do carrasco e a reproduz contra outro corpo que sofre igualmente.
 
 O regime que não pode oferecer futuro oferece pelo menos o presente da dominação sobre um corpo ainda mais fraco.
 
 ### O mapa etiológico do sofrimento: família, instituição e Estado
 
-Para Winnicott, o bebê nasce com um potencial de ser e viver. A mãe suficientemente boa responde aos gestos espontâneos da criança e, ao responder, valida a existência autônoma dela. O eu verdadeiro se enraíza nessa experiência de ser reconhecido sem ter que performar. Quando o ambiente falha, o bebê se adapta e aprende a antecipar as necessidades do adulto em vez das próprias. Nasce o eu falso, fachada defensiva que impede que os gestos espontâneos sejam comunicados.
+Para Winnicott, o bebê nasce com um potencial de ser e viver. A mãe suficientemente boa responde aos gestos espontâneos da criança e, ao responder, valida a existência autônoma dela. O eu verdadeiro se enraíza nessa experiência de ser reconhecido sem ter que performar. Quando o ambiente falha, o bebê se adapta e aprende a antecipar as necessidades do adulto em vez das próprias. Aqui, nasce o eu falso, fachada defensiva que impede que os gestos espontâneos sejam comunicados.
 
 O diagnóstico de Winnicott foi construído a partir da clínica de consultório, com foco na díade mãe-bebê. Na periferia urbana brasileira, o mapa precisa ser ampliado. A família não funciona como vetor primário da violência psíquica que instala o eu falso. Frequentemente é o único espaço de amparo contra os vetores institucionais que a precedem e a excedem.
 
-A escola estadual que humilha ao invés de acolher. O CAPS que diagnostica e medica sem escutar. A UBS sobrecarregada que atende sem presença. A polícia que aborda antes de perguntar. A criança de Borborema que aprende que sua forma de falar é "errada", que seu sofrimento é rapidamente medicado sem ser ouvido, que seu corpo é suspeito antes de ser sujeito. Essa criança desenvolve o mesmo mecanismo de complacência que Winnicott descreve, mas num ambiente onde a falha não vem da díade. Vem do Estado que aparece na vida cotidiana como violência difusa e sistêmica.
+A escola estadual que humilha ao invés de acolher. O CAPS que diagnostica e medica sem escutar. A UBS sobrecarregada que atende sem presença. A polícia que aborda antes de perguntar. A criança de Borborema que aprende que sua forma de falar é "errada", que seu sofrimento é rapidamente medicado sem ser ouvido, que seu corpo é suspeito antes de ser sujeito. Essa criança desenvolve o mesmo mecanismo de complacência que Winnicott descreve, mas num ambiente onde a falha não vem da díade. Esta, vem do Estado que aparece na vida cotidiana como violência difusa e sistêmica.
 
 Winnicott propõe, como metáfora curadora, a "mãe suficientemente boa" que falha de forma previsível e reparável. Nas instituições periféricas, as falhas são sistemáticas, repetidas e reparáveis apenas para quem tem recursos privados. Mas há exceção. Entre 2002 e 2016, o Programa Saúde da Família criou agentes comunitários, frequentemente mulheres da própria comunidade, que funcionavam como ambientes facilitadores. A enfermeira que visitava as casas e escutava, que voltava à mesma família semana após semana, que reconhecia a singularidade de Joana em vez de classificá-la como "depressão-maior". Essa profissional, com recursos mínimos, realizava a função winnicottiana em escala territorial. Não era método milagroso, mas era ambiente que validava o gesto espontâneo. A criança que visitava a unidade de saúde tinha chance de ser ouvida. O programa funcionava porque a mãe suficientemente boa pode ser qualquer um que tenha acesso ao tempo de escuta e autorização para responder aos gestos singulares.
 
-Quando o orçamento foi contingenciado e esses agentes foram reduzidos ou remanejados para tarefas administrativas, o que se perdeu não foi eficiência. Foi o tempo, o único recurso que Winnicott nomeou como insubstituível. Colapsar a institucionalidade facilitadora e colapsar o tempo são a mesma coisa.
+Quando o orçamento foi contingenciado e esses agentes foram reduzidos ou remanejados para tarefas administrativas, o que se perdeu não foi eficiência. Perdeu-se o tempo, o único recurso que Winnicott nomeou como insubstituível. Colapsar a institucionalidade facilitadora e colapsar o tempo são a mesma coisa.
 
 Isso não elimina a violência familiar. Muda o mapa e, portanto, o design das intervenções. A ética do desejo que este ensaio propõe não pode se limitar a transformar relações afetivas interpessoais. Precisa confrontar as instituições como ambientes que sistematicamente falham e que, ao fazê-lo, instalam o eu falso antes que qualquer relação íntima tenha a chance de reparar. Mas também precisa nomear, com precisão clínica, onde as instituições funcionam, onde a mãe suficientemente boa ainda existe, para que essas exceções se tornem regra.
 
 ### A subjetividade como campo de batalha
 
-Este evento me leva a uma conclusão. A subjetividade humana é inevitavelmente forjada no fogo cruzado dos desejos, das expectativas. O eu é obrigado a suportar as sombras projetadas pelo outro, pois enfrentá-lo é aceitar que sempre cometeremos uma injustiça mesmo ao fazer justiça, dadas as pré-condições não escolhidas mas que mesmo assim são formativas deste sujeito.
+Este evento me leva a uma conclusão: a subjetividade humana é inevitavelmente forjada no fogo cruzado dos desejos, das expectativas. O eu é obrigado a suportar as sombras projetadas pelo outro, pois enfrentá-lo é aceitar que sempre cometeremos uma injustiça mesmo ao fazer justiça, dadas as pré-condições não escolhidas mas que mesmo assim são formativas deste sujeito.
 
 Winnicott nos dá a gramática clínica. Miller a gramática histórica. Lacan a gramática estrutural. A experiência antecede todas elas. O corpo que apanha e o corpo que se adapta. A teoria vem depois, como ferramenta de precisão para nomear o que o corpo já sabia.
 
@@ -92,33 +92,33 @@ O poder através do amor projetado, como atenção condicionada disfarçada de a
 
 O câncer não é um corpo estranho. É o próprio tecido que muta e perde a regulação. O amor projetado funciona do mesmo modo. Nasce dentro do vínculo, usa os mesmos canais do cuidado legítimo, se alimenta da mesma linguagem afetiva. Por isso é tão difícil de diagnosticar.
 
-Essa célula se replica em todas as escalas. O pai que ama o filho na condição de que ele encarne o ideal. O pastor que ama o fiel na condição de obediência. O Estado que ama o cidadão na condição de produtividade.
+Essa célula se replica em todas as escalas, através do pai que ama o filho na condição de que ele encarne o ideal. Ou pastor que ama o fiel na condição de obediência. Ou do estado que ama o cidadão na condição de produtividade.
 
 ### A distinção necessária: amor que falha e amor que projeta
 
-A formulação "amor projetado como câncer social" carrega um risco que precisa ser nomeado. Ao tratar todo amor como suspeito, o argumento pode patologizar o afeto em geral. Inclusive o cuidado genuíno que já funciona como noção comum spinoziana, o afeto que resiste à lógica dominante sem ter nome teórico.
+No entanto, a formulação "amor projetado como câncer social" carrega um risco que precisa ser nomeado. Ao tratar todo amor como suspeito, o argumento pode patologizar o afeto em geral. Inclusive o cuidado genuíno que já funciona como noção comum spinoziana, afeto que resiste à lógica dominante sem ter nome teórico.
 
 A distinção operativa é outra. O amor que falha (o pai que ama de forma imperfeita, que comete erros sem ter projeto de colonização) é estruturalmente diferente do amor projetado, que usa o afeto como instrumento de controle com uma coerência que revela sistema, não acidente. A criança pode ser ferida pelos dois. O segundo é o mecanismo do câncer. O primeiro é simplesmente a condição humana.
 
 Fromm formulou com precisão: o amor imaturo diz "eu te amo porque preciso de você"; o amor maduro diz "preciso de você porque te amo."
 
-Entre os dois existe um terceiro tipo que nem Fromm nem Winnicott nomearam adequadamente. O amor que genuinamente quer o bem e sistematicamente gera dano. Esse é o amor do ambiente que falha sem intenção de falhar.
+Entre os dois existe um terceiro tipo que nem Fromm nem Winnicott nomearam adequadamente: o amor que genuinamente quer o bem e sistematicamente gera dano. Esse é o amor do ambiente que falha sem intenção de falhar.
 
 E que, na periferia brasileira, tem rosto institucional antes de ter rosto familiar.
 
 ### Fromm, Miller, Han e Laing
 
-Para Fromm, o amor maduro funciona como composição spinoziana. Potências que se encontram e mutuamente se ampliam. O amor no modo do ter funciona como decomposição, um incorpora o outro como extensão do próprio ego. A distinção ter/ser vai além da filosofia e se torna critério clínico que separa o amor que amplia da dependência afetiva que consome.
+Para Fromm, o amor maduro funciona como composição spinoziana. Potências que se encontram e mutuamente se ampliam. O amor no modo do ter funciona como decomposição, no qual um incorpora o outro como extensão do próprio ego. A distinção ter/ser vai além da filosofia e se torna critério clínico que separa o amor que amplia da dependência afetiva que consome.
 
 Para Miller, a criança sensível aprende a se adaptar às necessidades narcisistas dos pais ao custo do próprio eu autêntico. A linha que ela traça da educação repressiva à política autoritária é direta. Todo perseguidor foi um dia vítima.
 
-No contexto brasileiro, essa linha passa obrigatoriamente pelas instituições. O professor que humilha não o faz apenas por crueldade individual. Atua dentro de uma pedagogia que o formou desse modo.
+No contexto brasileiro, essa linha passa obrigatoriamente pelas instituições. O professor que humilha não o faz apenas por crueldade individual, mas atua dentro de uma pedagogia que o formou desse modo.
 
 Han descreve a sociedade do desempenho como geradora de autoexploração. O sujeito do desempenho é simultaneamente explorador e explorado no mesmo corpo. A formulação importa porque nomeia o ponto onde o mecanismo fractal atinge sua forma terminal, na qual o projetor e o projetado colapsaram na mesma pessoa. O sujeito projeta sobre si mesmo o ideal que o sistema precisa, e experimenta isso como liberdade.
 
 Han chama de "liberdade paradoxal" o que este ensaio nomeia captura do conatus pelo discurso capitalista. Quanto mais o sujeito se cobra, mais livre se sente, e mais eficiente é a exploração.
 
-O verbo modal mudou, do "não-ter-o-direito" disciplinar ao "poder ilimitado" do desempenho, mas o desejo projetado não desapareceu. Dispensou a instância externa. A ambitio não precisa mais de porta-voz.
+O verbo modal mudou, do "não-ter-o-direito" disciplinar ao "poder ilimitado" do desempenho. Mas o desejo projetado não desapareceu. Dispensou a instância externa. A ambitio não precisa mais de porta-voz.
 
 Han, contudo, não tem teoria do sofrimento como organizador político. O que ele descreve como patologia terminal (a depressão do sujeito que não consegue mais, o "não-mais-poder-poder") pode ser o ponto de partida de outra coisa, desde que o sofrimento encontre coletivo que o acolha e o nomeie.
 
@@ -134,7 +134,7 @@ O mapa etiológico que este ensaio propõe, onde a falha primária é institucio
 
 A célula se replica porque o mecanismo é fractal. O mesmo padrão ("eu te amo na condição de que você seja o que preciso que você seja") opera da díade afetiva à geopolítica imperial. No nível interpessoal, o pai e o filho. No institucional, a escola e o aluno, o partido e o militante. No nacional, o Estado e o cidadão. No global, o imperialismo e a nação dependente. Nomear o mecanismo em sua célula primordial é a condição para reconhecê-lo em todas as outras escalas onde age.
 
-O mecanismo está nomeado. Não como metáfora, mas como mecânica. O desejo projetado atravessa da díade ao império com a mesma estrutura formal, e se replica porque usa os canais do cuidado legítimo, tornando-se indistinguível dele para quem está dentro.
+O mecanismo precisa ser nomeado. Não como metáfora, mas como mecânica. O desejo projetado atravessa da díade ao império com a mesma estrutura formal, e se replica porque usa os canais do cuidado legítimo, tornando-se indistinguível dele para quem está dentro.
 
 A experiência o conhece antes da teoria. A criança que apanha no recreio sabe, no corpo, o que este ensaio levará vinte e um capítulos para formular. Mas nomear pelo corpo não basta. A experiência sem conceito gera sofrimento lúcido. O conceito sem experiência vira tese de doutorado. O que se segue é o trabalho de forjar as ferramentas de precisão que a experiência exige.
 
@@ -293,7 +293,7 @@ Mas a contraconduta não é apenas resistência ativa. Han distingue, via Nietzs
 
 A mestra de coco que mantém a roda no terreiro enquanto o algoritmo pede atenção para outra coisa está exercendo potência negativa, afirmação de outra temporalidade, outro regime de atenção, outro modo de estar no corpo. A sociedade do desempenho destrói a potência negativa porque converte toda capacidade em obrigação de fazer. Quando só existe potência positiva, o sujeito está "irremediavelmente exposto a todo estímulo", e a hiperatividade que sobra é a forma mais acabada da passividade.
 
-A contraconduta mais radical é a capacidade institucionalizada de não-fazer. Os protocolos de conflito sem expurgo que o capítulo XIII propõe são potência negativa organizativa, a capacidade de não reagir ao acting out com punição, de não cindir quando a tensão se torna insuportável.
+A contraconduta mais radical é a capacidade institucionalizada de não-fazer. Os protocolos de conflito sem expurgo que o capítulo XXI propõe são potência negativa organizativa, a capacidade de não reagir ao acting out com punição, de não cindir quando a tensão se torna insuportável.
 
 ### Biopolítica: o poder sobre a vida
 
@@ -501,6 +501,20 @@ Spinoza propõe que a composição política começa pelas noções comuns, prop
 
 O encontro entre um intelectual branco de classe média e um militante negro periférico dentro de uma organização de esquerda não é um encontro spinoziano neutro. É um encontro já atravessado pela colonialidade, que produz "noções comuns" que refletem a perspectiva do mais potente. Não a síntese genuína. A federação proposta neste ensaio precisa de protocolos que reconheçam e compensem essas assimetrias de potência. Não para apagá-las. Para que a voz do menos potente seja genuinamente ouvida em vez de incorporada e traduzida pelo mais potente.
 
+### O comum como invenção, não descoberta
+
+Eduardo Viveiros de Castro problematiza radicalmente as noções comuns spinozianas. O perspectivismo ameríndio propõe multinaturalismo: não muitas culturas olhando uma natureza, mas uma cultura e muitas naturezas. Cada corpo habita um mundo diferente. O jaguar vê a si mesmo como humano e vê o humano como presa. O que difere não é o ponto de vista (a "cultura"), mas o corpo (a "natureza").
+
+Se cada corpo habita natureza diferente, então o "comum" das noções comuns não é propriedade pré-existente que dois corpos descobrem ao se encontrar. É mundo inventado no ato de encontrar. A cozinha comunitária não é noção comum porque todos já sabem cozinhar. É noção comum porque, no ato de cozinhar juntos, produz-se um mundo comum que não existia antes. Ninguém trazia esse mundo consigo. Ele emerge do encontro, ou não emerge.
+
+A metafísica canibal de Viveiros de Castro oferece um terceiro modo de relação com o Outro, além da composição (Spinoza) e da tolerância (liberalismo): incorporação. Incorporar não é assimilar. É deixar-se transformar pela digestão do outro. O festival antropofágico de Oswald de Andrade já intuía isso: "Tupi or not Tupi, that is the question." Este ensaio pensa "desde Pernambuco", mas com categorias europeias (Spinoza, Lacan, Foucault). Viveiros de Castro permite pensar _com_ o território, não apenas desde ele.
+
+Marisol de la Cadena acrescenta os incomuns. A aliança entre indígenas e ambientalistas parece ser sobre o "mesmo" interesse (proteger a montanha). Mas para o ambientalista, a montanha é recurso a preservar. Para o indígena, é entidade com quem se negocia. A aliança funciona sem concordância de fundo. É coalizão entre mundos que divergem ontologicamente. Spinoza diria que toda coisa se esforça por perseverar no ser, não apenas humanos. O rio Capibaribe tem conatus. O mangue tem conatus. A comunidade que inclui não-humanos como atores políticos não fantasia. Reconhece o que Spinoza afirmou e que a modernidade esqueceu. Já existe em direito comparado: o Rio Whanganui na Nova Zelândia e o Rio Atrato na Colômbia são entidades jurídicas com personalidade legal.
+
+Silvia Federici completa o quadro pelo lado do trabalho que reproduz as condições do encontro. O capitalismo funciona porque o trabalho reprodutivo (cozinhar, cuidar, criar, limpar, curar) é feito de graça, majoritariamente por mulheres negras. A cozinha comunitária não é apenas "espaço de encontro". É relocalização do trabalho reprodutivo no comum, revertendo o cercamento que privatizou a reprodução social. Federici mostrou que as caças às bruxas dos séculos XVI-XVII não foram surto de irracionalidade, mas ataque sistemático ao poder que as mulheres tinham: controle reprodutivo, saber curandeiro, autonomia sobre o corpo. Esse ataque foi condição necessária para o capitalismo. A cozinha comunitária o reverte. Não como nostalgia, mas como política.
+
+Anna Tsing, em _The Mushroom at the End of the World_, demonstra que a colaboração mais criativa acontece em paisagens destruídas. O matsutake, cogumelo que só cresce em florestas perturbadas, é o organismo de uma economia que não segue a lógica da plantação. Lynn Margulis radicalizou antes: toda vida complexa surgiu de simbiose, não de competição. A célula eucariótica é comunidade simbiótica. Nunca houve indivíduos. Merlin Sheldrake descreveu as redes micorrízicas como modelo de governança: distribuídas, assimétricas por cuidado (árvores-mãe alimentam mudas jovens, o princípio da assimetria materializado biologicamente), sem centro de comando.
+
 ### Fenomenologia dos encontros transformadores
 
 O que resta por descrever é o mecanismo concreto pelo qual o sofrimento privatizado se transforma em potência coletiva. Não basta afirmar que a transformação é possível. É preciso descrever como ela acontece, quais são suas condições, seus momentos de crise, seus pontos de recaída.
@@ -555,6 +569,18 @@ Han chega à mesma conclusão por outro caminho. Critica Baudrillard por tentar 
 A convergência não é casual. Quando o diagnóstico muda (da violência do Outro para a violência de si mesmo), a metáfora da defesa perde sentido. Não há de quem se defender quando o agressor e a vítima coincidem no mesmo corpo.
 
 A metáfora adequada é o corpo vibrátil de Rolnik, a capacidade de ser afetado pelo que o sistema de defesa identifica como ameaça e de deixar que esse afeto engendre transformação em vez de proteção. Este ensaio não funciona como anticorpo, mas como tentativa de corpo vibrátil. Um texto que convida o leitor a ser afetado por ele, inclusive quando o afeto é crítica, resistência, recusa. Um texto que aceita ser parcialmente destruído pelo confronto com quem vive empiricamente o que ele teoriza é mais útil do que um texto que se defende.
+
+### A infraestrutura somática do corpo vibrátil
+
+Mas o corpo vibrátil permanece metáfora enquanto não teorizar o sistema nervoso como campo político. Resmaa Menakem, em _My Grandmother's Hands_, demonstra que o trauma racializado vive no corpo. Não como metáfora. Como padrão somático transmitido entre gerações. O nervo vago, os músculos do pescoço e das costas, a respiração encurtada, a contração do diafragma. Corpos negros, corpos brancos e corpos de policiais carregam traumas distintos que se ativam mutuamente no encontro. A "cena do recreio" do capítulo I não é apenas mecanismo psíquico. É evento somático. O moleque que bate e o moleque que apanha estão em estados nervosos que nenhuma análise de discurso acessa.
+
+Menakem propõe cinco âncoras práticas: assentar (ground), notar (notice), aceitar (accept), permanecer (stay), descarregar (discharge). São o protocolo que falta ao corpo vibrátil. Rolnik descreve a capacidade de ser afetado. Menakem descreve o que fazer quando o afeto é insuportável. A distinção entre dor limpa (enfrentar a realidade da própria posição na estrutura de poder) e dor suja (fugir dessa realidade e perpetuar o dano) reformula conflitos que o ensaio diagnosticaria como narcisismo. A raiz pode ser somática: o corpo que foge da dor limpa de reconhecer privilégio ou impotência produz dor suja que se manifesta como cisma, projeção, acting out.
+
+Steve Goodman, em _Sonic Warfare_, vai além: o conatus é vibracional antes de ser representacional. O som move corpos antes que a consciência processe. A alfaia do maracatu de baque virado não "expressa" resistência. Fabrica-a. Cada batida sincroniza sistemas nervosos, produz coesão que nenhum argumento racional alcança. Kodwo Eshun teorizou isso como ficção sônica: o som produz realidade, não a descreve. Luiz Gonzaga, Clementina de Jesus, Chico Science e Nação Zumbi são cosmotécnicos sonoros. Unificam ordem cósmica (a ecologia do semiárido, a memória da diáspora, o mangue como bioma) com ordem moral (solidariedade, resistência, festa) através de atividade técnica sonora. A cosmotécnica sonora nordestina não precisa ser inventada. Precisa ser nomeada.
+
+Alexander Weheliye, em _Habeas Viscus_, acrescenta uma correção necessária: a biopolítica de Foucault, que o ensaio utiliza extensamente, subestima a raça como constitutiva do humano. Hortense Spillers distingue "corpo" de "carne" (_flesh_). O corpo é socialmente constituído, legível, governável. A carne é o que precede e excede a socialização, o que a violência racial inscreve diretamente na matéria. A carne do corpo negro periférico carrega inscrições que nenhum "discurso" acessa, porque foram gravadas antes da linguagem. A ética do desejo precisa trabalhar com a carne, não apenas com o corpo.
+
+Lefebvre, em _Rhythmanalysis_, fornece a categoria que articula o somático ao político: toda relação social tem um ritmo. O corpo é feixe de ritmos. O poder opera impondo ritmos (o tempo do trabalho, o tempo do consumo, o tempo da tela). A necropolítica é arritmia imposta: quando o Estado retira de um corpo a possibilidade de ritmo próprio (a batida policial que interrompe o sono, o despejo que destrói a rotina, o desemprego que dissolve a estrutura temporal), impõe uma dessincronização que é violência tão real quanto a física. Prazos iguais para corpos desiguais produzem arritmia, não igualdade. A cozinha comunitária funciona quando sincroniza ritmos. A assembleia falha quando impõe um ritmo que só corpos com tempo livre sustentam. Euritmia composicional: a capacidade de manter poliritmia sustentável entre temporalidades diferentes, onde cada corpo encontra ritmo próprio sem dessincronizar o coletivo.
 
 ### Butler: a performatividade como força constitutiva
 
@@ -684,6 +710,14 @@ A Rua é boa quando transforma o encontro em invenção coletiva. A Cidade é bo
 
 Essa diferença com relação a qualquer blueprint autoritário é decisiva. Não se prescreve de cima como cada camada deve funcionar. Prescreve-se apenas o critério, potência de agir, e deixa-se que cada comunidade descubra como operacionalizar esse critério em suas condições concretas. Quando Westerink examina os limites do próprio Spinoza, revela que o critério composicional vale, mas no centro de qualquer composição real há um vazio que não se preenche com mais potência. *Das Ding*, a Coisa lacaniana, o objeto perdido em torno do qual o desejo orbita sem alcançar. A arquitetura que ignora esse vazio engendra otimismo que quebra no primeiro encontro com o Real. A que o reconhece constrói sobre o que há, incluindo o que falta.
 
+Bataille acrescenta a _dépense_, o gasto improdutivo. O sistema que tenta reter toda energia, que não gasta em festa, ritual, arte, erotismo, explode. Os commons exigem gasto que o capitalismo chama de desperdício. A cozinha comunitária que serve sopa para quem "poderia trabalhar" é depense. O maracatu que para o bairro por um dia inteiro é depense. O tempo gasto em assembleia que "não produz nada" é depense. Sem essas vias, o excedente retorna como conflito narcisista, cisma, acting out.
+
+Santner complementa com a vida criatural. A periferia não é zona de morte (vida nua de Agamben), mas vida marcada por excesso de inscrição na lei soberana. _Undeadness_, vida-morta, é o regime que faz o corpo justificar sua existência sem parar. O menino do recreio do capítulo I não sofre de falta de conatus. Sofre de conatus capturado, excedente sem via de expressão que retorna como violência. Kordela, em _Surplus: Spinoza, Lacan_, resolve a aparente oposição: Lacan lê Spinoza contra si mesmo. O conatus produz excedente estruturalmente idêntico ao gozo lacaniano. Não é oposição entre afirmação e impossibilidade. É prolongamento crítico.
+
+O critério composicional precisa de um complemento: "e o que faz com o que sobra?" Uma comunidade precisa de vias para o excedente, festa, arte, ritual, silêncio, contemplação. Hekimian, via Bataille, formula o princípio: a ética se abre na dimensão onde a economia da utilidade se rompe. A falta ética não é a transgressão. É a cessão, trair o próprio desejo por conformidade ao Outro. Adams complementa pela via estética: a arte periférica é o paradigma da conversão. Toma a "inquietação petrificada" (Santner via Benjamin), a compulsão sem desenvolvimento, e a organiza em torno do vazio. O coco de roda organiza em torno do que não se diz. O frevo explode o corpo em torno do que não se contém. O manguebeat mistura em torno do que não se resolve.
+
+A escolha ética deste ensaio é pela conversão, não pela travessia. Santner propõe converter o excesso biopolítico em "bênçãos de mais vida" via responsividade ao vizinho. Žižek propõe travessia radical da fantasia, destituição subjetiva. O ensaio segue Santner porque a conversão opera dentro da incompletude. A travessia presume um ato que transcende a situação, e esse ato, sem condições materiais que o sustentem, frequentemente colapsa em acting out vestido de revolução. Converter não é resignar. É metabolizar o inassimilável em potência, sem fingir que o assimilou.
+
 O critério composicional aplicado às experiências revolucionárias que permanecem confirma essa dupla face. Cuba ampliou potência de agir via saúde universal e biotecnologia soberana — conquistas verificáveis que nenhum país de porte comparável alcançou sob bloqueio. A China ampliou potência via erradicação da pobreza extrema e soberania tecnológica. O Vietnã ampliou potência via abertura econômica gradual sem terapia de choque. As três também limitaram potência onde prescreveram. A pergunta composicional não se formula como "o socialismo funcionou?", que já vem enquadrada pelo adversário, mas sim: onde criou condições e onde prescreveu? Onde ampliou e onde diminuiu?
 
 ### O princípio fractal: mesma lógica em cada escala
@@ -733,6 +767,18 @@ Elinor Ostrom provou que comunidades reais escapam do Dilema do Prisioneiro atra
 
 Para David Sloan Wilson, o egoísmo vence o altruísmo dentro dos grupos, mas grupos altruístas vencem grupos egoístas. A política consequente não passa por moralizar o altruísmo individual, e sim por criar as condições institucionais que tornam o altruísmo grupal mais vantajoso do que o egoísmo grupal.
 
+### O conatus como estrutura dissipativa
+
+Ilya Prigogine demonstrou que estruturas longe do equilíbrio, estruturas dissipativas, são exatamente as que geram ordem nova. A vela queima porque dissipa energia; a chama se organiza porque dissipa. Sistemas em equilíbrio estável não criam nada. São os sistemas perturbados, longe do equilíbrio, que produzem complexidade.
+
+O conatus spinoziano é uma estrutura dissipativa. Persevera no ser não pelo isolamento, mas pela importação contínua de energia e dissipação do que não compõe. Uma comunidade com um membro na periferia do capitalismo digital não é fraca por estar longe do equilíbrio. É, nas palavras que Prigogine usaria, "ilha de coerência num mar de caos", com a capacidade que sistemas dissipativos têm de deslocar o campo ao redor.
+
+Stuart Kauffman acrescenta uma restrição que a arquitetura em sete camadas precisa absorver: não se projeta o futuro completo. Expande-se o possível adjacente, o espaço de possibilidades que emerge do estado atual. Cada decisão amplia ou contrai esse espaço. O critério que se adiciona ao composicional é: "expande ou contrai o espaço de possibilidades futuras?" Uma decisão pode ampliar a potência de agir no presente e contrair o possível adjacente (a política do filho único chinesa é o exemplo mais caro).
+
+A criticalidade auto-organizada explica por que a tensão entre contrários é vital. Sistemas complexos se mantêm na borda do caos, nem congelados em ordem rígida nem dissolvidos em desordem. A comunidade que elimina todo conflito congela. A que permite todo conflito sem estrutura dissolve. A que se mantém na borda, com conflito estruturado e protocolos que o processam sem eliminá-lo, é a que gera novidade. O conflito não é problema a resolver. É negentropia: flutuação que gera estrutura nova em sistemas longe do equilíbrio.
+
+Adrian Bejan, com a lei construtal, demonstrou que hierarquias emergem por lei física em qualquer sistema de fluxo, não por falha ética. A questão não é se hierarquias existirão (existirão), mas a diferença entre hierarquia que facilita fluxo (construtal, onde cada nível facilita o acesso da energia ao sistema) e hierarquia que captura fluxo (extrativa, onde cada nível retém para si o que deveria passar).
+
 ### Ostrom e Spinoza: noções comuns como instituições
 
 Há uma convergência que reclama ser feita explícita. Os princípios de Ostrom para commons sustentáveis (fronteiras definidas, regras congruentes com condições locais, participação nas decisões, monitoramento comunitário) traduzem operacionalmente o que Spinoza chama de noções comuns.
@@ -761,7 +807,7 @@ A assimetria temporal δ não atravessa apenas populações nacionais. Atravessa
 
 Scholz e Schneider argumentam em _Ours to Hack and to Own_ que a cooperação sustentável exige propriedade compartilhada das infraestruturas digitais. Uma plataforma cooperativa de transporte, onde motoristas são proprietários, onde os dados pertencem a eles, onde a IA que roteiriza as corridas é treinada para maximizar renda do motorista e não lucro do algoritmo, reequilibra δ. Não o iguala (o capital ainda tem recursos maiores), mas muda a assinatura do jogo.
 
-O protocolo Capiba, como infraestrutura digital federal aberta, é escolha política sobre os dados, propriedade coletiva de quem usa a rede em vez de propriedade privada de quem cria a plataforma. A questão não é tecnicamente marginal, mas sim de saber para quem o tempo trabalha.
+A infraestrutura digital federal aberta é escolha política sobre os dados, propriedade coletiva de quem usa a rede em vez de propriedade privada de quem cria a plataforma. A questão não é tecnicamente marginal, mas sim de saber para quem o tempo trabalha.
 
 <mermaid src="cap-XIII" description="A matemática da cooperação: Dilema do Prisioneiro. Ostrom (8 princípios de design institucional). Shapley (valor justo da distribuição). Plataformas cooperativas e propriedade coletiva de dados."></mermaid>
 
@@ -982,6 +1028,14 @@ James Scott demonstrou em _Seeing Like a State_ que a legibilidade, a capacidade
 A Camada 6 inverte a lógica. A legibilidade passa a servir ao próprio povo, não ao Estado extrator. O mapeamento coletivo do Banco Palmas (onde moradores descreveram, uns para os outros, o que tinham e o que precisavam) constitui o paradigma. Os dados gerados pertencem à comunidade. São usados para planejamento local, não para vigilância ou focalização de políticas que tratam a pobreza como desvio individual.
 
 Como infraestrutura comunitária de dados, atuaria nesta camada por meio de ferramentas de coleta, processamento e visualização de dados que sejam operáveis pela própria comunidade, com governança local sobre acesso e uso. Quem gera e governa os dados não é o pesquisador de fora que chega, coleta, publica e vai embora, mas a própria comunidade, que constrói conhecimento sobre si mesma para tomar decisões sobre si mesma.
+
+_Opacidade soberana e transparência forense_
+
+Mas a legibilidade comunitária revela uma tensão que o ensaio precisa nomear. A comunidade precisa de ilegibilidade diante do extrator (escudo) e de produção de evidência contra o Estado (lente). Glissant nomeou o direito à opacidade: recusa de ser totalmente compreendido nos termos do outro. Simone Browne, em _Dark Matters_, demonstrou que a vigilância moderna nasce na escravidão, no _lantern law_ de Nova York (1713) que obrigava negros a carregar lanternas após o anoitecer para serem visíveis. Zach Blas, no _Facial Weaponization Suite_, criou máscaras coletivas indetectáveis por biometria: não desaparecer, mas criar visibilidades autônomas.
+
+Eyal Weizman e o coletivo Forensic Architecture demonstraram que, quando o Estado destrói evidências, as comunidades precisam de capacidade forense própria para reconstruir a verdade. O conceito de limiar de detectabilidade é operacional: abaixo de certo limiar, a violência se torna invisível. A chacina que não aparece no jornal. A contaminação que não entra na estatística. O despejo que não gera processo.
+
+A opacidade não é posição única. São duas operações simultâneas. Opacidade soberana: a comunidade controla quem vê o quê sobre ela, recusa ser "renderizada" (Zuboff) pelo capital preditivo. Transparência forense: a comunidade produz evidência sobre as violências que sofre, tornando visível o que o poder quer invisível. A infraestrutura comunitária de dados precisa operar nos dois registros. Proteger dados comunitários da extração algorítmica e produzir dados que documentem violações para responsabilização.
 
 _Saúde territorial_
 
@@ -1259,6 +1313,16 @@ O hacker-cientista reconstitui o comum. Cada ato de infraestrutura que constrói
 
 A China demonstrou o que acontece quando um país do Sul Global constrói soberania digital em escala, criando as condições para que um ecossistema inteiro emergisse (WeChat, Alipay, DeepSeek, BYD) em vez de ser colonizado pelas plataformas do Norte. O DeepSeek constitui prova material de que sanções podem acelerar inovação quando existe base soberana. Sem essa base, a periferia consome tecnologia que não controla, alimenta com dados que não possui, e depende de infraestrutura que pode ser desligada por decisão unilateral de quem atua sobre ela. O hacker-cientista periférico olha para a China e não vê modelo a copiar. Vê prova de que é possível.
 
+### Cosmotécnica: a técnica desde o território
+
+Yuk Hui propõe que toda técnica é a unificação de uma ordem cósmica com uma ordem moral, através de atividades técnicas. Não existe "a" tecnologia universal. Existem cosmotécnicas, sempre locais, sempre vinculadas a epistemologias específicas. A imposição de uma única pilha tecnológica (o stack do Vale do Silício) é o equivalente contemporâneo do epistemicídio.
+
+A infraestrutura digital soberana que este ensaio propõe é  cosmotécnica: unificação da ecologia do semiárido, da memória quilombola, da reciprocidade da vizinhança (ordem cósmica) com os princípios de soberania, commons e autocorreção (ordem moral) através de atividade técnica. Tecnodiversidade, o conceito de Hui, funciona como equivalente técnico do ch'ixi de Rivera Cusicanqui: coexistência de técnicas sem convergência, assim como o ch'ixi é coexistência de contrários sem síntese.
+
+Já existe uma tríade brasileira que pensou isso antes de Hui: Álvaro Vieira Pinto (1909-1987), que demonstrou em _O Conceito de Tecnologia_ que a técnica dos países periféricos não é "atrasada", mas funcionalmente produzida pela divisão internacional do trabalho como dependência; Milton Santos, que nomeou a tecnosfera (objetos técnicos que artificializam o espaço) e a psicosfera (ideias e imaginários que fundamentam politicamente a globalização), além da "alienação territorial" que fragmenta o espaço por forças distantes; e Renato Dagnino, que propôs a tecnologia social como alternativa construída desde necessidades locais. A cosmotécnica nordestina não precisa ser inventada. Está fragmentada em departamentos de filosofia, geografia e política científica. Precisa ser reunida e nomeada.
+
+Arturo Escobar, em _Designs for the Pluriverse_, formula a consequência: cada decisão de design produz um mundo. A interface do aplicativo, o banco de dados, o protocolo de comunicação não são "ferramentas neutras". São decisões ontológicas. Uma infraestrutura digital que recusa a extração de dados como modelo de negócio não faz apenas escolha econômica. Produz um mundo onde o dado é nó de relação, não recurso a extrair. Felwine Sarr nomeou isso como economia relacional: sistema econômico fundado na primazia das relações sobre as transações. A infraestrutura soberana não é plataforma de dados. É infraestrutura relacional.
+
 <mermaid src="cap-XX" description="O sujeito do fazer: o hacker-cientista. Jones, Heribaldo, e a figura que o momento exige. Han: a ira que interrompe versus a irritação que alimenta. Soberania técnica como prática de liberdade."></mermaid>
 
 
@@ -1285,6 +1349,10 @@ A desconfiança que fragmenta a esquerda é racional. Cada organização tem inf
 A revolução não funciona como festa de harmonia. Há conflitos reais porque há interesses que não são completamente convergentes. Frações distintas da classe trabalhadora têm necessidades que podem entrar em tensão.
 
 A esquerda tradicional resolve isso com expurgo. Quem discorda vira traidor. A federação oferece protocolo diferente. Direito de divergência pública sem implicar expulsão. Revisão periódica de linha como norma, não como crise. O acting out político (o militante que recua ao próximo significante-mestre quando a abertura do desejo se torna insuportável) designa uma realidade que precisa de contenção institucional, não de punição. A lição de Ostrom se aplica aqui. Comunidades reais têm conflitos reais, e sistemas que duram têm mecanismos específicos de resolvê-los.
+
+Catherine Malabou permite distinguir três modos de autocorreção que a federação precisa reconhecer. Correção plástica: ajuste dentro da forma existente, a revisão de linha que muda o programa sem mudar a identidade. Transformação plástica: mudança com continuidade, onde a federação se reconhece apesar da mudança. Explosão plástica: destruição de forma que gera identidade nova, onde a federação depois não se reconhece no que era antes. A distinção entre flexibilidade e plasticidade é arma contra a captura neoliberal. O capitalismo adora corpos flexíveis: que se adaptam, que absorvem choque, que voltam à posição original. Plasticidade inclui a capacidade de explodir a forma que aprisiona.
+
+Harney e Moten, em _All Incomplete_, radicalizam: a demanda de completude (o programa acabado, a federação definitiva) é forma de dominação. A incompletude não é estágio provisório. É posição ética permanente. O planejamento fugitivo não visa governar nem ser governado, mas sustentar a vida em comum que já existe nos interstícios. A cozinha comunitária que "funciona no improviso" não está falhando. Está praticando incompletude como princípio. A autocorreção permanente, quando levada a sério, não é corrigir erros em direção a uma versão final. É recusar que exista versão final.
 
 As três revoluções que permanecem provam por que esse protocolo é necessário. Nenhuma das três construiu autocorreção permanente em tempo real. Cuba tratou os protestos de 11 de julho de 2021 como crime, não como sinal — e perdeu a oportunidade de ouvir o que os corpos diziam. A China processa erros postumamente. A Resolução Histórica de 2021 reconhece a Revolução Cultural como "o erro mais grave", mas Xi está blindado de autocrítica enquanto vive. O Vietnã queima o forno da corrupção, mas o teto político permanece fechado. Revisão histórica periódica — que processa o passado quando politicamente conveniente — não é autocorreção permanente. O Pacto não resolve essa tensão. Mas a nomeia como princípio, o que é o primeiro passo para não a repetir.
 
@@ -1350,6 +1418,11 @@ O ensaio termina aqui. O trabalho não.
 <mermaid src="coda" description="Coda: a dor que não se privatiza. Dor como diagnóstico do corpo social. Nomeação coletiva da causa estrutural. A potência nasce da ferida compartilhada, conatus coletivo em espiral."></mermaid>
 
 
+## Mapa Conceitual Completo
+
+<mermaid src="mapa-completo" description="Mapa conceitual completo do ensaio. Cinco movimentos: I-II diagnóstico autobiográfico (desejo projetado como célula do câncer social), III-VIII cinco tradições filosóficas (Spinoza/conatus e ambitio, Lacan/quatro discursos e acting out, Foucault/assujettissement e contracondutas, Deleuze-Guattari/desejo produz realidade e microfascismo, Sul Global/corpo vibrátil e ch'ixi), IX-XIII formalização (convergência, fenomenologia dos encontros transformadores em 4 movimentos: nomeação coletiva, reconhecimento, identificação de causalidade, ação emergente; noções comuns como invenção via Viveiros de Castro; trabalho reprodutivo via Federici; governança micorrízica via Tsing/Sheldrake/Margulis; matemática da cooperação via teoria dos jogos, Ostrom, Shapley; conatus como estrutura dissipativa via Prigogine/Kauffman; lei construtal de Bejan), XIV-XVIII arquitetura territorial em 7 camadas (Rua, Bairro com opacidade soberana e transparência forense, Cidade, Mesorregião, Estado Federativo, Unidade Territorial, País), XIX-XXI conjuntura e sujeitos (hacker-cientista, cosmotécnica pernambucana via Hui/Vieira Pinto/Santos/Dagnino, economia relacional via Sarr/Escobar, federação transversal com 5 princípios incluindo plasticidade e incompletude via Malabou/Harney-Moten). O corpo vibrátil ganha infraestrutura somática (Menakem/cinco âncoras, Goodman/ontologia vibracional, Weheliye-Spillers/carne vs. corpo, Lefebvre/ritmoanálise e euritmia composicional). O critério composicional ampliado opera em três registros: amplia ou diminui a potência de agir? (Spinoza); e o que faz com o que sobra? (Bataille/dépense, Santner/vida criatural, Kordela/surplus, das Ding como vazio produtivo, conversão não travessia); expande ou contrai o espaço de possibilidades futuras? (Kauffman/possível adjacente). A composição não exige transparência, completude nem linearidade. Exige vias para o excedente, reconhecimento do trabalho que reproduz as condições do encontro, e ecologia das temporalidades."></mermaid>
+
+
 ## Referências Bibliográficas
 
 Adams, P. _The Emptiness of the Image: Psychoanalysis and Sexual Differences_. London: Routledge, 1996.
@@ -1382,7 +1455,11 @@ Eribon, D. _Retorno a Reims_. Trad. Eduardo Brandão. São Paulo: Todavia, 2020.
 
 Ernaux, A. _O Lugar_. Trad. Marília Garcia. São Paulo: Fósforo, 2021.
 
+Ernaux, A. _Os Anos_. Trad. Marília Garcia. São Paulo: Fósforo, 2022.
+
 Fals Borda, O. _Ciencia Propia y Colonialismo Intelectual_. Bogotá: Carlos Valencia, 1987.
+
+Fanon, F. _Os Condenados da Terra_. Trad. Enilce Albergaria Rocha e Lucy Magalhães. Juiz de Fora: UFJF, 2005.
 
 Fanon, F. _Pele Negra, Máscaras Brancas_. Salvador: EDUFBA, 2008.
 
@@ -1504,6 +1581,8 @@ Scholz, T.; Schneider, N. _Ours to Hack and to Own_. New York: OR Books, 2017.
 
 Scott, J. C. _Domination and the Arts of Resistance_. New Haven: Yale University Press, 1990.
 
+Scott, J. C. _Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed_. New Haven: Yale University Press, 1998.
+
 Spinoza, B. _Ética_. Trad. Tomaz Tadeu. Belo Horizonte: Autêntica, 2009.
 
 Spinoza, B. _Tratado Político_. Trad. Diogo Pires Aurélio. São Paulo: Martins Fontes, 2009.
@@ -1521,3 +1600,77 @@ Wilson, D. S. _Does Altruism Exist?_ New Haven: Yale University Press, 2015.
 Winnicott, D. W. _Os Processos de Maturação e o Ambiente Facilitador_. Porto Alegre: Artes Médicas, 1983.
 
 Zupančič, A. _Ethics of the Real: Kant and Lacan_. London: Verso, 2000.
+
+Bataille, G. A Noção de Despesa. In: _A Parte Maldita_. Trad. Júlio Castañon Guimarães. Belo Horizonte: Autêntica, 2013.
+
+Bejan, A. _Design in Nature: How the Constructal Law Governs Evolution in Biology, Physics, Technology, and Social Organization_. New York: Doubleday, 2012.
+
+Blas, Z. _Facial Weaponization Suite_. 2011–2014. Disponível em: zachblas.info/works/facial-weaponization-suite/.
+
+Browne, S. _Dark Matters: On the Surveillance of Blackness_. Durham: Duke University Press, 2015.
+
+Couldry, N.; Mejias, U. A. _The Costs of Connection: How Data Is Colonizing Human Life and Appropriating It for Capitalism_. Stanford: Stanford University Press, 2019.
+
+Dagnino, R. (org.). _Tecnologia Social: Ferramenta para Construir Outra Sociedade_. Campinas: Komedi, 2010.
+
+De la Cadena, M. _Earth Beings: Ecologies of Practice across Andean Worlds_. Durham: Duke University Press, 2015.
+
+De la Cadena, M.; Blaser, M. (eds.). _A World of Many Worlds_. Durham: Duke University Press, 2018.
+
+Escobar, A. _Designs for the Pluriverse: Radical Interdependence, Autonomy, and the Making of Worlds_. Durham: Duke University Press, 2018.
+
+Eshun, K. _More Brilliant than the Sun: Adventures in Sonic Fiction_. London: Quartet Books, 1998.
+
+Federici, S. _Calibã e a Bruxa: Mulheres, Corpo e Acumulação Primitiva_. Trad. Coletivo Sycorax. São Paulo: Elefante, 2017.
+
+Federici, S. _Re-enchanting the World: Feminism and the Politics of the Commons_. Oakland: PM Press, 2019.
+
+Ferreira da Silva, D. On Difference Without Separability. In: _Incerteza Viva: 32ª Bienal de São Paulo_. São Paulo: Fundação Bienal, 2016.
+
+Goodman, S. _Sonic Warfare: Sound, Affect, and the Ecology of Fear_. Cambridge, MA: MIT Press, 2010.
+
+Harney, S.; Moten, F. _All Incomplete_. Colchester: Minor Compositions, 2021.
+
+Harney, S.; Moten, F. _The Undercommons: Fugitive Planning and Black Study_. Colchester: Minor Compositions, 2013.
+
+Hui, Y. _The Question Concerning Technology in China: An Essay in Cosmotechnics_. Falmouth: Urbanomic, 2016.
+
+Hui, Y. _Recursivity and Contingency_. London: Rowman & Littlefield, 2019.
+
+Kauffman, S. _At Home in the Universe: The Search for the Laws of Self-Organization and Complexity_. New York: Oxford University Press, 1995.
+
+Kordela, A. K. _Surplus: Spinoza, Lacan_. Albany: SUNY Press, 2007.
+
+Lefebvre, H. _Rhythmanalysis: Space, Time and Everyday Life_. Trad. Stuart Elden e Gerald Moore. London: Continuum, 2004.
+
+Malabou, C. _Ontology of the Accident: An Essay on Destructive Plasticity_. Trad. Carolyn Shread. Cambridge: Polity, 2012.
+
+Malabou, C. _What Should We Do with Our Brain?_ Trad. Sebastian Rand. New York: Fordham University Press, 2008.
+
+Margulis, L. _Symbiotic Planet: A New Look at Evolution_. New York: Basic Books, 1998.
+
+Mbembe, A. _Brutalisme_. Paris: La Découverte, 2020.
+
+Menakem, R. _My Grandmother's Hands: Racialized Trauma and the Pathway to Mending Our Hearts and Bodies_. Las Vegas: Central Recovery Press, 2017.
+
+Prigogine, I.; Stengers, I. _Order Out of Chaos: Man's New Dialogue with Nature_. London: Heinemann, 1984.
+
+Santos, M. _A Natureza do Espaço: Técnica e Tempo, Razão e Emoção_. São Paulo: Hucitec, 1996.
+
+Sarr, F. _Afrotopia_. Trad. Drew S. Burk. Minneapolis: University of Minnesota Press, 2019.
+
+Sheldrake, M. _Entangled Life: How Fungi Make Our Worlds, Change Our Minds and Shape Our Futures_. London: Bodley Head, 2020.
+
+Spillers, H. J. Mama's Baby, Papa's Maybe: An American Grammar Book. _Diacritics_, v. 17, n. 2, 1987.
+
+Tsing, A. L. _The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins_. Princeton: Princeton University Press, 2015.
+
+Vieira Pinto, Á. _O Conceito de Tecnologia_. 2 vols. Rio de Janeiro: Contraponto, 2005.
+
+Viveiros de Castro, E. _Metafísicas Canibais_. São Paulo: Cosac Naify/n-1 edições, 2015.
+
+Weheliye, A. G. _Habeas Viscus: Racializing Assemblages, Biopolitics, and Black Feminist Theories of the Human_. Durham: Duke University Press, 2014.
+
+Weizman, E. _Forensic Architecture: Violence at the Threshold of Detectability_. New York: Zone Books, 2017.
+
+Zuboff, S. _The Age of Surveillance Capitalism_. New York: Public Affairs, 2019.
