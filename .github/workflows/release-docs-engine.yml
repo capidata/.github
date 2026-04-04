@@ -1,0 +1,106 @@
+name: Release DocsEngine
+
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Extract version from tag
+        id: version
+        run: echo "tag=${GITHUB_REF#refs/tags/}" >> "$GITHUB_OUTPUT"
+
+      - name: Prepare release assets
+        run: |
+          mkdir -p dist
+
+          # Core library
+          cp docs/assets/scripts/docs.js dist/docs-engine.js
+          cp docs/assets/css/styles.css dist/docs-engine.css
+          cp docs/docs.json dist/docs.json.example
+          cp docs/sw.js dist/sw.js
+          cp docs/serve.py dist/serve.py
+
+          # Minify JS (simple, no dependencies)
+          npx --yes terser docs/assets/scripts/docs.js \
+            --compress --mangle \
+            -o dist/docs-engine.min.js
+
+          # Minify CSS
+          npx --yes clean-css-cli \
+            docs/assets/css/styles.css \
+            -o dist/docs-engine.min.css
+
+          # Bundle zip
+          cd dist
+          zip -r ../docs-engine-${{ steps.version.outputs.tag }}.zip \
+            docs-engine.js \
+            docs-engine.min.js \
+            docs-engine.css \
+            docs-engine.min.css \
+            docs.json.example \
+            sw.js \
+            serve.py
+          cd ..
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          name: DocsEngine ${{ steps.version.outputs.tag }}
+          body: |
+            ## DocsEngine ${{ steps.version.outputs.tag }}
+
+            Biblioteca reutilizável de documentação com:
+            - Renderização de Markdown via GitHub ou local
+            - Diagramas Mermaid com injeção automática
+            - Sumário auto-gerado por documento
+            - 3 temas (claro, cinza, escuro) + 7 cores accent
+            - 7 opções de fonte via Google Fonts
+            - Tradução automática em 7 idiomas
+            - URLs limpas com fallback hash
+            - Botão scroll-to-top glassmorphism
+            - Service worker para acesso offline
+            - Configuração via `docs.json`
+
+            ### Arquivos
+
+            | Arquivo | Descrição |
+            |---|---|
+            | `docs-engine.js` | Biblioteca principal |
+            | `docs-engine.min.js` | Versão minificada |
+            | `docs-engine.css` | Estilos completos |
+            | `docs-engine.min.css` | Estilos minificados |
+            | `docs.json.example` | Configuração de exemplo |
+            | `sw.js` | Service worker |
+            | `serve.py` | Servidor de desenvolvimento com SPA fallback |
+
+            ### Uso rápido
+
+            ```html
+            <link rel="stylesheet" href="docs-engine.css" />
+            <script src="docs-engine.js"></script>
+            <script>
+              fetch("docs.json")
+                .then(r => r.json())
+                .then(c => DocsEngine.init(c));
+            </script>
+            ```
+
+            Licença: [Ética Capiba v0.3](https://github.com/capidata/.github/blob/main/LICENCA.md)
+          files: |
+            docs-engine-${{ steps.version.outputs.tag }}.zip
+            dist/docs-engine.js
+            dist/docs-engine.min.js
+            dist/docs-engine.css
+            dist/docs-engine.min.css
+            dist/docs.json.example
+            dist/sw.js
+            dist/serve.py

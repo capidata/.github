@@ -6,6 +6,7 @@
     "branch": "main"
   },
   "localDocs": [
+    "COMPUTADOR_TERNARIO.md",
     "ETICA_DO_DESEJO.md",
     "LICENCA.md",
     "O_QUE_E_CAPIDATA.md",
@@ -31,5 +32,48 @@
     "label": "Sumário",
     "minHeadings": 3
   },
-  "diagramsPath": "diagramas"
+  "diagramsPath": "diagramas",
+  "sidebar": {
+    "links": {
+      "enabled": true,
+      "label": "Links",
+      "items": [
+        {
+          "label": "GitHub",
+          "url": "https://github.com/capidata",
+          "icon": "github"
+        },
+        {
+          "label": "Matrix",
+          "url": "https://matrix.to/#/#capidata:matrix.org",
+          "icon": "matrix"
+        }
+      ]
+    },
+    "theme": {
+      "enabled": true,
+      "label": "Tema"
+    },
+    "colors": {
+      "enabled": true,
+      "label": "Cor"
+    },
+    "fonts": {
+      "enabled": true,
+      "label": "Fonte"
+    },
+    "languages": {
+      "enabled": true,
+      "label": "Idioma",
+      "items": [
+        { "code": "pt", "label": "PT", "title": "Português" },
+        { "code": "es", "label": "ES", "title": "Español" },
+        { "code": "en", "label": "EN", "title": "English" },
+        { "code": "fr", "label": "FR", "title": "Français" },
+        { "code": "ar", "label": "AR", "title": "العربية" },
+        { "code": "zh", "label": "ZH", "title": "中文" },
+        { "code": "hi", "label": "HI", "title": "हिन्दी" }
+      ]
+    }
+  }
 }
