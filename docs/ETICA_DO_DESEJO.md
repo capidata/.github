@@ -11,15 +11,15 @@ _Compilação de ideias desenvolvida por **Silvano Neto**, com apoio de ferramen
 
 ## Sumário
 
-Este ensaio propõe uma ética do desejo como fundamento para a transformação social no Brasil. A tese central sustenta que a violência social, da díade familiar à geopolítica imperial, atravessa todos os estratos por um mesmo mecanismo: o desejo projetado. Um corpo tenta fazer o outro viver conforme o seu próprio temperamento, usando o afeto como instrumento de controle.
+A ética do desejo é proposta aqui como fundamento para a transformação social no Brasil. A tese central sustenta que a violência social, da díade familiar à geopolítica imperial, atravessa todos os estratos por um mesmo mecanismo: o desejo projetado. Um corpo tenta fazer o outro viver conforme o seu próprio temperamento, usando o afeto como instrumento de controle.
 
 O argumento se desenvolve em cinco movimentos.
 
-O primeiro movimento (capítulos I–II) parte de uma cena autobiográfica para diagnosticar o mecanismo do desejo projetado como célula primordial do que o ensaio chama de câncer social. O amor projetado (atenção condicionada disfarçada de afeto incondicional) nasce dentro do vínculo, usa os mesmos canais do cuidado legítimo, e se replica fractalmente da família à escola, da igreja ao Estado, do Estado ao imperialismo. O diagnóstico de Winnicott sobre o eu falso é ampliado para o contexto da periferia urbana brasileira, onde a falha primária não pertence à díade mãe-bebê, mas às instituições que aparecem na vida cotidiana como violência difusa e sistêmica.
+O primeiro movimento (capítulos I–II) parte de uma cena autobiográfica para diagnosticar o mecanismo do desejo projetado como célula primordial do câncer social. O amor projetado (atenção condicionada disfarçada de afeto incondicional) nasce dentro do vínculo, usa os mesmos canais do cuidado legítimo, e se replica fractalmente da família à escola, da igreja ao Estado, do Estado ao imperialismo. O diagnóstico de Winnicott sobre o eu falso é ampliado para o contexto da periferia urbana brasileira, onde a falha primária não pertence à díade mãe-bebê, mas às instituições que aparecem na vida cotidiana como violência difusa e sistêmica.
 
 O segundo movimento (capítulos III–VIII) mobiliza cinco tradições filosóficas para buscar nomear o mecanismo com precisão e articulá-lo ao contexto do Sul Global. A ontologia de Spinoza ancora o conatus como essência, a ambitio como mecânica formal da projeção, a distinção entre potentia e potestas, e a proposição VP3 (uma paixão compreendida inicia uma ação) como programa ético. A gramática estrutural de Lacan articula o desejo do Outro, os quatro discursos, a identificação com o sintoma como alternativa à travessia do fantasma coletiva, e uma teoria do fracasso centrada no acting out. A analítica do poder capilar de Foucault situa o assujettissement, as tecnologias do eu, a governamentalidade, e as contracondutas como ponto onde o sujeito começa a ser governado de outra maneira.
 
-Deleuze e Guattari invertem a relação entre desejo e falta. O desejo engendra, o microfascismo atua em regime molecular, e a questão organizativa não se reduz a ter ou não ter organização, mas a qual arquitetura maximiza a potência sem capturá-la. O pensamento anticolonial (Freire, Fanon, Rolnik, Rivera Cusicanqui, Gonzalez, Krenak, Dussel, Santos) revela que o desejo projetado atravessa não apenas relações interpessoais, mas funciona como mecanismo estrutural do colonialismo, com cor, história colonial e geografia. O corpo vibrátil, conceito central de Suely Rolnik, aparece como o mais próximo da tese central. A capacidade de ser afetado pelo que o sistema de defesa identifica como ameaça e de deixar que esse afeto gere transformação em vez de proteção.
+Deleuze e Guattari invertem a relação entre desejo e falta. O desejo engendra, o microfascismo atua em regime molecular, e a questão organizativa é qual arquitetura maximiza a potência sem capturá-la. O pensamento anticolonial (Freire, Fanon, Rolnik, Rivera Cusicanqui, Gonzalez, Krenak, Dussel, Santos) revela que o desejo projetado ultrapassa as relações interpessoais e opera como mecanismo estrutural do colonialismo, com cor, história colonial e geografia. O corpo vibrátil, conceito central de Suely Rolnik, aparece como o mais próximo da tese central. A capacidade de ser afetado pelo que o sistema de defesa identifica como ameaça e de deixar que esse afeto gere transformação em vez de proteção.
 
 O terceiro movimento (capítulos IX–XIII) converte o diagnóstico em condições teóricas e matemáticas de possibilidade. A convergência das cinco tradições filosóficas se formaliza (cap. IX). Os encontros transformadores se desdobram em quatro movimentos fenomenológicos, nomeação coletiva, reconhecimento, identificação de causalidade, ação emergente, com suas pré-condições institucionais. A fenomenologia se articula com a teoria dos jogos iterados (cap. XIII), que via Axelrod, Ostrom e Rubinstein fornece prova matemática de que o design institucional deliberado permite escapar do Dilema do Prisioneiro e de que a desigualdade extrema (fator de desconto δ elevado) impede a cooperação. A necropolítica de Mbembe traduz esse impasse como assimetria de horizontes temporais. Quando δ se reduz pela ficção de que o corpo não tem futuro, o sujeito racional da teoria dos jogos cessa de existir e a cooperação se torna impossível.
 
@@ -27,23 +27,23 @@ O quarto movimento (capítulos XIV–XVIII) traduz essas condições teóricas e
 
 O quinto movimento (capítulos XIX–XXI) analisa a conjuntura de 2026 e os sujeitos políticos adequados ao momento. A análise do Estado brasileiro (cap. XIX) estabelece o terreno onde a transformação ocorre. O hacker-cientista (cap. XX) emerge como figura política adequada, aquele que atua nos sistemas do adversário para construir autonomia, recusando tanto a pureza revolucionária quanto a captura institucional. E a federação transversal (cap. XXI) com cinco princípios fundantes, incluindo protocolos de conflito sem expurgo, autonomia compositiva, e a exigência de que a forma do desejo (não apenas o conteúdo do programa) constitua a organização, ao materializar as condições teóricas como resposta política.
 
-O ensaio se escreve desde Pernambuco, desde a periferia do sistema capitalista, como operação de redistribuição do sensível. Recusa ser anticorpo e se oferece como tentativa de corpo vibrátil, texto que convida o leitor a ser afetado por ele, inclusive quando o afeto toma a forma de crítica, resistência ou recusa.
+O texto se escreve desde Pernambuco, desde a periferia do sistema capitalista, como operação de redistribuição do sensível. Recusa ser anticorpo e se oferece como tentativa de corpo vibrátil, convite a ser afetado, inclusive quando o afeto toma a forma de crítica, resistência ou recusa.
 
 ## Metodologia Científica
 
-A estrutura deste ensaio funciona como a própria metodologia, não como artifício retórico. Quando o leitor segue a progressão de cinco movimentos, da cena do recreio à teoria dos filósofos, da formalização matemática à arquitetura territorial, e finalmente à análise da conjuntura política, acompanha uma operação dialética rigorosa. Parte da experiência vivida, abstrai o mecanismo universal que a determina, formaliza-o em estruturas precisas, e retorna à prática com capacidade transformadora ampliada. Hegel, Marx e Ilyenkov desenvolveram este método materialista clássico, onde não há primado da teoria sobre a experiência, nem relativismo que nega a possibilidade de conhecimento. Há um movimento onde cada nível de análise (pessoal, institucional, estatal, teórico, formalizado) nega e supera o anterior enquanto preserva o que tinha de verdadeiro nele.
+A estrutura funciona como a própria metodologia, não como artifício retórico. Quando o leitor segue a progressão de cinco movimentos, da cena do recreio à teoria dos filósofos, da formalização matemática à arquitetura territorial, e finalmente à análise da conjuntura política, acompanha uma operação dialética rigorosa. Parte da experiência vivida, abstrai o mecanismo universal que a determina, formaliza-o em estruturas precisas, e retorna à prática com capacidade transformadora ampliada. Hegel, Marx e Ilyenkov desenvolveram este método materialista clássico, onde não há primado da teoria sobre a experiência, nem relativismo que nega a possibilidade de conhecimento. Há um movimento onde cada nível de análise (pessoal, institucional, estatal, teórico, formalizado) nega e supera o anterior enquanto preserva o que tinha de verdadeiro nele.
 
-O ensaio responde a cinco critérios dialéticos que garantem coerência interna. O primeiro, a coerência conceitual, exige que cada categoria introduzida seja retomada nos capítulos seguintes com maior precisão. O desejo projetado que aparece no recreio reaparece como ambitio em Spinoza, como discurso do Mestre em Lacan, como assujettissement em Foucault. Esses conceitos não se distinguem entre si, mas nomeiam com precisão crescente o mesmo mecanismo. O segundo critério, o movimento dialético propriamente dito (aufheben), garante que o diagnóstico pessoal do bullying não se anule por ser estrutural, mas se amplie. A filosofia não se anula por ser matemática, mas se formaliza. Este padrão se repete a cada transição de capítulo, como um ritmo que sustenta a coerência total.
+O argumento responde a cinco critérios dialéticos que garantem coerência interna. O primeiro, a coerência conceitual, exige que cada categoria introduzida seja retomada nos capítulos seguintes com maior precisão. O desejo projetado que aparece no recreio reaparece como ambitio em Spinoza, como discurso do Mestre em Lacan, como assujettissement em Foucault. Esses conceitos nomeiam com precisão crescente o mesmo mecanismo. O segundo critério, o movimento dialético propriamente dito (aufheben), garante que o diagnóstico pessoal do bullying se amplie ao tornar-se estrutural. A filosofia se formaliza ao tornar-se matemática. Este padrão se repete a cada transição de capítulo, como um ritmo que sustenta a coerência total.
 
-O terceiro critério, a materialidade, ancora toda abstração no que já existe. Spinoza, Lacan, Foucault não funcionam como autoridades distantes, mas como descritores precisos do que a prática já realiza. O Banco Palmas, o MST, os quilombos, as cozinhas comunitárias não apenas ilustram a teoria, mas também provam que a teoria descreve práticas que já existem. Este movimento de ida e volta entre abstração e concretude garante que o texto não se afaste da realidade vivida. O quarto critério, a clareza através de densidade controlada, regula o peso de cada parágrafo. Um parágrafo pode carregar até 130-140 palavras quando cada sentença tem peso conceitual, mas acima disso precisa de respiração. As quebras textuais não surgem arbitrariamente, mas em pontos de transição semântica, onde o argumento muda de direção ou introduz novo registro. Dessa forma, a clareza serve ao conteúdo.
+O terceiro critério, a materialidade, ancora toda abstração no que já existe. Spinoza, Lacan, Foucault são descritores precisos do que a prática já realiza. O Banco Palmas, o MST, os quilombos, as cozinhas comunitárias provam que a teoria descreve práticas que já existem. Este movimento de ida e volta entre abstração e concretude garante que o texto não se afaste da realidade vivida. O quarto critério, a clareza através de densidade controlada, regula o peso de cada parágrafo. Um parágrafo pode carregar até 130-140 palavras quando cada sentença tem peso conceitual, mas acima disso precisa de respiração. As quebras textuais não surgem arbitrariamente, mas em pontos de transição semântica, onde o argumento muda de direção ou introduz novo registro. Dessa forma, a clareza serve ao conteúdo.
 
-O quinto critério, talvez o mais importante, exige alinhamento com um Pacto Fundante. Todo capítulo responde à pergunta central: "Amplifica ou diminui a potência de agir dos corpos que compõem esta rede?". Definimos oito princípios invioláveis: Soberania, Anti-colonialismo, Assimetria como dado, Ilegibilidade estratégica, Conatus coletivo, Commons, Prática sobre discurso, Autocorreção permanente, que não são meramente impostos de fora sobre o ensaio. Estes emergem de sua própria lógica interna. Quando um capítulo é coerente, dialético, materialista, claro e alinhado com esses cinco critérios, ele está pronto.
+O quinto critério, talvez o mais importante, exige alinhamento com um Pacto Fundante. Todo capítulo responde à pergunta central: "Amplifica ou diminui a potência de agir dos corpos que compõem esta rede?". Definimos oito princípios invioláveis: Soberania, Anti-colonialismo, Assimetria como dado, Ilegibilidade estratégica, Conatus coletivo, Commons, Prática sobre discurso, Autocorreção permanente, que não são meramente impostos de fora. Emergem da própria lógica interna. Quando um capítulo é coerente, dialético, materialista, claro e alinhado com esses cinco critérios, ele está pronto.
 
-Este ensaio realiza o que Rancière chamou de redistribuição do sensível. Não apenas em tema, mas em forma. Cada capítulo rejeita a separação disciplinar que torna a teoria inacessível a quem vive o problema. A psicanálise e a teoria dos jogos não estão separadas em disciplinas diferentes, porque o corpo que sofre não sofre "psicanaliticamente" apenas ou "economicamente" apenas. Este corpo sofre a conjunção dos dois. O português brasileiro, o vocabulário da periferia, as referências ao rap e ao coco de roda tanto quanto à filosofia, tudo isso recusa que a compreensão seja propriedade privada de quem pode pagar a pedagogia elevada.
+O que se realiza aqui é o que Rancière chamou de redistribuição do sensível. Não apenas em tema, mas em forma. Cada capítulo rejeita a separação disciplinar que torna a teoria inacessível a quem vive o problema. A psicanálise e a teoria dos jogos não estão separadas em disciplinas diferentes, porque o corpo que sofre não sofre "psicanaliticamente" apenas ou "economicamente" apenas. Este corpo sofre a conjunção dos dois. O português brasileiro, o vocabulário da periferia, as referências ao rap e ao coco de roda tanto quanto à filosofia, tudo isso recusa que a compreensão seja propriedade privada de quem pode pagar a pedagogia elevada.
 
 Cada capítulo passou por um processo de verificação também em cinco fases. Primeiro, uma leitura totalizante pergunta qual contradição central o capítulo resolve. Segundo, a análise das determinações verifica como os cinco critérios atuam nele. Terceiro, a síntese de ressalvas identifica onde o argumento carrega densidade excessiva e onde precisa respirar. Quarto, a aprovação avalia se a forma serve ao conteúdo ou o prejudica. Quinto, o retorno à totalidade confirma se o capítulo conecta coerentemente ao anterior e ao seguinte. Este processo garantiu que os 21 capítulos mais a Coda operem como unidade coerente, não como coleção de ensaios justapostos.
 
-Por fim, o ensaio se escreve com a intenção de ser um corpo vibrátil, conforme o conceito que Suely Rolnik desenvolve. Não para transmitir informação neutra, mas para convidar o leitor a ser afetado. Este afeto pode ser concordância, discordância, incômodo ou raiva. O que importa é que o texto não deixe o leitor indiferente, porque a indiferença constitui o estado que o sistema capitalista busca instalar. Indignação que se expressa nas redes sociais mas não transforma estrutura alimenta ainda uma forma de indiferença. O corpo vibrátil que este ensaio propõe se deixa tocar pelo argumento de modo que a compreensão engendre ação capaz de transformar a si mesmo e ao mundo ao redor.
+Por fim, o texto se escreve com a intenção de ser um corpo vibrátil, conforme o conceito que Suely Rolnik desenvolve. Não para transmitir informação neutra, mas para convidar o leitor a ser afetado. Este afeto pode ser concordância, discordância, incômodo ou raiva. O que importa é que o texto não deixe o leitor indiferente, porque a indiferença constitui o estado que o sistema capitalista busca instalar. Indignação que se expressa nas redes sociais mas não transforma estrutura alimenta ainda uma forma de indiferença. O corpo vibrátil proposto aqui se deixa tocar pelo argumento de modo que a compreensão engendre ação capaz de transformar a si mesmo e ao mundo ao redor.
 
 ## I. A ferida e o mecanismo
 
@@ -65,7 +65,7 @@ O regime que não pode oferecer futuro oferece pelo menos o presente da dominaç
 
 Para Winnicott, o bebê nasce com um potencial de ser e viver. A mãe suficientemente boa responde aos gestos espontâneos da criança e, ao responder, valida a existência autônoma dela. O eu verdadeiro se enraíza nessa experiência de ser reconhecido sem ter que performar. Quando o ambiente falha, o bebê se adapta e aprende a antecipar as necessidades do adulto em vez das próprias. Aqui, nasce o eu falso, fachada defensiva que impede que os gestos espontâneos sejam comunicados.
 
-O diagnóstico de Winnicott foi construído a partir da clínica de consultório, com foco na díade mãe-bebê. Na periferia urbana brasileira, o mapa precisa ser ampliado. A família não funciona como vetor primário da violência psíquica que instala o eu falso. Frequentemente é o único espaço de amparo contra os vetores institucionais que a precedem e a excedem.
+O diagnóstico de Winnicott foi construído a partir da clínica de consultório, com foco na díade mãe-bebê. Na periferia urbana brasileira, o mapa exige ampliação. A família não é o vetor primário da violência psíquica que instala o eu falso. Frequentemente é o único espaço de amparo contra os vetores institucionais que a precedem e a excedem.
 
 A escola estadual que humilha ao invés de acolher. O CAPS que diagnostica e medica sem escutar. A UBS sobrecarregada que atende sem presença. A polícia que aborda antes de perguntar. A criança de Borborema que aprende que sua forma de falar é "errada", que seu sofrimento é rapidamente medicado sem ser ouvido, que seu corpo é suspeito antes de ser sujeito. Essa criança desenvolve o mesmo mecanismo de complacência que Winnicott descreve, mas num ambiente onde a falha não vem da díade. Esta, vem do Estado que aparece na vida cotidiana como violência difusa e sistêmica.
 
@@ -73,7 +73,7 @@ Winnicott propõe, como metáfora curadora, a "mãe suficientemente boa" que fal
 
 Quando o orçamento foi contingenciado e esses agentes foram reduzidos ou remanejados para tarefas administrativas, o que se perdeu não foi eficiência. Perdeu-se o tempo, o único recurso que Winnicott nomeou como insubstituível. Colapsar a institucionalidade facilitadora e colapsar o tempo são a mesma coisa.
 
-Isso não elimina a violência familiar. Muda o mapa e, portanto, o design das intervenções. A ética do desejo que este ensaio propõe não pode se limitar a transformar relações afetivas interpessoais. Precisa confrontar as instituições como ambientes que sistematicamente falham e que, ao fazê-lo, instalam o eu falso antes que qualquer relação íntima tenha a chance de reparar. Mas também precisa nomear, com precisão clínica, onde as instituições funcionam, onde a mãe suficientemente boa ainda existe, para que essas exceções se tornem regra.
+A violência familiar não se elimina por aí. O que muda é o mapa e, portanto, o design das intervenções. A ética do desejo não pode se limitar a transformar relações afetivas interpessoais. Precisa confrontar as instituições como ambientes que sistematicamente falham e que, ao fazê-lo, instalam o eu falso antes que qualquer relação íntima tenha a chance de reparar. Mas também precisa nomear, com precisão clínica, onde as instituições funcionam, onde a mãe suficientemente boa ainda existe, para que essas exceções se tornem regra.
 
 ### A subjetividade como campo de batalha
 
@@ -96,7 +96,7 @@ Essa célula se replica em todas as escalas, através do pai que ama o filho na 
 
 ### A distinção necessária: amor que falha e amor que projeta
 
-No entanto, a formulação "amor projetado como câncer social" carrega um risco que precisa ser nomeado. Ao tratar todo amor como suspeito, o argumento pode patologizar o afeto em geral. Inclusive o cuidado genuíno que já funciona como noção comum spinoziana, afeto que resiste à lógica dominante sem ter nome teórico.
+No entanto, a formulação "amor projetado como câncer social" carrega um risco que exige nomeação. Ao tratar todo amor como suspeito, o argumento pode patologizar o afeto em geral. Inclusive o cuidado genuíno que já funciona como noção comum spinoziana, afeto que resiste à lógica dominante sem ter nome teórico.
 
 A distinção operativa é outra. O amor que falha (o pai que ama de forma imperfeita, que comete erros sem ter projeto de colonização) é estruturalmente diferente do amor projetado, que usa o afeto como instrumento de controle com uma coerência que revela sistema, não acidente. A criança pode ser ferida pelos dois. O segundo é o mecanismo do câncer. O primeiro é simplesmente a condição humana.
 
@@ -108,15 +108,15 @@ E que, na periferia brasileira, tem rosto institucional antes de ter rosto famil
 
 ### Fromm, Miller, Han e Laing
 
-Para Fromm, o amor maduro funciona como composição spinoziana. Potências que se encontram e mutuamente se ampliam. O amor no modo do ter funciona como decomposição, no qual um incorpora o outro como extensão do próprio ego. A distinção ter/ser vai além da filosofia e se torna critério clínico que separa o amor que amplia da dependência afetiva que consome.
+Para Fromm, o amor maduro opera como composição spinoziana. Potências que se encontram e mutuamente se ampliam. O amor no modo do ter opera como decomposição, no qual um incorpora o outro como extensão do próprio ego. A distinção ter/ser vai além da filosofia e se torna critério clínico que separa o amor que amplia da dependência afetiva que consome.
 
 Para Miller, a criança sensível aprende a se adaptar às necessidades narcisistas dos pais ao custo do próprio eu autêntico. A linha que ela traça da educação repressiva à política autoritária é direta. Todo perseguidor foi um dia vítima.
 
 No contexto brasileiro, essa linha passa obrigatoriamente pelas instituições. O professor que humilha não o faz apenas por crueldade individual, mas atua dentro de uma pedagogia que o formou desse modo.
 
-Han descreve a sociedade do desempenho como geradora de autoexploração. O sujeito do desempenho é simultaneamente explorador e explorado no mesmo corpo. A formulação importa porque nomeia o ponto onde o mecanismo fractal atinge sua forma terminal, na qual o projetor e o projetado colapsaram na mesma pessoa. O sujeito projeta sobre si mesmo o ideal que o sistema precisa, e experimenta isso como liberdade.
+Han descreve a sociedade do desempenho como geradora de autoexploração. O sujeito do desempenho é simultaneamente explorador e explorado no mesmo corpo. A formulação importa porque nomeia o ponto onde o mecanismo fractal atinge sua forma terminal, na qual o projetor e o projetado colapsaram na mesma pessoa. O sujeito projeta sobre si mesmo o ideal que o sistema precisa; experimenta isso como liberdade.
 
-Han chama de "liberdade paradoxal" o que este ensaio nomeia captura do conatus pelo discurso capitalista. Quanto mais o sujeito se cobra, mais livre se sente, e mais eficiente é a exploração.
+Han chama de "liberdade paradoxal" o que aqui se nomeia captura do conatus pelo discurso capitalista. Quanto mais o sujeito se cobra, mais livre se sente; mais eficiente é a exploração.
 
 O verbo modal mudou, do "não-ter-o-direito" disciplinar ao "poder ilimitado" do desempenho. Mas o desejo projetado não desapareceu. Dispensou a instância externa. A ambitio não precisa mais de porta-voz.
 
@@ -126,17 +126,17 @@ O cansaço solitário que Han diagnostica descreve a experiência fenomenológic
 
 Para Laing, a família pode ser um sistema de jogos que mantêm a sanidade de uns à custa da loucura de outros. O "louco" da família frequentemente é aquele que porta a verdade que o sistema não suporta. Isso ressoa com a criança periférica cujo corpo "hiperatensivo" é medicado quando o problema real é a escola que não sabe acolhê-la.
 
-Édouard Louis traz o caso empírico que confirma a tese deste ensaio desde outra geografia. Na aldeia operária do norte da França, o eu falso não era instalado pela díade mãe-bebê, mas pelo território inteiro. A masculinidade compulsória, a homofobia como norma afetiva do grupo, a fábrica como único horizonte. O ambiente institucional inteiro exigia complacência. A criança Eddy Bellegueule repetia para si "hoje eu vou ser um durão": a mesma adaptação defensiva que Winnicott descreveu na clínica, mas com rosto de classe e sexualidade.
+Édouard Louis traz o caso empírico que confirma a tese central desde outra geografia. Na aldeia operária do norte da França, o eu falso não era instalado pela díade mãe-bebê, mas pelo território inteiro. A masculinidade compulsória, a homofobia como norma afetiva do grupo, a fábrica como único horizonte. O ambiente institucional inteiro exigia complacência. A criança Eddy Bellegueule repetia para si "hoje eu vou ser um durão": a mesma adaptação defensiva que Winnicott descreveu na clínica, mas com rosto de classe e sexualidade.
 
-O mapa etiológico que este ensaio propõe, onde a falha primária é institucional antes de ser familiar, encontra em Louis a confirmação de que o mecanismo funciona com a mesma estrutura formal em Hallencourt e em Borborema.
+O mapa etiológico proposto aqui, onde a falha primária é institucional antes de ser familiar, encontra em Louis a confirmação de que o mecanismo funciona com a mesma estrutura formal em Hallencourt e em Borborema.
 
 ### O mecanismo e suas escalas
 
 A célula se replica porque o mecanismo é fractal. O mesmo padrão ("eu te amo na condição de que você seja o que preciso que você seja") opera da díade afetiva à geopolítica imperial. No nível interpessoal, o pai e o filho. No institucional, a escola e o aluno, o partido e o militante. No nacional, o Estado e o cidadão. No global, o imperialismo e a nação dependente. Nomear o mecanismo em sua célula primordial é a condição para reconhecê-lo em todas as outras escalas onde age.
 
-O mecanismo precisa ser nomeado. Não como metáfora, mas como mecânica. O desejo projetado atravessa da díade ao império com a mesma estrutura formal, e se replica porque usa os canais do cuidado legítimo, tornando-se indistinguível dele para quem está dentro.
+O mecanismo exige nome. Mecânica, e não metáfora. O desejo projetado atravessa da díade ao império com a mesma estrutura formal; replica-se porque usa os canais do cuidado legítimo, tornando-se indistinguível dele para quem está dentro.
 
-A experiência o conhece antes da teoria. A criança que apanha no recreio sabe, no corpo, o que este ensaio levará vinte e um capítulos para formular. Mas nomear pelo corpo não basta. A experiência sem conceito gera sofrimento lúcido. O conceito sem experiência vira tese de doutorado. O que se segue é o trabalho de forjar as ferramentas de precisão que a experiência exige.
+A experiência o conhece antes da teoria. A criança que apanha no recreio sabe, no corpo, o que levará vinte e um capítulos para formular. Mas nomear pelo corpo não basta. A experiência sem conceito gera sofrimento lúcido. O conceito sem experiência vira tese de doutorado. O que se segue é o trabalho de forjar as ferramentas de precisão que a experiência exige.
 
 <mermaid src="cap-II" description="Amor como posse é a célula primordial: 'eu te amo se você for o que preciso que você seja'. Esse mecanismo se replica de forma fractal em todas as escalas, do casal à geopolítica imperial."></mermaid>
 
@@ -145,7 +145,7 @@ A experiência o conhece antes da teoria. A criança que apanha no recreio sabe,
 
 ### O conatus como essência
 
-Spinoza fornece a fundação ontológica. Na Ética III, Proposições 6 e 7, o conatus designa a essência atual de cada coisa, o esforço de perseverar no próprio ser.
+Spinoza fornece a fundação ontológica. Na Ética III, Proposições 6 e 7, o conatus é a essência atual de cada coisa, o esforço de perseverar no próprio ser.
 
 O desejo é o conatus com consciência. Não falta nem carência, mas expressão afirmativa da potência de um ser que quer continuar sendo.
 
@@ -169,17 +169,17 @@ No Tratado Político, Spinoza é mais cauteloso do que no Spinoza de Deleuze e N
 
 O programa político de Spinoza não propõe a abolição do Estado, mas o design de instituições que minimizem a captura da potência por poucos. A democracia spinoziana não surge da expressão espontânea da potência constituinte, mas de instituições deliberadamente construídas para que a multidão possa agir sem ser capturada pela ambitio de uma fração.
 
-Consequência direta para este ensaio. A Comunidade-Nação proposta aqui exige design democrático construído com o mesmo rigor com que se constrói uma cooperativa ou um banco comunitário.
+Consequência direta: a Comunidade-Nação proposta aqui exige design democrático construído com o mesmo rigor com que se constrói uma cooperativa ou um banco comunitário.
 
 A revolução não acontece porque a potência quer. Acontece porque as condições foram deliberadamente produzidas.
 
 ### O homem cordial e a ambivalência do afeto brasileiro
 
-O "homem cordial" de Sérgio Buarque de Holanda é frequentemente lido como a figura do desejo projetado por excelência, a incapacidade de separar afeto de poder, que usa o vínculo pessoal para reproduzir hierarquia sem precisar de norma formal. O patrimonialismo, o favor, o clientelismo, todas expressões dessa face da cordialidade.
+O "homem cordial" de Sérgio Buarque de Holanda é frequentemente lido como a figura do desejo projetado por excelência, a incapacidade de separar afeto de poder, que usa o vínculo pessoal para reproduzir hierarquia sem precisar de norma formal. O patrimonialismo, o favor, o clientelismo; todas expressões dessa face da cordialidade.
 
-A cordialidade tem outra face, que uma leitura exclusivamente crítica apaga. O afeto arcaico que resiste à frieza da racionalidade burocrática capitalista. A vizinha que cuida do filho da outra sem contrato. O mutirão que constrói a casa sem salário. A cozinha comunitária que alimenta sem nota fiscal. São expressões da mesma cordialidade. Aqui ela funciona como noção comum spinoziana, propriedade real compartilhada que o projeto colonial-capitalista tenta destruir para impor o cálculo racional-individual.
+A cordialidade tem outra face, que uma leitura exclusivamente crítica apaga: o afeto arcaico que resiste à frieza da racionalidade burocrática capitalista. A vizinha que cuida do filho da outra sem contrato. O mutirão que constrói a casa sem salário. A cozinha comunitária que alimenta sem nota fiscal. São expressões da mesma cordialidade. Aqui ela funciona como noção comum spinoziana, propriedade real compartilhada que o projeto colonial-capitalista tenta destruir para impor o cálculo racional-individual.
 
-A ética do desejo que este ensaio propõe não busca substituir a cordialidade pela racionalidade instrumental, mas transformar a cordialidade que domina em cordialidade que compõe.
+A ética do desejo não busca substituir a cordialidade pela racionalidade instrumental, mas transformar a cordialidade que domina em cordialidade que compõe.
 
 Marilena Chauí analisa como a cordialidade se torna ideologia através do mito da democracia racial. O Brasil que se imagina sem conflito racial porque é miscigenado, porque todos se amam, porque não há ódio explícito entre raças.
 
@@ -187,7 +187,7 @@ Essa imagem de si mesmo é ambitio coletiva. O Brasil se projeta sobre si mesmo 
 
 A cordialidade que acolhe pode simultaneamente aprisionar. A porta aberta para o negro entra pela porta de serviço. A integração de classe que Brasília proclamava era absorção dentro de uma hierarquia nunca questionada.
 
-A ambitio spinoziana age aqui em escala de memória nacional. O país como corpo coletivo que tenta fazer todos viverem conforme um temperamento único, o do senhor de engenho convertido em democrático durante a escravidão, em moderno durante o desenvolvimentismo, em igualitário durante o mito da democracia racial.
+A ambitio spinoziana age aqui em escala de memória nacional. O país como corpo coletivo que tenta fazer todos viverem conforme um temperamento único: o do senhor de engenho convertido em democrático durante a escravidão, em moderno durante o desenvolvimentismo, em igualitário durante o mito da democracia racial.
 
 A descolonização exige compreender como a cordialidade que narra a si mesma como inclusiva produz uma inclusão que reproduz exclusão.
 
@@ -197,7 +197,7 @@ A passagem da servidão à liberdade em Spinoza não acontece por ato de vontade
 
 Quando o mutirão executa, quando a cozinha comunitária funciona, quando o mapeamento do bairro revela forças locais que ninguém sabia que existiam, há alegria. Essa alegria vai além do sentimento, sinaliza que a potência está aumentando. E potência aumentada é potência que pode pensar. A passagem das paixões alegres para a razão é a passagem da experiência de composição bem-sucedida para a compreensão de _por que_ ela funciona.
 
-Por isso a "cordialidade que compõe" não se reduz a afeto nostálgico, mas funciona como identificação operacional das situações em que corpos se encontram de forma que mutuamente amplificam-se. O trabalho é reconhecer quando estamos em paixão triste (competição, ressentimento, inveja) e criar deliberadamente as condições para paixões alegres (colaboração, reconhecimento, criação coletiva).
+Por isso a "cordialidade que compõe" não se reduz a afeto nostálgico, mas é identificação operacional das situações em que corpos se encontram de forma que mutuamente amplificam-se. O trabalho é reconhecer quando estamos em paixão triste (competição, ressentimento, inveja) e criar deliberadamente as condições para paixões alegres (colaboração, reconhecimento, criação coletiva).
 
 Essa criação deliberada de condições corresponde ao que a Comunidade-Nação em sete camadas propõe.
 
@@ -224,13 +224,13 @@ Fanon desloca o estádio do espelho do consultório para a situação colonial. 
 
 ### Os quatro discursos
 
-No Seminário XVII, Lacan formaliza quatro discursos. O discurso do mestre (S1 → S2) é a estrutura do desejo projetado em sua forma mais pura. O Significante-Mestre comanda o saber, gera um resto não contabilizado, e a verdade (a divisão do sujeito) permanece recalcada. A mesma estrutura do pai que sabe o que o filho deve ser. Da organização que sabe a linha correta. Do Estado que sabe o que o povo precisa.
+No Seminário XVII, Lacan formaliza quatro discursos. O discurso do mestre (S1 → S2) é a estrutura do desejo projetado em sua forma mais pura. O Significante-Mestre comanda o saber, gera um resto não contabilizado; a verdade (a divisão do sujeito) permanece recalcada. A mesma estrutura do pai que sabe o que o filho deve ser. Da organização que sabe a linha correta. Do Estado que sabe o que o povo precisa.
 
-O discurso do analista inverte a posição. O objeto _a_ ocupa o lugar de agente e interpela o sujeito dividido, criando condições para que o analisante produza seu próprio saber. O analista não projeta. Ocupa o lugar do objeto-causa do desejo para que o outro descubra e assuma o seu próprio desejo. Esse é o horizonte ético que este ensaio propõe para a política.
+O discurso do analista inverte a posição. O objeto _a_ ocupa o lugar de agente e interpela o sujeito dividido, criando condições para que o analisante produza seu próprio saber. O analista não projeta. Ocupa o lugar do objeto-causa do desejo para que o outro descubra e assuma o seu próprio desejo. Esse é o horizonte ético proposto para a política.
 
 ### Identificação com o sintoma: o que os coletivos realizam
 
-Uma formulação que circula em determinada tradição política propõe que a descolonização seria uma "travessia do fantasma" coletiva. A precisão clínica exige revisão. A travessia do fantasma (tal como Lacan a formula no Seminário XI) é processo singular, o momento em que o sujeito individual deixa de supor que o Outro tem o objeto perdido. Transpor isso para o coletivo pressupõe um coletivo que funciona como sujeito analítico, o que não existe como tal.
+Uma formulação que circula em determinada tradição política propõe que a descolonização seria uma "travessia do fantasma" coletiva. A precisão clínica exige revisão. A travessia do fantasma (tal como Lacan a formula no Seminário XI) é processo singular, o momento em que o sujeito individual deixa de supor que o Outro tem o objeto perdido. Transpor isso para o coletivo pressupõe um coletivo que age como sujeito analítico, o que não existe como tal.
 
 O que os movimentos de libertação realizam é algo que o Lacan tardio nomeia no Seminário XXIII, _Le Sinthome_, a identificação com o sintoma. Não a cura da divisão subjetiva (que seria a abolição do desejo), mas a assunção do que se é, incluindo o que o sistema colonial inscreveu no corpo e na linguagem. A diferença política é decisiva. Enquanto a travessia promete um estado pós-colonial sem marca, a identificação com o sintoma afirma a potência a partir da marca. Sem precisar apagá-la. Zupančič nomeia essa forma coletiva de vínculo: o "parceiro-sintoma". Não a identidade compartilhada, mas o sintoma compartilhado que se torna potência. A comunidade que se reconhece no que a marca, em vez de negar a marca ou projetá-la no outro, tem base mais sólida que a comunidade identitária.
 
@@ -240,13 +240,13 @@ Isso corresponde ao ch'ixi de Rivera Cusicanqui, coexistência de contrários em
 
 ### Teoria do fracasso: o acting out e a recaída ao mestre
 
-Toda teoria política que propõe transformação subjetiva precisa de uma teoria do fracasso. Do que acontece quando a transformação não acontece. Sem isso, o programa é prescritivo mas não diagnóstico.
+Toda teoria política que propõe transformação subjetiva requer uma teoria do fracasso. Do que acontece quando a transformação não acontece. Sem isso, o programa é prescritivo mas não diagnóstico.
 
 Lacan nomeia o mecanismo. O acting out é o momento em que o sujeito que não suporta a abertura do desejo recua para a segurança da identificação com o mestre.
 
 Na política, o militante que começa a agir a partir do próprio desejo e que, diante do vazio e da vulnerabilidade que esse movimento produz, adere ao próximo líder carismático com intensidade redobrada. O acting out não é exceção. É a regra para sujeitos formados pela pedagogia venenosa que não encontraram, na organização, um ambiente que permitisse a transformação sem recaída.
 
-Toda organização política que leve a sério a ética do desejo precisa de protocolos para acolher o acting out (a deserção súbita, o cisma explosivo, a identificação fervorosa com um novo significante-mestre) como mecanismo regular, não como traição excepcional.
+Toda organização política que leve a sério a ética do desejo requer protocolos para acolher o acting out (a deserção súbita, o cisma explosivo, a identificação fervorosa com um novo significante-mestre) como mecanismo regular, não como traição excepcional.
 
 O acting out tem também uma forma que não é recaída ao mestre, a fuga. Édouard Louis descreve em _Mudar: Método_ a transformação radical de si como acting out em sentido estrito. A deserção do território quando a abertura do desejo é insuportável dentro dele. Louis não adere a um novo significante-mestre. Ele deserta. Muda de nome, de corpo, de classe, de mundo.
 
@@ -254,13 +254,13 @@ A fuga não é integração do sintoma nem recaída, mas terceira via, forçada 
 
 ### Desejo e consumo: o discurso capitalista
 
-O discurso capitalista (formulação tardia de Lacan, apresentada na conferência de Milão em 1972) funciona como torção do discurso do mestre que elimina a impossibilidade. O sujeito neoliberal não deseja, consome. Consumo não é desejo. O desejo é o excedente irredutível que nenhum objeto satisfaz. É o que move além de qualquer satisfação. O consumo é a promessa de que o próximo objeto vai satisfazer. Promessa que o capitalismo renova infinitamente porque nunca cumpre.
+O discurso capitalista (formulação tardia de Lacan, apresentada na conferência de Milão em 1972) é uma torção do discurso do mestre que elimina a impossibilidade. O sujeito neoliberal não deseja, consome. Consumo não é desejo. O desejo é o excedente irredutível que nenhum objeto satisfaz. É o que move além de qualquer satisfação. O consumo é a promessa de que o próximo objeto vai satisfazer. Promessa que o capitalismo renova infinitamente porque nunca cumpre.
 
 O neuro-enhancement é a tradução farmacológica desse discurso. A ritalina, o modafinil, o ansiolítico prometem eliminar a impossibilidade via comprimido. A vitalidade é reduzida a função e desempenho vital. O corpo vira máquina a ser otimizada.
 
 Mas o doping tem classe. O cirurgião que opera melhor com enhancer e o estudante do Ibura que estuda dopado para o ENEM habitam o mesmo paradigma em posições radicalmente assimétricas. Para o primeiro, é otimização. Para o segundo, é condição de sobrevivência, o preço farmacológico de competir num jogo desenhado contra ele.
 
-Quando este ensaio fala em "liberar o desejo" ou em "desejo não projetivo", está falando de algo que o discurso capitalista ativamente impossibilita. A passagem do consumo ao desejo (que é também a passagem da depressão neoliberal à potência spinoziana) requer condições coletivas de encontro que precisam ser deliberadamente construídas.
+Quando se fala aqui em "liberar o desejo" ou em "desejo não projetivo", fala-se de algo que o discurso capitalista ativamente impossibilita. A passagem do consumo ao desejo (que é também a passagem da depressão neoliberal à potência spinoziana) requer condições coletivas de encontro que precisam ser deliberadamente construídas.
 
 <mermaid src="cap-IV" description="Lacan: o desejo é sempre do Outro. Os quatro discursos (mestre, histérica, universitário, analista) são modos distintos de relação. O acting out é mecanismo regular, não traição. No discurso capitalista, o desejo é capturado como mercadoria."></mermaid>
 
@@ -279,7 +279,7 @@ A escola que ensina o nordestino que seu sotaque é "errado" não está apenas t
 
 ### Tecnologias do eu e a virada ética
 
-Foucault identifica quatro tipos de tecnologias, de produção, de sistemas de signos, de poder, e do eu. A interação entre tecnologias de dominação e tecnologias do eu é o que ele chama de governamentalidade. O governo dos outros que funciona porque cada sujeito aprendeu a governar a si mesmo nos termos do dominante.
+Foucault identifica quatro tipos de tecnologias: de produção, de sistemas de signos, de poder e do eu. A interação entre tecnologias de dominação e tecnologias do eu é o que ele chama de governamentalidade. O governo dos outros que funciona porque cada sujeito aprendeu a governar a si mesmo nos termos do dominante.
 
 O cuidado de si (_epimeleia heautou_) era, na cultura greco-romana, historicamente anterior e mais fundamental do que o "conhece-te a ti mesmo". A modernidade inverteu essa hierarquia e exige que o sujeito se torne transparente, decifrável, avaliável. Essa inversão é ela mesma sintoma do desejo projetado. A demanda de se conhecer substitui a demanda ética de se constituir através de práticas de liberdade.
 
@@ -289,7 +289,7 @@ A parresia é o dizer-a-verdade que arrisca. O sujeito que fala de baixo para ci
 
 A contraconduta não equivale à revolução total, mas ao ponto onde o sujeito começa a ser governado de outra maneira.
 
-Mas a contraconduta não é apenas resistência ativa. Han distingue, via Nietzsche, a potência positiva (poder fazer) da potência negativa (poder não-fazer). A potência negativa não é impotência, é a soberania de não reagir ao estímulo, de não projetar sobre o outro, de não expulsar quem diverge.
+Mas a contraconduta não é apenas resistência ativa. Han distingue, via Nietzsche, a potência positiva (poder fazer) da potência negativa (poder não-fazer). A potência negativa é soberania: a de não reagir ao estímulo, de não projetar sobre o outro, de não expulsar quem diverge.
 
 A mestra de coco que mantém a roda no terreiro enquanto o algoritmo pede atenção para outra coisa está exercendo potência negativa, afirmação de outra temporalidade, outro regime de atenção, outro modo de estar no corpo. A sociedade do desempenho destrói a potência negativa porque converte toda capacidade em obrigação de fazer. Quando só existe potência positiva, o sujeito está "irremediavelmente exposto a todo estímulo", e a hiperatividade que sobra é a forma mais acabada da passividade.
 
@@ -299,7 +299,7 @@ A contraconduta mais radical é a capacidade institucionalizada de não-fazer. O
 
 Foucault distingue a medicina do período clássico, que cura o indivíduo, da medicina moderna, que governa a saúde coletiva. O biopoder não é apenas poder sobre os corpos. É poder sobre a vida enquanto fenômeno populacional, natalidade, mortalidade, morbidade, esperança de vida. "O direito de fazer viver e deixar morrer" é a fórmula do soberano clássico. O biopoder inverte: não mata diretamente, deixa morrer seletivamente, faz viver sob certas condições.
 
-Nas periferias urbanas brasileiras, a biopolítica funciona como escrita do abandono. A vacinação foi seletiva. As favelas inteiras esperaram meses enquanto os bairros ricos já completavam o ciclo.
+Nas periferias urbanas brasileiras, a biopolítica age como escrita do abandono. A vacinação foi seletiva. As favelas inteiras esperaram meses enquanto os bairros ricos já completavam o ciclo.
 
 A UPA que nega antibiótico para infecção respiratória porque "não é de competência" está praticando biopolítica. Sabem que o não-fazer resultará em morte ou sequela, que essa morte será estatisticamente invisível, um número em epidemiologia e não uma falha administrativa. A infraestrutura de saúde como tecnologia biopolítica. Postos com medicação insuficiente, em horários que coincidem com trabalho, longe o bastante para desestimular a ida e próximos o suficiente para poder dizer que existem.
 
@@ -324,9 +324,9 @@ O que muda quando o governo muda não é a estrutura governamental do Bolsa Fam�
 
 ### A inversão
 
-Deleuze e Guattari invertem tudo. O desejo não é falta, é produção. O inconsciente não é um teatro de representações, mas fábrica de máquinas desejantes. E a crítica à falta se mostra devastadora. A falta é criada, planejada e organizada na e pela produção social. A criação deliberada de falta como função da economia de mercado é a arte da classe dominante.
+Deleuze e Guattari invertem tudo. O desejo é produção, o contrário da falta. O inconsciente é fábrica de máquinas desejantes, o contrário do teatro de representações. E a crítica à falta se mostra devastadora. A falta é criada, planejada e organizada na e pela produção social. A criação deliberada de falta como função da economia de mercado é a arte da classe dominante.
 
-A questão central, retomada de Spinoza. Por que os homens lutam por sua servidão como se fosse sua salvação? A resposta via Wilhelm Reich. as massas não foram enganadas. Em certo ponto, sob certas condições, elas desejaram o fascismo. O capitalismo desterritorializa com uma mão e reterritorializa com a outra.
+A questão central, retomada de Spinoza. Por que os homens lutam por sua servidão como se fosse sua salvação? A resposta via Wilhelm Reich: as massas não foram enganadas. Em certo ponto, sob certas condições, elas desejaram o fascismo. O capitalismo desterritorializa com uma mão e reterritorializa com a outra.
 
 ### O Corpo sem Órgãos e o microfascismo
 
@@ -338,7 +338,7 @@ O bolsonarismo não se explica sem microfascismo. O regime molecular de afetos q
 
 A máquina de guerra é exterior ao aparelho de Estado. O xadrez é jogo de Estado, peças codificadas, espaço estriado, hierarquia clara. Go age em espaço liso. As pedras não têm funções intrínsecas, o território se constitui progressivamente. O MST ocupa terra e cria espaço liso dentro do estriado. O Banco Palmas cria moeda que circula em espaço liso monetário.
 
-O rizoma é um sistema acentrado, não hierárquico, sem General e sem memória organizadora. Toda vez que uma organização de esquerda reproduz a estrutura arborescente (centro, raiz, galhos, folhas com funções fixas), ela está reterritorializando o espaço que afirmava liberar. A questão não está em ter ou não ter organização, mas em qual arquitetura organizativa maximiza a potência sem capturá-la.
+O rizoma é um sistema acentrado, não hierárquico, sem General e sem memória organizadora. Toda vez que uma organização de esquerda reproduz a estrutura arborescente (centro, raiz, galhos, folhas com funções fixas), ela está reterritorializando o espaço que afirmava liberar. A questão é qual arquitetura organizativa maximiza a potência sem capturá-la.
 
 ### O rizoma como crítica ao partido-vanguarda
 
@@ -377,7 +377,7 @@ Mas há uma lacuna que a honestidade intelectual obriga a marcar. As quatro trad
 
 ### Por que o Sul Global é insubstituível
 
-Os pensadores do Sul Global fazem uma contribuição que as tradições europeias não conseguem fazer sozinhas. Revelam que o desejo projetado age não apenas interpessoalmente, mas como mecanismo estrutural do colonialismo. A análise europeia do poder nomeou os mecanismos com precisão. A análise descolonial revelou que esses mecanismos têm cor, têm história colonial e têm geografia.
+Os pensadores do Sul Global fazem uma contribuição que as tradições europeias não conseguem fazer sozinhas. Revelam que o desejo projetado ultrapassa o interpessoal e age como mecanismo estrutural do colonialismo. A análise europeia do poder nomeou os mecanismos com precisão. A análise descolonial revelou que esses mecanismos têm cor, têm história colonial e têm geografia.
 
 Orlando Fals Borda nomeia uma dessas contribuições, a "ciência própria" e a investigación-acción participativa como contracondutas epistemológicas. A ciência europeia presume que existe observador neutro separado de seu objeto. O colonizador que estuda o colonizado sem estar tocado por esse encontro.
 
@@ -385,7 +385,7 @@ Fals Borda inverte. O conhecimento válido é aquele que serve a quem vive o pro
 
 O mestrado popular de Paulo Freire na periferia é investigación-acción. O povo investiga sua própria realidade, tira conclusões, age sobre essas conclusões, investiga novamente.
 
-A espiral não se confunde com círculo vazio de mobilização, mas com prática que gera verdade porque está enraizada na práxis.
+A espiral é prática que gera verdade porque está enraizada na práxis.
 
 A descolonização do conhecimento é condição para a descolonização do desejo. Enquanto eu exijo que você seja transparente para mim, enquanto preciso que você me diga quem é para poder dominá-lo melhor, o mecanismo permanece. A ciência própria recusa essa simetria falsa.
 
@@ -399,13 +399,13 @@ Antes do ego cogito há um ego conquiro. A filosofia da libertação parte do Ou
 
 ### Fanon: a dimensão psíquica da colonização
 
-O que chamam de alma negra é frequentemente uma construção do branco. O colonizador constrói a subjetividade do colonizado à sua imagem, e o colonizado é convidado a habitar esse espelho como se fosse si mesmo. A cura não é a assimilação (a máscara branca que o Fanon de 1952 ainda esperava) nem a inversão (o espelho quebrado onde o negro coloca-se como centro para negar o branco).
+O que chamam de alma negra é frequentemente uma construção do branco. O colonizador constrói a subjetividade do colonizado à sua imagem; o colonizado é convidado a habitar esse espelho como se fosse si mesmo. A cura não é a assimilação (a máscara branca que o Fanon de 1952 ainda esperava) nem a inversão (o espelho quebrado onde o negro coloca-se como centro para negar o branco).
 
 Em Os Condenados da Terra (1961), Fanon propõe a humanidade nova, o sujeito que emerge quando o colonizado recusa simultaneamente a submissão e o ressentimento espelhado, quando inventa formas de existência que não reproduzem a hierarquia colonial nem sua imagem invertida. O que os capítulos X e XI chamarão de corpo vibrátil, sujeito que é afetado pelo encontro sem ser capturado por ele, Fanon já nomeava como humanidade nova. É o sujeito que não precisa do branco para saber quem é. Nem para imitar, nem para negar, nem para divinizar a negação. Apenas para reconhecer que o encontro com o outro humano é transformador em ambas as direções.
 
 ### Rolnik: o inconsciente colonial-capitalístico e o corpo vibrátil
 
-Suely Rolnik é a pensadora mais próxima da tese central deste ensaio. Seu conceito de inconsciente colonial-capitalístico teoriza diretamente o desejo como terreno de luta. A cafetinagem é o processo pelo qual o capitalismo expropria a subjetividade criativa e converte o corpo vibrátil em força de trabalho e o desejo em consumo.
+Suely Rolnik é a pensadora mais próxima da tese central. Seu conceito de inconsciente colonial-capitalístico teoriza diretamente o desejo como terreno de luta. A cafetinagem é o processo pelo qual o capitalismo expropria a subjetividade criativa e converte o corpo vibrátil em força de trabalho e o desejo em consumo.
 
 O corpo vibrátil é a capacidade de ser afetado pelo que o sistema de defesa identifica como ameaça. E de deixar que esse afeto produza transformação em vez de proteção. Diferente do anticorpo, que conserva o organismo tal como é, o corpo vibrátil se deixa atravessar pelo encontro perturbador e reorganiza sua configuração a partir do que o encontro revela.
 
@@ -423,7 +423,7 @@ Lélia cunha a amefricanidade, a experiência compartilhada dos povos da diáspo
 
 O quilombismo de Abdias do Nascimento vai além da afirmação identitária e se constitui como programa concreto de reorganização territorial e cultural. A história dos quilombos como comunidades que conseguiram estabelecer formas de produção e reprodução fora da lógica escravista-capitalista é evidência empírica de que é possível.
 
-O Quilombo dos Palmares não foi apenas resistência. Foi experimento de organização política e econômica alternativa que durou um século. O quilombismo de Abdias retoma essa memória não como nostalgia, mas como protótipo para o que o capítulo XII propõe, camadas de organização territorial que garantem soberania alimentar, política e cultural. Cada "bacia, bioma, cadeia" da arquitetura em sete camadas é, em sua estrutura mais elementar, um princípio quilombista. A autonomia de um território para decidir seu próprio funcionamento sem depender do Estado colonial para existir.
+O Quilombo dos Palmares não foi apenas resistência. Foi experimento de organização política e econômica alternativa que durou um século. O quilombismo de Abdias retoma essa memória como protótipo, e não como nostalgia, para o que o capítulo XII propõe, camadas de organização territorial que garantem soberania alimentar, política e cultural. Cada "bacia, bioma, cadeia" da arquitetura em sete camadas é, em sua estrutura mais elementar, um princípio quilombista. A autonomia de um território para decidir seu próprio funcionamento sem depender do Estado colonial para existir.
 
 Krenak diagnostica a doença civilizacional. Fomos nos alienando desse organismo de que somos parte, a Terra, de uma maneira tão absoluta que nos sentimos autorizados a funcionar como se ela não existisse. O conatus que Spinoza nomeia não é apenas individual ou humano. É conatus da floresta que quer permanecer sendo floresta, do rio que quer fluir. A crise ecológica é crise do desejo projetado em escala civilizacional. O capitalismo tenta fazer a Terra viver conforme seus próprios cálculos de lucro e, ao fazê-lo, produz o que Hans Jonas chamaria de catástrofe antropogênica.
 
@@ -436,15 +436,15 @@ Se o amor projetado é a célula primordial do câncer social nas relações int
 
 ### Lênin, Luxemburg e a teoria da dependência
 
-Para Lênin, o capitalismo monopolista exporta capital para onde os lucros são maiores. A fase imperialista não constitui aberração, mas necessidade estrutural. Rosa Luxemburg complementa. O capitalismo não pode se reproduzir apenas dentro de relações capitalistas. Precisa permanentemente de um exterior não-capitalista. Quando o exterior geográfico se esgota, cria exterioridades internas, privatiza bens comuns, mercantiliza cuidado, transforma cultura em commodities.
+Para Lênin, o capitalismo monopolista exporta capital para onde os lucros são maiores. A fase imperialista é necessidade estrutural. Rosa Luxemburg complementa. O capitalismo não pode se reproduzir apenas dentro de relações capitalistas. Precisa permanentemente de um exterior não-capitalista. Quando o exterior geográfico se esgota, cria exterioridades internas, privatiza bens comuns, mercantiliza cuidado, transforma cultura em commodities.
 
-Ruy Mauro Marini formula a superexploração do trabalho. Na periferia, o trabalhador não é apenas explorado, mas superexplorado. Seu salário não cobre sequer a reprodução biológica de sua existência. André Gunder Frank desfaz a ilusão desenvolvimentista. O subdesenvolvimento não é estágio a ser superado, mas condição estrutural da acumulação capitalista mundial. O Brasil não é atrasado, é dependente. E a dependência é funcional ao sistema.
+Ruy Mauro Marini formula a superexploração do trabalho. Na periferia, o trabalhador é superexplorado. Seu salário não cobre sequer a reprodução biológica de sua existência. André Gunder Frank desfaz a ilusão desenvolvimentista. O subdesenvolvimento é condição estrutural da acumulação capitalista mundial. O Brasil é dependente, e a dependência é funcional ao sistema.
 
-O mecanismo concreto da superexploração funciona assim. a taxa de mais-valia na periferia é elevada. O trabalhador produz mais valor do que recebe em salário, e essa taxa elevada subsidia a taxa de lucro no centro. A empresa multinacional extrai valor do trabalhador nordestino, paga o mínimo legal ou menos, informalmente, e envia o lucro para as sedes na Europa e na América do Norte.
+O mecanismo concreto da superexploração funciona assim: a taxa de mais-valia na periferia é elevada. O trabalhador produz mais valor do que recebe em salário; essa taxa elevada subsidia a taxa de lucro no centro. A empresa multinacional extrai valor do trabalhador nordestino, paga o mínimo legal ou menos, informalmente, e envia o lucro para as sedes na Europa e na América do Norte.
 
 O corpo do trabalhador periférico se torna parte da máquina de acumulação global. O trabalhador não pode se reproduzir dignamente com o que recebe. Suas filhas precisam trabalhar também, sua vida útil se encurta por desnutrição ou fadiga.
 
-Esse é o ponto. O capitalismo periférico precisa de trabalhadores cuja reprodução biológica é incompleta, porque a exploração completa de um indivíduo mata-o antes do tempo. A periferia funciona como pulmão que se enche de ar contaminado para que o centro respire. Essa respiração desigual é inscrita na própria moeda. O real que o trabalhador recebe vale menos que o dólar que o patrão guarda, criando uma assimetria monetária permanente que torna a dependência inevitável.
+Esse é o ponto. O capitalismo periférico depende de trabalhadores cuja reprodução biológica é incompleta, porque a exploração completa de um indivíduo mata-o antes do tempo. A periferia é o pulmão que se enche de ar contaminado para que o centro respire. Essa respiração desigual é inscrita na própria moeda. O real que o trabalhador recebe vale menos que o dólar que o patrão guarda, criando uma assimetria monetária permanente que torna a dependência inevitável.
 
 ### Necropolítica e temporalidades
 
@@ -472,7 +472,7 @@ A mística é a operação permanente de abertura do horizonte que o capital ten
 
 O aparato teórico está completo. Da cena original ao imperialismo, o mecanismo do desejo projetado foi rastreado em cada escala onde age e em cada escala a mesma estrutura formal se confirma. Um corpo tenta fazer o outro viver conforme o seu próprio temperamento. A periferia adicionou o que faltava à teoria europeia, a cor, a terra, o sotaque, a fome. O corpo que Spinoza pensou como conatus tem agora o rosto concreto de quem vive sob necropolítica e produz vida apesar dela.
 
-Mas a periferia não apenas sofre a engenharia imperial. Ela a enfrenta. Cuba é a contraprova viva. Um país que recusou o papel de periferia funcional e paga, há mais de sessenta anos, o preço calculado dessa recusa, embargo econômico que custa vinte milhões de dólares por dia. Em 2024, 187 países votaram na Assembleia Geral da ONU contra o embargo. Apenas dois votaram a favor, Estados Unidos e Israel. O dado não é retórica, mas a medida exata do isolamento de quem impõe, não de quem resiste.
+Mas a periferia não apenas sofre a engenharia imperial. Ela a enfrenta. Cuba é a contraprova viva. Um país que recusou o papel de periferia funcional e paga, há mais de sessenta anos, o preço calculado dessa recusa, embargo econômico que custa vinte milhões de dólares por dia. Em 2024, 187 países votaram na Assembleia Geral da ONU contra o embargo. Apenas dois votaram a favor, Estados Unidos e Israel. O dado é a medida exata do isolamento de quem impõe, e não de quem resiste.
 
 A pergunta muda. Já não se trata de diagnosticar. Trata-se de perguntar que tipo de resposta esse diagnóstico admite? Não um programa, pois um programa que prescreve a libertação do desejo já está projetando. Condições de possibilidade. Encontros que ampliem a potência de agir sem determinar o que os corpos devem fazer com ela.
 
@@ -483,13 +483,13 @@ A pergunta muda. Já não se trata de diagnosticar. Trata-se de perguntar que ti
 
 ### A convergência estrutural
 
-Cinco tradições filosóficas convergem numa intuição estrutural única. O sujeito é constituído através do desejo do Outro, e a violência social surge quando essa constituição se torna projeção coercitiva. A ambitio de Spinoza, a identificação com o sintoma de Lacan, o assujettissement de Foucault, a edipianização de Deleuze e Guattari, a aderência ao opressor de Freire, o imperialismo de Lênin. Todos descrevem o mesmo mecanismo em escalas diferentes.
+Cinco tradições filosóficas convergem numa intuição estrutural única. O sujeito é constituído através do desejo do Outro; a violência social surge quando essa constituição se torna projeção coercitiva. A ambitio de Spinoza, a identificação com o sintoma de Lacan, o assujettissement de Foucault, a edipianização de Deleuze e Guattari, a aderência ao opressor de Freire, o imperialismo de Lênin. Todos descrevem o mesmo mecanismo em escalas diferentes.
 
 ### Por que condições, não programa
 
 Seria tentador chamar este capítulo de "programa." O inconsciente colonial-capitalístico age abaixo do limiar da decisão consciente. A militante que "decide" descolonizar o desejo ainda carrega um desejo já capturado em múltiplas camadas que nenhuma decisão política acessa diretamente. Um programa é adotado. Condições de possibilidade são construídas.
 
-A diferença não é semântica, mas entre o discurso do mestre (que prescreve o que o sujeito deve ser e fazer) e o discurso do analista (que cria espaço para que o outro produza seu próprio saber). Uma ética do desejo que se apresenta como programa já está reproduzindo o mecanismo que afirma combater. Lacan o demonstrou em "Kant com Sade": toda prescrição que pretende libertar pela via do dever puro repete, na estrutura, o imperativo do gozo. O carrasco sadeano e o moralista kantiano partilham a mesma topologia, ambos submetem o corpo alheio a uma lei que não lhe pertence. Prescrever a libertação do desejo alheio é estruturalmente o mesmo ato.
+A diferença é substantiva: entre o discurso do mestre (que prescreve o que o sujeito deve ser e fazer) e o discurso do analista (que cria espaço para que o outro produza seu próprio saber). Uma ética do desejo que se apresenta como programa já está reproduzindo o mecanismo que afirma combater. Lacan o demonstrou em "Kant com Sade": toda prescrição que pretende libertar pela via do dever puro repete, na estrutura, o imperativo do gozo. O carrasco sadeano e o moralista kantiano partilham a mesma topologia, ambos submetem o corpo alheio a uma lei que não lhe pertence. Prescrever a libertação do desejo alheio é estruturalmente o mesmo ato.
 
 A história oferece contraprova empírica. O Vietnã, em 1986, estava à beira do colapso. A resposta não foi programa prescrito de fora. Foi o Đổi Mới — "renovação" — que Deng Xiaoping formulou antes como "cruzar o rio sentindo as pedras", criar condições para que agentes locais descubram soluções, sem prescrever o resultado. As Zonas Econômicas Especiais chinesas funcionaram com a mesma lógica, laboratórios institucionais onde o Estado enquadra sem determinar o que emerge dentro do enquadre. O resultado verificável: o Vietnã reduziu a pobreza extrema de 50% para 1% em quatro décadas. A China retirou 800 milhões de pessoas da miséria — o maior feito anti-pobreza da história humana.
 
@@ -499,7 +499,7 @@ Mas onde o mesmo Estado prescreveu — quando decidiu quantos filhos cada famíl
 
 Spinoza propõe que a composição política começa pelas noções comuns, propriedades reais compartilhadas entre corpos que se encontram. Uma precisão que o uso político desta categoria frequentemente obscurece. A formação de noções comuns genuínas pressupõe corpos que se encontram em relativa paridade de potência.
 
-O encontro entre um intelectual branco de classe média e um militante negro periférico dentro de uma organização de esquerda não é um encontro spinoziano neutro. É um encontro já atravessado pela colonialidade, que produz "noções comuns" que refletem a perspectiva do mais potente. Não a síntese genuína. A federação proposta neste ensaio precisa de protocolos que reconheçam e compensem essas assimetrias de potência. Não para apagá-las. Para que a voz do menos potente seja genuinamente ouvida em vez de incorporada e traduzida pelo mais potente.
+O encontro entre um intelectual branco de classe média e um militante negro periférico dentro de uma organização de esquerda não é um encontro spinoziano neutro. É um encontro já atravessado pela colonialidade, que produz "noções comuns" que refletem a perspectiva do mais potente. Não a síntese genuína. A federação proposta precisa de protocolos que reconheçam e compensem essas assimetrias de potência. Não para apagá-las. Para que a voz do menos potente seja genuinamente ouvida em vez de incorporada e traduzida pelo mais potente.
 
 ### O comum como invenção, não descoberta
 
@@ -507,11 +507,11 @@ Eduardo Viveiros de Castro problematiza radicalmente as noções comuns spinozia
 
 Se cada corpo habita natureza diferente, então o "comum" das noções comuns não é propriedade pré-existente que dois corpos descobrem ao se encontrar. É mundo inventado no ato de encontrar. A cozinha comunitária não é noção comum porque todos já sabem cozinhar. É noção comum porque, no ato de cozinhar juntos, produz-se um mundo comum que não existia antes. Ninguém trazia esse mundo consigo. Ele emerge do encontro, ou não emerge.
 
-A metafísica canibal de Viveiros de Castro oferece um terceiro modo de relação com o Outro, além da composição (Spinoza) e da tolerância (liberalismo): incorporação. Incorporar não é assimilar. É deixar-se transformar pela digestão do outro. O festival antropofágico de Oswald de Andrade já intuía isso: "Tupi or not Tupi, that is the question." Este ensaio pensa "desde Pernambuco", mas com categorias europeias (Spinoza, Lacan, Foucault). Viveiros de Castro permite pensar _com_ o território, não apenas desde ele.
+A metafísica canibal de Viveiros de Castro oferece um terceiro modo de relação com o Outro, além da composição (Spinoza) e da tolerância (liberalismo): incorporação. Incorporar não é assimilar. É deixar-se transformar pela digestão do outro. O festival antropofágico de Oswald de Andrade já intuía isso: "Tupi or not Tupi, that is the question." O pensamento aqui parte "desde Pernambuco", mas com categorias europeias (Spinoza, Lacan, Foucault). Viveiros de Castro permite pensar _com_ o território, não apenas desde ele.
 
 Marisol de la Cadena acrescenta os incomuns. A aliança entre indígenas e ambientalistas parece ser sobre o "mesmo" interesse (proteger a montanha). Mas para o ambientalista, a montanha é recurso a preservar. Para o indígena, é entidade com quem se negocia. A aliança funciona sem concordância de fundo. É coalizão entre mundos que divergem ontologicamente. Spinoza diria que toda coisa se esforça por perseverar no ser, não apenas humanos. O rio Capibaribe tem conatus. O mangue tem conatus. A comunidade que inclui não-humanos como atores políticos não fantasia. Reconhece o que Spinoza afirmou e que a modernidade esqueceu. Já existe em direito comparado: o Rio Whanganui na Nova Zelândia e o Rio Atrato na Colômbia são entidades jurídicas com personalidade legal.
 
-Silvia Federici completa o quadro pelo lado do trabalho que reproduz as condições do encontro. O capitalismo funciona porque o trabalho reprodutivo (cozinhar, cuidar, criar, limpar, curar) é feito de graça, majoritariamente por mulheres negras. A cozinha comunitária não é apenas "espaço de encontro". É relocalização do trabalho reprodutivo no comum, revertendo o cercamento que privatizou a reprodução social. Federici mostrou que as caças às bruxas dos séculos XVI-XVII não foram surto de irracionalidade, mas ataque sistemático ao poder que as mulheres tinham: controle reprodutivo, saber curandeiro, autonomia sobre o corpo. Esse ataque foi condição necessária para o capitalismo. A cozinha comunitária o reverte. Não como nostalgia, mas como política.
+Silvia Federici completa o quadro pelo lado do trabalho que reproduz as condições do encontro. O capitalismo funciona porque o trabalho reprodutivo (cozinhar, cuidar, criar, limpar, curar) é feito de graça, majoritariamente por mulheres negras. A cozinha comunitária não é apenas "espaço de encontro". É relocalização do trabalho reprodutivo no comum, revertendo o cercamento que privatizou a reprodução social. Federici mostrou que as caças às bruxas dos séculos XVI-XVII foram ataque sistemático ao poder que as mulheres tinham: controle reprodutivo, saber curandeiro, autonomia sobre o corpo. Esse ataque foi condição necessária para o capitalismo. A cozinha comunitária o reverte. Como política, e não como nostalgia.
 
 Anna Tsing, em _The Mushroom at the End of the World_, demonstra que a colaboração mais criativa acontece em paisagens destruídas. O matsutake, cogumelo que só cresce em florestas perturbadas, é o organismo de uma economia que não segue a lógica da plantação. Lynn Margulis radicalizou antes: toda vida complexa surgiu de simbiose, não de competição. A célula eucariótica é comunidade simbiótica. Nunca houve indivíduos. Merlin Sheldrake descreveu as redes micorrízicas como modelo de governança: distribuídas, assimétricas por cuidado (árvores-mãe alimentam mudas jovens, o princípio da assimetria materializado biologicamente), sem centro de comando.
 
@@ -527,11 +527,11 @@ Esses quatro movimentos são o protocolo mínimo dos encontros transformadores. 
 
 A hiperatividade da sociedade do desempenho destrói exatamente essa condição. A multitarefa, a atenção dispersa, a precarização do tempo, não são apenas patologias individuais. São destruição das condições temporais do encontro. Onde não há pausa, não há nomeação. Onde não há nomeação, o sofrimento permanece privado.
 
-A destruição do tempo é violência contra o conatus tão real quanto a destruição do território, e na periferia, as duas agem juntas. O programa de pesquisa que este ensaio sugere propõe documentar sistematicamente esses processos nos bancos comunitários, assentamentos e coletivos que já os praticam.
+A destruição do tempo é violência contra o conatus tão real quanto a destruição do território; na periferia, as duas agem juntas. O programa de pesquisa sugerido propõe documentar sistematicamente esses processos nos bancos comunitários, assentamentos e coletivos que já os praticam.
 
 ### Quando o processo falha: acting out vs. ação emergente
 
-Mas o quarto movimento pode ser capturado antes de emergir. Quando a nomeação coletiva é interceptada por um significante-mestre, o partido que chega e diz "o que vocês estão sentindo se chama luta de classes, e a solução se chama organização leninista", o acting out substitui a ação emergente. A potência que estava se constituindo é cedida à estrutura que promete resolvê-la. O sujeito volta ao estado anterior, não mais isolado, mas agora dependente de quem nomeou o problema.
+Mas o quarto movimento pode ser capturado antes de emergir. Quando a nomeação coletiva é interceptada por um significante-mestre, o partido que chega e diz "o que vocês estão sentindo se chama luta de classes, e a solução se chama organização leninista", o acting out substitui a ação emergente. A potência que estava se constituindo é cedida à estrutura que promete resolvê-la. O sujeito volta ao estado anterior: já não isolado, porém dependente de quem nomeou o problema.
 
 A diferença entre ação emergente e acting out reproduz a diferença entre o discurso do analista e o discurso do mestre que os capítulos II e III identificaram. O analista cria espaço para que a compreensão emerja do próprio sujeito. O mestre fornece a compreensão já pronta, e o sujeito alinha-se a ela em transferência que nunca é desfeita. A ação emergente exige que quem facilita o encontro abdique da posição de quem sabe, não seja intelectual que desce educar, mas parte do processo que, como todas as outras partes, não sabe de antemão qual será a compreensão que vai emergir. Zupančič nomeia o que a ação emergente gera quando completa o ciclo. O ato que não busca reconhecimento do Grande Outro, mas muda as coordenadas do real. Não age dentro da situação. Reconfigura o que é possível.
 
@@ -539,15 +539,15 @@ A diferença entre ação emergente e acting out reproduz a diferença entre o d
 
 Os quatro movimentos não são puramente subjetivos. Cada um pressupõe uma pré-condição material. A nomeação coletiva exige espaço físico de encontro, a Camada 7 da arquitetura em sete camadas, a rua, a cozinha comunitária, o lugar onde corpos podem se aproximar. O reconhecimento exige comunidade com memória, saber que as outras pessoas compartilham a experiência porque compartilham história, bairro, luta, isto é, a Camada 6.
 
-A identificação de causalidade exige tempo livre. Han mostrou que a hiperatividade destroi o tédio profundo, e o tédio profundo é a abertura temporal em que a reflexão lenta, a que conecta singular a estrutural, se torna possível. Isso não é luxo, mas pré-condição da democracia deliberativa.
+A identificação de causalidade exige tempo livre. Han mostrou que a hiperatividade destroi o tédio profundo: a abertura temporal em que a reflexão lenta, a que conecta singular a estrutural, se torna possível. Longe de ser luxo, é pré-condição da democracia deliberativa.
 
 A ação emergente, quando chega a esse ponto, exige que o grupo tenha capacidade organizativa mínima para sustentar o que emerge, regras, comunicação, recursos.
 
-Sem essas condições, os quatro movimentos ficam suspensos no plano da intenção. Comunidades que se reúnem uma vez, conhecem a realidade, conversam sobre ela, mas não conseguem agir porque faltam as infraestruturas que transformam desejo em prática. A Comunidade-Nação em sete camadas não se reduz a solução teórica abstrata, mas materializa essas pré-condições. O desenho institucional que transforma a possibilidade do encontro transformador em capacidade sustentável.
+Sem essas condições, os quatro movimentos ficam suspensos no plano da intenção. Comunidades que se reúnem uma vez, conhecem a realidade, conversam sobre ela, mas não conseguem agir porque faltam as infraestruturas que transformam desejo em prática. A Comunidade-Nação em sete camadas materializa essas pré-condições. O desenho institucional que transforma a possibilidade do encontro transformador em capacidade sustentável.
 
 ### Guattari, Santos e o buen vivir
 
-Para Guattari, a transversalidade funciona como método. Máxima comunicação entre níveis diferentes sem hierarquia vertical nem horizontalidade amorfa. A ecosofia articula ético-politicamente entre os três registros ecológicos (meio ambiente, relações sociais e subjetividade humana). A crise ecológica é inseparável da crise subjetiva. Ambas têm a mesma raiz no capitalismo que trata o planeta e o psiquismo como recursos a extrair.
+Para Guattari, a transversalidade é método. Máxima comunicação entre níveis diferentes sem hierarquia vertical nem horizontalidade amorfa. A ecosofia articula ético-politicamente entre os três registros ecológicos (meio ambiente, relações sociais e subjetividade humana). A crise ecológica é inseparável da crise subjetiva. Ambas têm a mesma raiz no capitalismo que trata o planeta e o psiquismo como recursos a extrair.
 
 Para Santos, a ecologia dos saberes responde ao epistemicídio. O buen vivir propõe não viver melhor (comparativo, competitivo), mas viver bem (harmônico, relacional). A ética do suficiente para toda a comunidade. A única resposta que a crise ecológica admite e que o capitalismo é estruturalmente incapaz de dar.
 
@@ -558,27 +558,27 @@ Para Santos, a ecologia dos saberes responde ao epistemicídio. O buen vivir pro
 
 ### O gesto e o limite da metáfora imunológica
 
-Publicar este ensaio é usar a linguagem do dominante (o texto, o argumento, o circuito acadêmico e político) para introduzir algo que perturba esse mesmo circuito. Um risco que precisa ser nomeado: a metáfora imunológica, frequentemente usada para descrever esse gesto, carrega uma armadilha.
+Publicar é usar a linguagem do dominante (o texto, o argumento, o circuito acadêmico e político) para introduzir algo que perturba esse mesmo circuito. Um risco que exige nomeação: a metáfora imunológica, frequentemente usada para descrever esse gesto, carrega uma armadilha.
 
 O sistema imunológico defende o organismo tal como ele é. Não gera mutação, gera conservação. Um anticorpo não transforma o organismo, apenas o protege para que permaneça o mesmo.
 
-Se o que este ensaio propõe designa uma subjetividade capaz de ruptura com o colonial-capitalístico, a metáfora imunológica trai a tese.
+Se o que se propõe aqui é uma subjetividade capaz de ruptura com o colonial-capitalístico, a metáfora imunológica trai a tese.
 
 Han chega à mesma conclusão por outro caminho. Critica Baudrillard por tentar descrever a violência da positividade com vocabulário imunológico (viral, anticorpos, defesa) e critica Esposito por construir toda uma teoria da Immunitas sobre um paradigma em declínio. A Immunitas descreve o mundo que foi, a sociedade disciplinar, a negatividade do Outro, não o mundo que é.
 
 A convergência não é casual. Quando o diagnóstico muda (da violência do Outro para a violência de si mesmo), a metáfora da defesa perde sentido. Não há de quem se defender quando o agressor e a vítima coincidem no mesmo corpo.
 
-A metáfora adequada é o corpo vibrátil de Rolnik, a capacidade de ser afetado pelo que o sistema de defesa identifica como ameaça e de deixar que esse afeto engendre transformação em vez de proteção. Este ensaio não funciona como anticorpo, mas como tentativa de corpo vibrátil. Um texto que convida o leitor a ser afetado por ele, inclusive quando o afeto é crítica, resistência, recusa. Um texto que aceita ser parcialmente destruído pelo confronto com quem vive empiricamente o que ele teoriza é mais útil do que um texto que se defende.
+A metáfora adequada é o corpo vibrátil de Rolnik, a capacidade de ser afetado pelo que o sistema de defesa identifica como ameaça e de deixar que esse afeto engendre transformação em vez de proteção. O texto é tentativa de corpo vibrátil. Um texto que convida o leitor a ser afetado por ele, inclusive quando o afeto é crítica, resistência, recusa. Um texto que aceita ser parcialmente destruído pelo confronto com quem vive empiricamente o que ele teoriza é mais útil do que um texto que se defende.
 
 ### A infraestrutura somática do corpo vibrátil
 
 Mas o corpo vibrátil permanece metáfora enquanto não teorizar o sistema nervoso como campo político. Resmaa Menakem, em _My Grandmother's Hands_, demonstra que o trauma racializado vive no corpo. Não como metáfora. Como padrão somático transmitido entre gerações. O nervo vago, os músculos do pescoço e das costas, a respiração encurtada, a contração do diafragma. Corpos negros, corpos brancos e corpos de policiais carregam traumas distintos que se ativam mutuamente no encontro. A "cena do recreio" do capítulo I não é apenas mecanismo psíquico. É evento somático. O moleque que bate e o moleque que apanha estão em estados nervosos que nenhuma análise de discurso acessa.
 
-Menakem propõe cinco âncoras práticas: assentar (ground), notar (notice), aceitar (accept), permanecer (stay), descarregar (discharge). São o protocolo que falta ao corpo vibrátil. Rolnik descreve a capacidade de ser afetado. Menakem descreve o que fazer quando o afeto é insuportável. A distinção entre dor limpa (enfrentar a realidade da própria posição na estrutura de poder) e dor suja (fugir dessa realidade e perpetuar o dano) reformula conflitos que o ensaio diagnosticaria como narcisismo. A raiz pode ser somática: o corpo que foge da dor limpa de reconhecer privilégio ou impotência produz dor suja que se manifesta como cisma, projeção, acting out.
+Menakem propõe cinco âncoras práticas: assentar (ground), notar (notice), aceitar (accept), permanecer (stay), descarregar (discharge). São o protocolo que falta ao corpo vibrátil. Rolnik descreve a capacidade de ser afetado. Menakem descreve o que fazer quando o afeto é insuportável. A distinção entre dor limpa (enfrentar a realidade da própria posição na estrutura de poder) e dor suja (fugir dessa realidade e perpetuar o dano) reformula conflitos que os capítulos anteriores diagnosticariam como narcisismo. A raiz pode ser somática: o corpo que foge da dor limpa de reconhecer privilégio ou impotência produz dor suja que se manifesta como cisma, projeção, acting out.
 
 Steve Goodman, em _Sonic Warfare_, vai além: o conatus é vibracional antes de ser representacional. O som move corpos antes que a consciência processe. A alfaia do maracatu de baque virado não "expressa" resistência. Fabrica-a. Cada batida sincroniza sistemas nervosos, produz coesão que nenhum argumento racional alcança. Kodwo Eshun teorizou isso como ficção sônica: o som produz realidade, não a descreve. Luiz Gonzaga, Clementina de Jesus, Chico Science e Nação Zumbi são cosmotécnicos sonoros. Unificam ordem cósmica (a ecologia do semiárido, a memória da diáspora, o mangue como bioma) com ordem moral (solidariedade, resistência, festa) através de atividade técnica sonora. A cosmotécnica sonora nordestina não precisa ser inventada. Precisa ser nomeada.
 
-Alexander Weheliye, em _Habeas Viscus_, acrescenta uma correção necessária: a biopolítica de Foucault, que o ensaio utiliza extensamente, subestima a raça como constitutiva do humano. Hortense Spillers distingue "corpo" de "carne" (_flesh_). O corpo é socialmente constituído, legível, governável. A carne é o que precede e excede a socialização, o que a violência racial inscreve diretamente na matéria. A carne do corpo negro periférico carrega inscrições que nenhum "discurso" acessa, porque foram gravadas antes da linguagem. A ética do desejo precisa trabalhar com a carne, não apenas com o corpo.
+Alexander Weheliye, em _Habeas Viscus_, acrescenta uma correção necessária: a biopolítica de Foucault, utilizada extensamente aqui, subestima a raça como constitutiva do humano. Hortense Spillers distingue "corpo" de "carne" (_flesh_). O corpo é socialmente constituído, legível, governável. A carne é o que precede e excede a socialização, o que a violência racial inscreve diretamente na matéria. A carne do corpo negro periférico carrega inscrições que nenhum "discurso" acessa, porque foram gravadas antes da linguagem. A ética do desejo precisa trabalhar com a carne, não apenas com o corpo.
 
 Lefebvre, em _Rhythmanalysis_, fornece a categoria que articula o somático ao político: toda relação social tem um ritmo. O corpo é feixe de ritmos. O poder opera impondo ritmos (o tempo do trabalho, o tempo do consumo, o tempo da tela). A necropolítica é arritmia imposta: quando o Estado retira de um corpo a possibilidade de ritmo próprio (a batida policial que interrompe o sono, o despejo que destrói a rotina, o desemprego que dissolve a estrutura temporal), impõe uma dessincronização que é violência tão real quanto a física. Prazos iguais para corpos desiguais produzem arritmia, não igualdade. A cozinha comunitária funciona quando sincroniza ritmos. A assembleia falha quando impõe um ritmo que só corpos com tempo livre sustentam. Euritmia composicional: a capacidade de manter poliritmia sustentável entre temporalidades diferentes, onde cada corpo encontra ritmo próprio sem dessincronizar o coletivo.
 
@@ -588,88 +588,88 @@ Quando Butler demonstra que a identidade é performativamente constituída pelas
 
 ### Louis: o transfúgio de classe e o corpo que foge
 
-Édouard Louis, nascido Eddy Bellegueule numa aldeia operária do norte da França, constitui o caso-limite que este ensaio precisa confrontar. O corpo dissidente que sobrevive matando o eu anterior porque o território não oferece condições de composição. _Mudar: Método_ (_Changer: méthode_, 2021) e _O Fim de Eddy_ (_En finir avec Eddy Bellegueule_, 2014) não teorizam sobre o desejo projetado. Dão a ver a experiência vivida do mecanismo em cada célula, o relato de uma fuga que ilumina, pela ausência, as condições que este ensaio propõe construir.
+Édouard Louis, nascido Eddy Bellegueule numa aldeia operária do norte da França, constitui o caso-limite que a tese precisa confrontar. O corpo dissidente que sobrevive matando o eu anterior porque o território não oferece condições de composição. _Mudar: Método_ (_Changer: méthode_, 2021) e _O Fim de Eddy_ (_En finir avec Eddy Bellegueule_, 2014) não teorizam sobre o desejo projetado. Dão a ver a experiência vivida do mecanismo em cada célula, o relato de uma fuga que ilumina, pela ausência, as condições que a ética do desejo propõe construir.
 
-**O eu falso como imperativo territorial.** Louis vive o diagnóstico de Winnicott transposto para a classe operária. A masculinidade na aldeia não era escolha identitária, mas condição de pertença. A criança Eddy repetia para si "hoje eu vou ser um durão". Isso descreve, na gramática deste ensaio, o eu falso sendo instalado não pela díade familiar mas pelo ambiente institucional inteiro. A escola que humilha quem é diferente, a rua que pune quem não se conforma, a fábrica como horizonte único.
+**O eu falso como imperativo territorial.** Louis vive o diagnóstico de Winnicott transposto para a classe operária. A masculinidade na aldeia não era escolha identitária, mas condição de pertença. A criança Eddy repetia para si "hoje eu vou ser um durão". Isso descreve, na gramática aqui construída, o eu falso sendo instalado não pela díade familiar mas pelo ambiente institucional inteiro. A escola que humilha quem é diferente, a rua que pune quem não se conforma, a fábrica como horizonte único.
 
 A complacência de Winnicott tem aqui rosto, classe e sexualidade. A conexão com a periferia brasileira é direta. O mapa etiológico do capítulo I, onde a falha primária não é da díade mãe-bebê mas das instituições que aparecem na vida cotidiana como violência difusa, encontra em Louis a confirmação empírica numa outra geografia. O mecanismo é o mesmo. O sotaque muda, a estrutura não.
 
-**A ambitio na díade familiar.** O pai de Eddy projeta sobre o filho o destino operário, a virilidade, a continuidade de uma linhagem. "Eu te amo na condição de que você seja o que preciso que você seja", a célula primordial do capítulo II, atua aqui com a precisão de um relógio. A ambitio spinoziana atravessa a escala da díade com a mesma estrutura formal que este ensaio rastreou da família ao imperialismo.
+**A ambitio na díade familiar.** O pai de Eddy projeta sobre o filho o destino operário, a virilidade, a continuidade de uma linhagem. "Eu te amo na condição de que você seja o que preciso que você seja", a célula primordial do capítulo II, atua aqui com a precisão de um relógio. A ambitio spinoziana atravessa a escala da díade com a mesma estrutura formal rastreada da família ao imperialismo.
 
-A homossexualidade de Eddy funciona como falha no mecanismo de replicação. O câncer social não consegue se reproduzir naquele corpo específico. O corpo gay, afeminado, dissonante, literalmente não cabe no molde. E quando o câncer não consegue se replicar, o corpo é expulso. Não por crueldade excepcional do pai, mas por mecânica. A relação cumulativa entre duas vergonhas, a vergonha de classe e a vergonha sexual, engendra uma lógica de rejeição que se transforma em projeto de evasão, não por programa político, mas por reflexo de sobrevivência.
+A homossexualidade de Eddy funciona como falha no mecanismo de replicação. O câncer social não consegue replicar-se naquele corpo específico. O corpo gay, afeminado, dissonante, literalmente não cabe no molde. E quando o câncer não consegue se replicar, o corpo é expulso. Por mecânica, e não por crueldade excepcional do pai. A relação cumulativa entre duas vergonhas, a vergonha de classe e a vergonha sexual, engendra uma lógica de rejeição que se transforma em projeto de evasão, por reflexo de sobrevivência.
 
-**A fuga como acting out.** Louis muda o nome. Muda o rosto. Muda o corpo, os dentes, o sotaque, as amizades, a classe social. _Mudar: Método_ revela cada ação consciente empreendida, com cálculo implacável, para deixar de ser quem seus natais pareciam tê-lo condenado a se tornar. Na gramática lacaniana deste ensaio, isso funciona mais como acting out do que como identificação com o sintoma. Louis não integra Eddy Bellegueule. Ele o enterra. O livro é, por admissão do próprio autor, um funeral deliberado do antigo eu.
+**A fuga como acting out.** Louis muda o nome. Muda o rosto. Muda o corpo, os dentes, o sotaque, as amizades, a classe social. _Mudar: Método_ revela cada ação consciente empreendida, com cálculo implacável, para deixar de ser quem seus natais pareciam tê-lo condenado a se tornar. Na gramática lacaniana aqui construída, isso funciona mais como acting out do que como identificação com o sintoma. Louis não integra Eddy Bellegueule. Ele o enterra. O livro é, por admissão do próprio autor, um funeral deliberado do antigo eu.
 
-Este ensaio propõe outra coisa. Que o sintoma não deve ser eliminado, mas habitado. Que a identificação com o sintoma (o nordestino que não precisa deixar de ser nordestino, o pretuguês que não é resíduo a superar) constitui o ato ético onde o sujeito assume seu desejo sem tentar resolvê-lo pela via da anulação.
+A proposição é outra. Que o sintoma não deve ser eliminado, mas habitado. Que a identificação com o sintoma (o nordestino que não precisa deixar de ser nordestino, o pretuguês que não é resíduo a superar) é o ato ético onde o sujeito assume seu desejo sem tentar resolvê-lo pela via da anulação.
 
-Louis faz o contrário, resolve pela anulação. E o vazio que relata ao final confirma o que este ensaio prediria. Quando a transformação age por negação do sintoma (e não por identificação com ele), o sujeito conquista mobilidade mas perde composição. A potência de agir aumenta em certas direções e colapsa em outras. A ascensão social é simultaneamente triunfo e tragédia. O afastamento da família, das raízes, da história funciona como condição da sobrevivência e, ao mesmo tempo, como preço que nenhuma conquista externa preenche.
+Louis resolve pela anulação. E o vazio que relata ao final confirma o que a tese prediria. Quando a transformação age por negação do sintoma (e não por identificação com ele), o sujeito conquista mobilidade mas perde composição. A potência de agir aumenta em certas direções e colapsa em outras. A ascensão social é simultaneamente triunfo e tragédia. O afastamento da família, das raízes, da história funciona como condição da sobrevivência e, ao mesmo tempo, como preço que nenhuma conquista externa preenche.
 
-Isso não invalida Louis, mas ilumina a ausência. A ausência das condições coletivas que este ensaio propõe (os encontros transformadores do capítulo IX, as sete camadas do capítulo XII, os protocolos de conflito sem expurgo) que teriam permitido a Eddy Bellegueule sobreviver sem precisar morrer.
+Isso não invalida Louis, mas ilumina a ausência. A ausência das condições coletivas propostas (os encontros transformadores do capítulo IX, as sete camadas do capítulo XII, os protocolos de conflito sem expurgo) que teriam permitido a Eddy Bellegueule sobreviver sem precisar morrer.
 
-**As noções comuns como prisão.** Para Louis, a versão francesa de um fenômeno que este ensaio descreve pela via da cordialidade brasileira ganha corpo. A solidariedade de classe que simultaneamente acolhe e aprisiona. A escolha de trabalhar em vez de estudar, porque "estudar não é para nós, que somos homens de verdade", era o destino social considerado normal. A noção comum spinoziana (o cuidado mútuo da classe, a solidariedade operária) funciona como prisão quando o corpo que a habita não cabe na norma afetiva do grupo.
+**As noções comuns como prisão.** Para Louis, a versão francesa de um fenômeno descrito aqui pela via da cordialidade brasileira ganha corpo. A solidariedade de classe que simultaneamente acolhe e aprisiona. A escolha de trabalhar em vez de estudar, porque "estudar não é para nós, que somos homens de verdade", era o destino social considerado normal. A noção comum spinoziana (o cuidado mútuo da classe, a solidariedade operária) se converte em prisão quando o corpo que a habita não cabe na norma afetiva do grupo.
 
 Isso complica o argumento spinoziano de forma produtiva. O capítulo III e o capítulo IX mobilizam as noções comuns como fundamento da composição política. Louis demonstra que noções comuns não são automaticamente libertadoras. Podem ser noções comuns de dominação: propriedades reais compartilhadas que incluem a homofobia, o machismo, a rigidez dos papéis de gênero. Quando as propriedades compartilhadas reproduzem o mecanismo de projeção, a composição que delas resulta diminui a potência de agir em vez de ampliá-la.
 
 A qualificação teórica que Louis exige é precisa: a composição só amplia potência quando as propriedades compartilhadas não são, elas mesmas, vetores do desejo projetado. As noções comuns precisam ser avaliadas pelo critério composicional (amplia ou diminui?) e não aceitas como boas apenas por serem comuns.
 
-**Contracondutas individuais e desterritorializantes.** As contracondutas que este ensaio descreve no capítulo V (o coco de roda, o maracatu, a moeda social, a ocupação de terra) são coletivas e territorializadas. As de Louis são individuais e desterritorializantes: o teatro, a leitura, a École Normale Supérieure. Louis procurava espaços seguros onde a masculinidade compulsória não estava. Esses espaços eram sempre fora do território. A biblioteca era a porta de saída para um mundo onde ele podia existir.
+**Contracondutas individuais e desterritorializantes.** As contracondutas descritas no capítulo V (o coco de roda, o maracatu, a moeda social, a ocupação de terra) são coletivas e territorializadas. As de Louis são individuais e desterritorializantes: o teatro, a leitura, a École Normale Supérieure. Louis procurava espaços seguros onde a masculinidade compulsória não estava. Esses espaços eram sempre fora do território. A biblioteca era a porta de saída para um mundo onde ele podia existir.
 
-A diferença não é de valor, mas de condição. Louis coloca uma questão que este ensaio pode e deve absorver. E quando o território é tão hostil que a contraconduta exige deserção? Nem todo corpo consegue transformar a cordialidade que domina em cordialidade que compõe a partir de dentro. Alguns corpos só sobrevivem fugindo. A ética do desejo que propõe condições coletivas de encontro precisa reconhecer que, enquanto essas condições não existem, a fuga individual não constitui traição ao coletivo, mas sobrevivência. E a sobrevivência tem precedência ontológica. O conatus, antes de ser programa político, designa o esforço de perseverar no próprio ser.
+A diferença não é de valor, mas de condição. Louis coloca uma questão que a ética do desejo pode e deve absorver. E quando o território é tão hostil que a contraconduta exige deserção? Nem todo corpo consegue transformar a cordialidade que domina em cordialidade que compõe a partir de dentro. Alguns corpos só sobrevivem fugindo. A ética do desejo que propõe condições coletivas de encontro precisa reconhecer que, enquanto essas condições não existem, a fuga individual não constitui traição ao coletivo, mas sobrevivência. E a sobrevivência tem precedência ontológica. O conatus, antes de ser programa político, designa o esforço de perseverar no próprio ser.
 
 <mermaid src="cap-X" description="O corpo vibrátil (Rolnik): afeto como cognição pré-representacional. Butler e performatividade. Louis e o transfúgio de classe. O corpo-limite entre dentro e fora."></mermaid>
 
 
 ## XI. O transfugismo como tecnologia do eu
 
-**O corpo que foge e o corpo vibrátil.** A tensão mais produtiva entre Louis e este ensaio atravessa aqui. Quando Rolnik propõe o corpo vibrátil, designa a capacidade de ser afetado pelo que o sistema de defesa identifica como ameaça e de deixar que esse afeto gere transformação em vez de proteção. Louis faz o oposto. Não se deixa atravessar. Se blinda. Se reconstrói. Se reinventa como defesa. O método de Louis funciona como construção de persona, não como vibração. Onde Rolnik descreve um corpo que se reorganiza a partir do encontro perturbador, Louis descreve um corpo que se fabrica contra o encontro. A armadura é o método.
+**O corpo que foge e o corpo vibrátil.** A tensão mais produtiva entre Louis e a tese central atravessa aqui. Quando Rolnik propõe o corpo vibrátil, designa a capacidade de ser afetado pelo que o sistema de defesa identifica como ameaça e de deixar que esse afeto gere transformação em vez de proteção. Louis faz o oposto. Não se deixa atravessar. Se blinda. Se reconstrói. Se reinventa como defesa. O método de Louis funciona como construção de persona, não como vibração. Onde Rolnik descreve um corpo que se reorganiza a partir do encontro perturbador, Louis descreve um corpo que se fabrica contra o encontro. A armadura é o método.
 
 E no entanto. O ato de escrever _Mudar: Método_, de retornar ao passado, nomear a dor, expor o mecanismo com precisão cirúrgica, é o gesto de corpo vibrátil que a vida concreta de Louis não pôde ser. A escrita faz o que o corpo não conseguiu fazer em tempo real: ser afetado sem ser destruído. A investigação autobiográfica é sempre o relato de uma transformação interna do narrador; o gesto de escrita abre um corte que inaugura uma diferença entre o passado e o presente.
 
-Louis, ao escrever, se deixa atravessar pelo encontro que a vida precisou blindar. A escrita funciona como corpo vibrátil tardio, o que chega depois da sobrevivência, quando o corpo já está seguro o suficiente para vibrar.
+Louis, ao escrever, se deixa atravessar pelo encontro que a vida precisou blindar. A escrita é corpo vibrátil tardio, o que chega depois da sobrevivência, quando o corpo já está seguro o suficiente para vibrar.
 
 **VP3: o livro como operação ética.** _Mudar: Método_ constitui, inteiro, uma operação da Proposição 3 da Parte V da Ética de Spinoza: um afeto que é paixão deixa de ser paixão quando dele formamos uma ideia clara e distinta. Louis transforma paixão (vergonha, ódio, medo, desejo de fuga, vazio) em ideia clara e distinta. Cada capítulo do livro é a conversão de uma experiência opaca em mecanismo legível. O livro não descreve a fuga, mas a compreensão da fuga. E compreender é já agir de outro modo.
 
-A convergência com a Coda deste ensaio é precisa. Louis encarna o artista da fome de Kafka, o sujeito que converteu a própria destruição em obra, a autoengenharia em espetáculo de sobrevivência. Mas a escrita como VP3 é já o gesto da pantera: a alegria despretensiosa de quem compreende o que viveu e, ao compreender, age de outro modo. A passagem de uma a outra, nem automática nem garantida, permanece possível. E a prova de que é possível está no próprio livro que a opera.
+A convergência com a Coda é precisa. Louis encarna o artista da fome de Kafka, o sujeito que converteu a própria destruição em obra, a autoengenharia em espetáculo de sobrevivência. Mas a escrita como VP3 é já o gesto da pantera: a alegria despretensiosa de quem compreende o que viveu e, ao compreender, age de outro modo. A passagem de uma a outra, nem automática nem garantida, permanece possível. E a prova de que é possível está no próprio livro que a opera.
 
 ### Foucault, Bourdieu, Eribon: o transfugismo como categoria
 
-A transformação de Louis é uma operação radical das tecnologias do eu que Foucault descreve no capítulo V deste ensaio. Louis não apenas cuida de si. Se fabrica. A diferença com o cuidado de si greco-romano é que Louis age sob coerção. A fabricação de si designa condição de sobrevivência, não exercício de liberdade. O _epimeleia heautou_ pressupõe um sujeito que escolhe constituir-se; Louis é um sujeito que precisa constituir-se para não ser destruído.
+A transformação de Louis é uma operação radical das tecnologias do eu que Foucault descreve no capítulo V. Louis não apenas cuida de si. Se fabrica. A diferença com o cuidado de si greco-romano é que Louis age sob coerção. A fabricação de si é condição de sobrevivência, não exercício de liberdade. O _epimeleia heautou_ pressupõe um sujeito que escolhe constituir-se; Louis é um sujeito que precisa constituir-se para não ser destruído.
 
 A soberania do gesto é comprometida pela necessidade. A questão foucaultiana que o próprio Foucault não desenvolveu plenamente. As práticas de liberdade podem existir onde a alternativa é a destruição?
 
-Pierre Bourdieu, que Louis estudou na École Normale Supérieure e que informa toda a sua obra, fornece o conceito que faltava para nomear o que Louis faz. A reengenharia do habitus. O habitus designa o corpo que carrega classe. Sotaque, postura, dentes, gestos, gostos, modos de olhar. São a classe inscrita no corpo antes de qualquer decisão consciente. A transformação de Louis é literalmente a alteração deliberada do que estava inscrito sem sua permissão. O habitus de classe funciona, na gramática deste ensaio, como uma forma de eu falso coletivamente instalado.
+Pierre Bourdieu, que Louis estudou na École Normale Supérieure e que informa toda a sua obra, fornece o conceito que faltava para nomear o que Louis faz. A reengenharia do habitus. O habitus designa o corpo que carrega classe. Sotaque, postura, dentes, gestos, gostos, modos de olhar. São a classe inscrita no corpo antes de qualquer decisão consciente. A transformação de Louis é literalmente a alteração deliberada do que estava inscrito sem sua permissão. O habitus de classe funciona, na gramática aqui construída, como uma forma de eu falso coletivamente instalado.
 
 Winnicott o descreveu na escala clínica. Bourdieu o descreveu na escala sociológica. Louis o viveu e o desinstalou. Com o preço que a desinstalação cobra.
 
-Didier Eribon, mentor de Louis e autor de _Retorno a Reims_ (_Retour à Reims_, 2009), constitui o precedente intelectual do transfugismo como categoria analítica. Eribon articula classe e sexualidade como duas vergonhas que se reforçam mutuamente. A vergonha de ser gay obriga à fuga da classe operária homofóbica; a fuga de classe engendra a vergonha de ter abandonado os seus. O duplo vínculo é estrutural, não pessoal.
+Didier Eribon, mentor de Louis e autor de _Retorno a Reims_ (_Retour à Reims_, 2009), é o precedente intelectual do transfugismo como categoria analítica. Eribon articula classe e sexualidade como duas vergonhas que se reforçam mutuamente. A vergonha de ser gay obriga à fuga da classe operária homofóbica; a fuga de classe engendra a vergonha de ter abandonado os seus. O duplo vínculo é estrutural, não pessoal.
 
 Louis radicaliza o gesto de Eribon. Onde Eribon analisa, Louis age. Transforma a análise em método. E paga o preço que o método cobra.
 
 Annie Ernaux, a outra grande transfuge da literatura francesa, oferece o contraponto. Em _O Lugar_ (_La Place_) e _Os Anos_ (_Les Années_), Ernaux habita a vergonha de classe como material literário. Não foge dela, mas a transforma em objeto de escrita sem tentar eliminá-la.
 
-A diferença entre Ernaux e Louis é a diferença entre dois modos de relação com o sintoma. Ernaux está mais próxima da identificação com o sintoma que este ensaio propõe: assume a marca sem apagá-la, faz do ch'ixi de Rivera Cusicanqui o método literário. Louis está mais próximo do acting out: converte a marca em combustível de mutação. Ambos geram obra. Ambos sobrevivem. O custo subjetivo é diferente.
+A diferença entre Ernaux e Louis é a diferença entre dois modos de relação com o sintoma. Ernaux está mais próxima da identificação com o sintoma proposta aqui: assume a marca sem apagá-la, faz do ch'ixi de Rivera Cusicanqui o método literário. Louis está mais próximo do acting out: converte a marca em combustível de mutação. Ambos geram obra. Ambos sobrevivem. O custo subjetivo é diferente.
 
-**Han e a autoexploração como fuga.** A autoengenharia de Louis constitui uma forma extrema do sujeito do desempenho que Han descreve no capítulo II deste ensaio, o sujeito que se torna projeto de si mesmo, simultaneamente explorador e explorado no mesmo corpo.
+**Han e a autoexploração como fuga.** A autoengenharia de Louis é uma forma extrema do sujeito do desempenho que Han descreve no capítulo II, o sujeito que se torna projeto de si mesmo, simultaneamente explorador e explorado no mesmo corpo.
 
 Mas com uma diferença crucial que complica Han. Para o sujeito do desempenho que Han diagnostica, a autoexploração não tem saída. Engendra depressão, burnout, o "não-mais-poder-poder".
 
 Para Louis, a autoexploração é traumática mas gera mobilidade real. O preço não é a depressão terminal. É o vazio de quem já pode tudo e não pertence a nada. A liberdade paradoxal de Han (quanto mais se cobra, mais livre se sente) tem em Louis uma variante que Han não previu. A autoexploração como única via de escape da violência de classe. Louis não se autoexplora porque o discurso capitalista capturou seu conatus. Se autoexplora porque a alternativa é a destruição pelo desejo projetado de um território inteiro.
 
-A distinção importa para este ensaio porque revela que a autoexploração não é fenômeno monolítico. Existe a autoexploração do sujeito do desempenho (capturado pelo capital, sem horizonte de escape) e a autoexploração do transfúgio (que usa as próprias ferramentas da dominação como alavanca de fuga). A segunda não é menos destrutiva. Mas é estratégica de uma forma que a primeira não é. E o que permite distingui-las é o que Louis faz ao escrever, a operação de VP3 que converte a paixão em ideia clara e distinta.
+A distinção importa porque revela que a autoexploração não é fenômeno monolítico. Existe a autoexploração do sujeito do desempenho (capturado pelo capital, sem horizonte de escape) e a autoexploração do transfúgio (que usa as próprias ferramentas da dominação como alavanca de fuga). A segunda não é menos destrutiva. Mas é estratégica de uma forma que a primeira não é. E o que permite distingui-las é o que Louis faz ao escrever, a operação de VP3 que converte a paixão em ideia clara e distinta.
 
-**A lacuna que Louis ilumina.** _Mudar: Método_ coloca o problema que a Ética do Desejo pode e deve desenvolver: o custo subjetivo do transfugismo como única via de sobrevivência para corpos dissidentes em territórios onde o desejo projetado é totalizante. Este ensaio propõe condições de possibilidade, não programa. E propõe que essas condições sejam construídas coletivamente, no território. Louis é a prova de que, na ausência dessas condições, o sujeito é forçado a se autoengenheirar sozinho. E o preço é o vazio que nenhuma conquista externa preenche.
+**A lacuna que Louis ilumina.** _Mudar: Método_ coloca o problema que a Ética do Desejo pode e deve desenvolver: o custo subjetivo do transfugismo como única via de sobrevivência para corpos dissidentes em territórios onde o desejo projetado é totalizante. O que se propõe são condições de possibilidade, não programa. E que essas condições sejam construídas coletivamente, no território. Louis é a prova de que, na ausência dessas condições, o sujeito é forçado a se autoengenheirar sozinho. E o preço é o vazio que nenhuma conquista externa preenche.
 
-A Comunidade-Nação que este ensaio propõe nas sete camadas, da Rua ao País, é, entre outras coisas, a tentativa de criar as condições para que nenhum Eddy Bellegueule precise matar a si mesmo para sobreviver. A cozinha comunitária da Camada 7, a escola problematizadora da Camada 5, os protocolos de conflito sem expurgo da federação transversal. São a resposta institucional à solidão de Louis.
+A Comunidade-Nação proposta nas sete camadas, da Rua ao País, é, entre outras coisas, a tentativa de criar as condições para que nenhum Eddy Bellegueule precise matar a si mesmo para sobreviver. A cozinha comunitária da Camada 7, a escola problematizadora da Camada 5, os protocolos de conflito sem expurgo da federação transversal. São a resposta institucional à solidão de Louis.
 
 Não porque prometam que todo corpo dissidente será acolhido. Mas porque criam as condições (materiais, afetivas, organizativas) para que o acolhimento seja possível. E para que a fuga, quando aconteça, não precise ser total, não precise ser a morte do eu anterior, não precise cobrar o preço que Louis pagou.
 
 ### Rancière, Glissant, hooks, Gramsci
 
-Para Rancière, a política existe onde quer que aqueles que não são contados afirmem sua igualdade. Este ensaio (escrito desde Pernambuco, desde a periferia do sistema capitalista) atua como operação de redistribuição do sensível. Afirma que a periferia tem algo a dizer que o centro ainda não ouviu.
+Para Rancière, a política existe onde quer que aqueles que não são contados afirmem sua igualdade. O que se escreve aqui afirma que a periferia tem algo a dizer que o centro ainda não ouviu.
 
-Glissant reivindica o direito à opacidade. Concordar não apenas com o direito à diferença, mas com o direito à singularidade irredutível. Ao que não pode ser completamente traduzido nem incorporado pelo sistema dominante. A opacidade não designa obscurantismo, mas a recusa de se tornar totalmente legível para o poder.
+Glissant reivindica o direito à opacidade. Concordar com o direito à singularidade irredutível, que vai além do direito à diferença. Ao que não pode ser completamente traduzido nem incorporado pelo sistema dominante. A opacidade não é obscurantismo, mas recusa de se tornar totalmente legível para o poder.
 
-Para bell hooks, a pedagogia engajada exige que o professor esteja comprometido com um processo de autorrealização que seja visível para os estudantes. Isso vale para qualquer processo de transmissão de conhecimento que queira ser ético. O sujeito que transmite precisa ser o sujeito que ainda aprende.
+Para bell hooks, a pedagogia engajada exige que o professor esteja comprometido com um processo de autorrealização que seja visível para os estudantes. Isso vale para qualquer processo de transmissão de conhecimento que queira ser ético. O sujeito que transmite tem de ser o sujeito que ainda aprende.
 
 Para Gramsci, o intelectual orgânico emerge de dentro de uma classe social, articulando consciência que a classe já porta em forma difusa. O intelectual tradicional projeta de cima enquanto reivindica neutralidade. A diferença não é apenas ideológica, mas de posição no campo de produção simbólica.
 
@@ -682,15 +682,15 @@ Para Gramsci, o intelectual orgânico emerge de dentro de uma classe social, art
 
 Os capítulos I a XI respondem uma questão clínica. Por que o sujeito que dissente precisa se apagar para sobreviver? A resposta ecoa Winnicott através de Lacan e Foucault. As instituições que o cercam (a família, a escola, a polícia, o discurso do mestre que habita a linguagem mesma) conspiram para que ele se constitua como sujeito do desejo do Outro, em vez de sujeito que engendra seus próprios desejos. O corpo vibrátil (X) descreve o que seria possível se as condições fossem outras. O transfugismo (XI) funciona como prática de sobrevivência quando essas condições não existem. Louis pagou o preço. Essa é a matéria dos onze capítulos anteriores, o diagnóstico do câncer social.
 
-Agora o ensaio muda de register. Já não pergunta _por que as coisas são como são_, mas _como poderiam ser diferentes_. A resposta não traz nenhuma inovação, e sim a descrição estruturada de como as comunidades que duraram, que resistem, organizam a reprodução da vida. A arquitetura em sete camadas formaliza essa descrição em linguagem institucional.
+Agora o argumento muda de registro. Já não pergunta _por que as coisas são como são_, mas _como poderiam ser diferentes_. A resposta não traz nenhuma inovação; traz, antes, a descrição estruturada de como as comunidades que duraram, que resistem, organizam a reprodução da vida. A arquitetura em sete camadas formaliza essa descrição em linguagem institucional.
 
 ### Cada camada como resposta a Louis
 
 Louis precisou apagar a si mesmo porque a solidariedade coletiva não existia. A miséria não era apenas material, era a miséria de estar sozinho com o diagnóstico. Se tivesse havido uma estrutura que acolhesse a diferença sem exigir sua negação, a trajetória seria outra. A arquitetura das sete camadas desenha essa estrutura. Cada camada nega, de forma institucionalizada, uma das condições que tornaram necessário o acting out de Louis.
 
-**Camada 7, A Rua / O Ponto de Moradia Coletiva.** Louis sofria em privado, na máquina de lavar individual, na cozinha individual, na vergonha individual. A Rua funciona como o lugar onde a lavanderia comunitária transforma a humilhação privada em diagnóstico coletivo. Não basta por si só, mas constitui o ponto de partida, o encontro onde a nomeação coletiva torna possível deixar de sofrer sozinho. Essa camada nega a atomização que alimentava a necessidade de acting out.
+**Camada 7, A Rua / O Ponto de Moradia Coletiva.** Louis sofria em privado, na máquina de lavar individual, na cozinha individual, na vergonha individual. A Rua é o lugar onde a lavanderia comunitária transforma a humilhação privada em diagnóstico coletivo. Não basta por si só, mas constitui o ponto de partida, o encontro onde a nomeação coletiva torna possível deixar de sofrer sozinho. Essa camada nega a atomização que alimentava a necessidade de acting out.
 
-**Camada 6, O Bairro / O Território.** Louis sofria sem rosto, sem comunidade que o reconhecesse como membro. O bairro designa a escala onde a abstração do social ganha rosto, onde se conhecem os nomes, as histórias, as redes de solidariedade concreta. O reconhecimento mútuo que Louis buscou na travessia de mundo em mundo.
+**Camada 6, O Bairro / O Território.** Louis sofria sem rosto, sem comunidade que o reconhecesse como membro. O bairro é a escala onde a abstração do social ganha rosto, onde se conhecem os nomes, as histórias, as redes de solidariedade concreta. O reconhecimento mútuo que Louis buscou na travessia de mundo em mundo.
 
 **Camada 5, A Cidade / O Município.** Louis precisava de direitos, mas direitos que fossem vivos, não abstratos, não entregues por decreto, mas conquistados em assembleia onde sua voz contasse. A democracia direta na Cidade garante que nenhuma política pública pode ser imposta sem passar pelo corpo de quem a sofre. Nega a despotência política que intensificava o isolamento.
 
@@ -716,7 +716,7 @@ Santner complementa com a vida criatural. A periferia não é zona de morte (vid
 
 O critério composicional precisa de um complemento: "e o que faz com o que sobra?" Uma comunidade precisa de vias para o excedente, festa, arte, ritual, silêncio, contemplação. Hekimian, via Bataille, formula o princípio: a ética se abre na dimensão onde a economia da utilidade se rompe. A falta ética não é a transgressão. É a cessão, trair o próprio desejo por conformidade ao Outro. Adams complementa pela via estética: a arte periférica é o paradigma da conversão. Toma a "inquietação petrificada" (Santner via Benjamin), a compulsão sem desenvolvimento, e a organiza em torno do vazio. O coco de roda organiza em torno do que não se diz. O frevo explode o corpo em torno do que não se contém. O manguebeat mistura em torno do que não se resolve.
 
-A escolha ética deste ensaio é pela conversão, não pela travessia. Santner propõe converter o excesso biopolítico em "bênçãos de mais vida" via responsividade ao vizinho. Žižek propõe travessia radical da fantasia, destituição subjetiva. O ensaio segue Santner porque a conversão opera dentro da incompletude. A travessia presume um ato que transcende a situação, e esse ato, sem condições materiais que o sustentem, frequentemente colapsa em acting out vestido de revolução. Converter não é resignar. É metabolizar o inassimilável em potência, sem fingir que o assimilou.
+A escolha ética aqui é pela conversão, não pela travessia. Santner propõe converter o excesso biopolítico em "bênçãos de mais vida" via responsividade ao vizinho. Žižek propõe travessia radical da fantasia, destituição subjetiva. A opção por Santner se justifica porque a conversão opera dentro da incompletude. A travessia presume um ato que transcende a situação, e esse ato, sem condições materiais que o sustentem, frequentemente colapsa em acting out vestido de revolução. Converter não é resignar. É metabolizar o inassimilável em potência, sem fingir que o assimilou.
 
 O critério composicional aplicado às experiências revolucionárias que permanecem confirma essa dupla face. Cuba ampliou potência de agir via saúde universal e biotecnologia soberana — conquistas verificáveis que nenhum país de porte comparável alcançou sob bloqueio. A China ampliou potência via erradicação da pobreza extrema e soberania tecnológica. O Vietnã ampliou potência via abertura econômica gradual sem terapia de choque. As três também limitaram potência onde prescreveram. A pergunta composicional não se formula como "o socialismo funcionou?", que já vem enquadrada pelo adversário, mas sim: onde criou condições e onde prescreveu? Onde ampliou e onde diminuiu?
 
@@ -749,29 +749,29 @@ Nos torneios de Axelrod, o Tit-for-Tat venceu todas as rodadas por ser amável (
 
 ### A assimetria temporal como poder
 
-Os resultados clássicos assumem que os jogadores têm horizontes temporais comparáveis. O mundo real viola isso sistematicamente. Para Rubinstein (1982), a paciência funciona como poder. Nações sob ajuste do FMI, comunidades que precisam sobreviver esta semana, têm δ baixo. O capital financeiro atua com δ altíssimo. A desigualdade de δ constitui uma das formas mais eficazes de dominação, e funciona sem coerção explícita, apenas explorando a diferença de horizontes temporais.
+Os resultados clássicos assumem que os jogadores têm horizontes temporais comparáveis. O mundo real viola isso sistematicamente. Para Rubinstein (1982), a paciência é poder. Nações sob ajuste do FMI, comunidades que precisam sobreviver esta semana, têm δ baixo. O capital financeiro atua com δ altíssimo. A desigualdade de δ é uma das formas mais eficazes de dominação; funciona sem coerção explícita, apenas explorando a diferença de horizontes temporais.
 
 Quando Hauser et al. (Nature, 2019) demonstram que desigualdade extrema impede a cooperação mesmo com reciprocidade direta, o câncer social ganha prova formal.
 
 ### Luta de classes dentro da esquerda
 
-A teoria dos jogos é uma ferramenta para descrever a fragmentação da esquerda. Tem um limite que precisa ser nomeado. Ela captura bem o narcisismo das pequenas diferenças, grupos que são 90% iguais e desperdiçam 90% da energia disputando os 10% de diferença, gerando a defecção por antecipação que leva ao Equilíbrio de Nash da desconfiança mútua.
+A teoria dos jogos é uma ferramenta para descrever a fragmentação da esquerda. Tem um limite que exige nomeação. Ela captura bem o narcisismo das pequenas diferenças, grupos que são 90% iguais e desperdiçam 90% da energia disputando os 10% de diferença, gerando a defecção por antecipação que leva ao Equilíbrio de Nash da desconfiança mútua.
 
-Muitas divisões da esquerda têm causa material antes de ter causa subjetiva. São disputas sobre recursos reais, financiamento, acesso ao Estado, alianças eleitorais que determinam quem recebe o quê. Tratar isso como patologia do narcisismo é, paradoxalmente, reproduzir a psicologização que este ensaio critica quando a direita a aplica ao povo. As divisões também designam luta de classes dentro da esquerda, porque diferentes frações da classe trabalhadora têm interesses que não são automaticamente convergentes, e organizações que representam frações distintas vão ter conflitos materiais que nenhum design institucional elimina.
+Muitas divisões da esquerda têm causa material antes de ter causa subjetiva. São disputas sobre recursos reais, financiamento, acesso ao Estado, alianças eleitorais que determinam quem recebe o quê. Tratar isso como patologia do narcisismo é, paradoxalmente, reproduzir a psicologização que a própria tese critica quando a direita a aplica ao povo. As divisões também designam luta de classes dentro da esquerda, porque diferentes frações da classe trabalhadora têm interesses que não são automaticamente convergentes, e organizações que representam frações distintas vão ter conflitos materiais que nenhum design institucional elimina.
 
-Isso não invalida a proposta de federação. Invalida a versão ingênua que pressupõe que as divisões são superáveis por boa vontade e design correto. A versão madura reconhece que a federação precisa de mecanismos para gerir conflitos de interesse material, não apenas para cultivar noções comuns.
+A proposta de federação não se invalida por isso. O que se invalida é a versão ingênua que pressupõe que as divisões são superáveis por boa vontade e design correto. A versão madura reconhece que a federação requer mecanismos para gerir conflitos de interesse material, não apenas para cultivar noções comuns.
 
 ### Ostrom: o design que torna a cooperação duradoura
 
 Elinor Ostrom provou que comunidades reais escapam do Dilema do Prisioneiro através de design institucional deliberado. Seus oito princípios para commons sustentáveis incluem fronteiras definidas, regras adaptadas localmente, participação dos afetados nas decisões, monitoramento por membros, sanções graduadas, resolução de conflitos acessível, reconhecimento externo do direito de se organizar. O oitavo princípio (para sistemas aninhados, governança em múltiplas camadas) é a arquitetura que o capítulo XII propõe.
 
-Para David Sloan Wilson, o egoísmo vence o altruísmo dentro dos grupos, mas grupos altruístas vencem grupos egoístas. A política consequente não passa por moralizar o altruísmo individual, e sim por criar as condições institucionais que tornam o altruísmo grupal mais vantajoso do que o egoísmo grupal.
+Para David Sloan Wilson, o egoísmo vence o altruísmo dentro dos grupos, mas grupos altruístas vencem grupos egoístas. A política consequente não passa por moralizar o altruísmo individual, mas por criar as condições institucionais que tornam o altruísmo grupal mais vantajoso do que o egoísmo grupal.
 
 ### O conatus como estrutura dissipativa
 
 Ilya Prigogine demonstrou que estruturas longe do equilíbrio, estruturas dissipativas, são exatamente as que geram ordem nova. A vela queima porque dissipa energia; a chama se organiza porque dissipa. Sistemas em equilíbrio estável não criam nada. São os sistemas perturbados, longe do equilíbrio, que produzem complexidade.
 
-O conatus spinoziano é uma estrutura dissipativa. Persevera no ser não pelo isolamento, mas pela importação contínua de energia e dissipação do que não compõe. Uma comunidade com um membro na periferia do capitalismo digital não é fraca por estar longe do equilíbrio. É, nas palavras que Prigogine usaria, "ilha de coerência num mar de caos", com a capacidade que sistemas dissipativos têm de deslocar o campo ao redor.
+O conatus spinoziano é uma estrutura dissipativa. Persevera no ser pela importação contínua de energia e dissipação do que não compõe. Uma comunidade com um membro na periferia do capitalismo digital não é fraca por estar longe do equilíbrio. É, nas palavras que Prigogine usaria, "ilha de coerência num mar de caos", com a capacidade que sistemas dissipativos têm de deslocar o campo ao redor.
 
 Stuart Kauffman acrescenta uma restrição que a arquitetura em sete camadas precisa absorver: não se projeta o futuro completo. Expande-se o possível adjacente, o espaço de possibilidades que emerge do estado atual. Cada decisão amplia ou contrai esse espaço. O critério que se adiciona ao composicional é: "expande ou contrai o espaço de possibilidades futuras?" Uma decisão pode ampliar a potência de agir no presente e contrair o possível adjacente (a política do filho único chinesa é o exemplo mais caro).
 
@@ -785,11 +785,11 @@ Há uma convergência que reclama ser feita explícita. Os princípios de Ostrom
 
 Esses padrões não se impõem de cima como verdades eternas, mas emergem da experiência de corpos que encontram regularidades nos seus encontros. Quando uma comunidade descobre que "nossa safra prospera se dividirmos a água desta forma e não daquela," essa é uma noção comum emergindo, conhecimento que não pertence ao indivíduo isolado, mas ao corpo coletivo composto.
 
-Os oito princípios de Ostrom formalizam institucionalmente como essas noções comuns são reconhecidas, registradas, monitoradas e replicadas ao longo do tempo. A diferença entre Spinoza teórico e Ostrom pragmática é que Spinoza identificou a mecânica, Ostrom identificou o design institucional que permite que essa mecânica funcione. A distância entre ambos não reside na substância, e sim na escala de operação.
+Os oito princípios de Ostrom formalizam institucionalmente como essas noções comuns são reconhecidas, registradas, monitoradas e replicadas ao longo do tempo. A diferença entre Spinoza teórico e Ostrom pragmática é que Spinoza identificou a mecânica; Ostrom identificou o design institucional que permite que essa mecânica funcione. A distância entre ambos não reside na substância, mas na escala de operação.
 
 Uma precisão final sobre o δ que a teoria não frequentemente nomeia. O fator de desconto não funciona como parâmetro individual isento de história, mas como produto da posição de cada corpo no sistema de superexploração (Marini, cap. VIII) e na engenharia da necropolítica (Mbembe, cap. VIII). O δ de uma mulher negra periférica que cria filhos sozinha, que trabalha informalmente, que está sob risco permanente de violência doméstica e estatal, não resulta de uma escolha sua, e sim de séculos de redução deliberada do horizonte temporal dos corpos negros.
 
-A escravidão abolia qualquer futuro além de amanhã. O pós-abolição manteve a lógica, pois precariedade contínua garante que o corpo negro não possa pensar além do próximo gasto. Isso funciona não como metáfora, mas como infraestrutura de controle.
+A escravidão abolia qualquer futuro além de amanhã. O pós-abolição manteve a lógica, pois precariedade contínua garante que o corpo negro não possa pensar além do próximo gasto. Isso é infraestrutura de controle.
 
 A federação que reconhece isso não vai "igualar δ" (a assimetria é estrutural, não técnica), mas vai criar diferenças institucionais que compensem. A Camada 6 (bairro com memória), a Camada 5 (democracia direta em escala onde a mulher negra possa falar), a Camada 7 (cozinha solidária que reduz o custo do dia a dia, liberando tempo mental para pensar futuro).
 
@@ -830,7 +830,7 @@ A Zona da Mata de Pernambuco e o Agreste de Pernambuco têm dinâmicas de luta c
 
 **Camada 3, O Estado Federativo.** Não o Estado abolido, mas o Estado redesenhado por instituições que minimizem a captura da potência por poucos. O design democrático spinoziano na escala da confederação, usando o Valor de Shapley como critério de redistribuição matematicamente justa dos recursos comuns.
 
-**Camada 4, A Mesorregião / O Polo Produtivo.** Agrupamentos de municípios reorganizados em cooperativas, tendo os oito princípios de Ostrom como especificação técnica. A escala que a experiência do MST mais confirma, e onde o Banco Palmas e a Via Campesina têm precedente empírico sólido.
+**Camada 4, A Mesorregião / O Polo Produtivo.** Agrupamentos de municípios reorganizados em cooperativas, tendo os oito princípios de Ostrom como especificação técnica. A escala que a experiência do MST mais confirma; é também onde o Banco Palmas e a Via Campesina têm precedente empírico sólido.
 
 **Camada 5, A Cidade / O Município.** Arena da democracia direta e da educação problematizadora. O Orçamento Participativo de Porto Alegre demonstrou empiricamente que cidadãos comuns tomam decisões orçamentárias tão ou mais racionais quanto tecnocratas.
 
@@ -845,13 +845,13 @@ _Camada 1, O País_
 
 _A membrana e o δ coletivo_
 
-O País funciona como condição de possibilidade das seis camadas seguintes. Não porque o Estado-Nação seja a forma política final ou desejável, mas porque, nas condições concretas do capitalismo dependente, a soberania nacional é o piso sem o qual toda cooperação interna é vulnerável ao colapso externo.
+O País é condição de possibilidade das seis camadas seguintes. Não porque o Estado-Nação seja a forma política final ou desejável, mas porque, nas condições concretas do capitalismo dependente, a soberania nacional é o piso sem o qual toda cooperação interna é vulnerável ao colapso externo.
 
 O conceito operativo, o δ (fator de desconto) da teoria dos jogos, o confirma. Sem soberania, o horizonte temporal coletivo colapsa. Quem não sabe se amanhã haverá moeda, infraestrutura ou território não coopera a longo prazo. A soberania eleva o δ. E δ elevado é condição matemática da cooperação iterada.
 
 _Soberania como função, não como fetiche_
 
-A soberania que esta camada exige não se confunde com o nacionalismo burguês que celebra a bandeira enquanto entrega o subsolo. Soberania funcional designa o controle sobre as variáveis que determinam se as camadas inferiores podem existir.
+A soberania que esta camada exige não se confunde com o nacionalismo burguês que celebra a bandeira enquanto entrega o subsolo. Soberania funcional significa controle sobre as variáveis que determinam se as camadas inferiores podem existir.
 
 - **Soberania monetária e financeira.** A capacidade de emitir moeda, regular fluxos de capital e financiar infraestrutura sem dependência do mercado de títulos em dólar. Sem isso, toda política social é vulnerável a um ciclo de alta de juros no Federal Reserve. A experiência argentina demonstra que não há política redistributiva sustentável sem controle cambial e capacidade fiscal soberana. O Banco Palmas funciona em moeda social local porque a moeda nacional já está parcialmente capturada pelo circuito financeiro global. A Camada 1 protege as moedas sociais da Camada 7 garantindo que a moeda nacional que as referencia não colapse sob pressão especulativa.
 
@@ -859,7 +859,7 @@ A soberania que esta camada exige não se confunde com o nacionalismo burguês q
 
 - **Soberania técnica e comunicacional.** O episódio da derrubada das contas de Jones Manoel pelo Meta em 2025 prova empiricamente que, sem infraestrutura de comunicação própria, toda construção de consciência política está vulnerável a decisão unilateral de corporação estrangeira. Isso implica backbone de internet com pontos de troca (IXPs) distribuídos, plataformas federadas (ActivityPub, Matrix), satélites de comunicação sob controle público, e formação técnica massiva em segurança da informação. O departamento de hackers como função estratégica nacional, não apenas organizativa.
 
-- **Soberania militar e de inteligência.** A questão mais difícil e que o ensaio original deliberadamente não desenvolve em detalhe. Qualquer construção popular que ameace interesses do capital transnacional enfrentará, em algum momento, violência organizada. A história da América Latina é uma enciclopédia de golpes, assassinatos e invasões contra projetos soberanos. A Camada 1 precisa de capacidade dissuasória que torne a intervenção custosa. Isso não significa militarismo. Significa que a questão da defesa não pode ser terceirizada para as Forças Armadas como estão constituídas (historicamente alinhadas ao imperialismo) nem ignorada como se a boa vontade internacional fosse suficiente.
+- **Soberania militar e de inteligência.** A questão mais difícil e deliberadamente não desenvolvida em detalhe aqui. Qualquer construção popular que ameace interesses do capital transnacional enfrentará, em algum momento, violência organizada. A história da América Latina é uma enciclopédia de golpes, assassinatos e invasões contra projetos soberanos. A Camada 1 precisa de capacidade dissuasória que torne a intervenção custosa. Não se trata de militarismo. A questão da defesa não pode ser terceirizada para as Forças Armadas como estão constituídas (historicamente alinhadas ao imperialismo) nem ignorada como se a boa vontade internacional fosse suficiente.
 
 _A relação com o imperialismo: os três jogos simultâneos_
 
@@ -873,7 +873,7 @@ _Ostrom na escala nacional_
 
 Quando Ostrom formula o oitavo princípio (governança em múltiplas camadas para sistemas aninhados), descreve a arquitetura que a Camada 1 realiza. Ela não governa as seis camadas seguintes, mas engendra as condições para que se autogovernem. A distinção spinoziana potentia/potestas atravessa essa relação. O Estado soberano existe para que a potência constituinte da multidão encontre suas formas próprias de expressão. Quando o Estado captura a potência em vez de protegê-la, a Camada 1 se tornou o inimigo.
 
-O design democrático spinoziano na escala nacional designa o conjunto de instituições que minimizam essa captura, por meio de separação de poderes real (não formal), mecanismos de revogação de mandato, transparência fiscal radical e participação direta nas decisões estratégicas (política monetária, energética, militar).
+O design democrático spinoziano na escala nacional é o conjunto de instituições que minimizam essa captura, por meio de separação de poderes real (não formal), mecanismos de revogação de mandato, transparência fiscal radical e participação direta nas decisões estratégicas (política monetária, energética, militar).
 
 <mermaid src="cap-XIV" description="Brasil: do Estado-Nação à Comunidade-Nação. Arquitetura de 7 camadas e seus vínculos. A práxis como terreno onde a teoria se materializa."></mermaid>
 
@@ -892,7 +892,7 @@ A Unidade Territorial Viva se organiza por três critérios sobrepostos que a ex
 
 - **Bacias hidrográficas.** A água determina o conflito. Quem controla a água controla a produção e a reprodução da vida. A transposição do São Francisco não se reduz a obra de engenharia, pois redesenha o poder territorial. A bacia funciona como unidade natural de gestão de recursos hídricos, e deveria ser a unidade de planejamento territorial. As experiências de comitês de bacia no Brasil (Lei 9.433/1997) fornecem o esqueleto institucional, mas precisam ser radicalmente democratizadas. Hoje são espaços capturados por grandes usuários (irrigantes, hidrelétricas, empresas de saneamento).
 - **Biomas.** A Caatinga exige formas de produção e reprodução radicalmente diferentes do Cerrado ou da Mata Atlântica. O bioma determina o que pode ser cultivado, como a água é manejada, quais são os ciclos produtivos possíveis. A agroecologia que funciona na Zona da Mata não se aplica ao Sertão. Comunidades quilombolas e indígenas já atuam por essa lógica há séculos. O conhecimento está lá. A Camada 2 o torna legível sem extrair.
-- **Cadeias produtivas.** O polo têxtil do Agreste (Santa Cruz do Capibaribe, Toritama, Caruaru) constitui uma cadeia produtiva que organiza a vida de centenas de milhares de famílias. A cadeia do coco no litoral nordestino, a cadeia da mandioca no Recôncavo baiano, a cadeia do açaí na Amazônia. São os circuitos reais de produção e troca que a Camada 2 precisa articular em cooperativas.
+- **Cadeias produtivas.** O polo têxtil do Agreste (Santa Cruz do Capibaribe, Toritama, Caruaru) forma uma cadeia produtiva que organiza a vida de centenas de milhares de famílias. A cadeia do coco no litoral nordestino, a cadeia da mandioca no Recôncavo baiano, a cadeia do açaí na Amazônia. São os circuitos reais de produção e troca que a Camada 2 precisa articular em cooperativas.
 
 _A reforma agrária como fundação_
 
@@ -900,7 +900,7 @@ Sem reforma agrária, não há Camada 2. O Brasil tem a segunda maior concentra�
 
 A reforma agrária que a Camada 2 exige não se confunde com a reforma de mercado do Banco Mundial (que distribui títulos individuais transformando camponeses em devedores), mas segue a reforma estrutural que o MST pratica. Ocupação, acampamento, assentamento, cooperativa. Desconcentração de terra como condição material da desconcentração de poder.
 
-O MST fornece o precedente empírico mais sólido para esta camada, com 450 mil famílias assentadas, organização por base ecológica e produtiva, escolas próprias (mais de 2 mil), cooperativas de produção e comercialização, inserção na Via Campesina internacional. A prova de que a Camada 2 não designa utopia, mas a formalização do que já existe.
+O MST fornece o precedente empírico mais sólido para esta camada, com 450 mil famílias assentadas, organização por base ecológica e produtiva, escolas próprias (mais de 2 mil), cooperativas de produção e comercialização, inserção na Via Campesina internacional. A prova de que a Camada 2 não é utopia, mas formalização do que já existe.
 
 _Soberania alimentar como soberania política_
 
@@ -929,11 +929,11 @@ Isso exige retomar Spinoza no registro político, aplicar a matemática do Valor
 
 O dilema revolucionário é clássico. Deve-se abolir o Estado ou reformá-lo? Spinoza na sua maturidade (Tratado Político, não o Tratado Teológico-Político otimista) responde com cautela. A potestas (o poder constituído) existe porque a potentia (o poder constituinte) ainda não encontrou suas formas adequadas de expressão. O anarquismo que aboliria o Estado antes que a multidão tenha seus próprios órgãos de potência é abandono do território ao capital, que já tem as suas estruturas organizativas prontas. A Comunidade-Nação não funciona como alternativa ao Estado, mas como a base desde a qual se disputa e redesenha o Estado.
 
-O Estado da Camada 3 não designa o Estado-Nação centralizado que concentra poder, mas o Estado spinoziano, constituição mínima de instituições que minimizam a captura da potência constituinte por poucos. Como isso funciona?
+O Estado da Camada 3 não é o Estado-Nação centralizado que concentra poder, mas o Estado spinoziano, constituição mínima de instituições que minimizam a captura da potência constituinte por poucos. Como isso funciona?
 
 **Minimizar a captura por poucos: o medo distribuído**
 
-Spinoza distingue no Tratado Político entre democracia (onde o medo de que alguém monopolize o poder é suficientemente distribuído que nenhum bloco consegue dominação total) e tirania (onde o medo é monopolizado por um). A Camada 3 designa o design dessas instituições de medo distribuído.
+Spinoza distingue no Tratado Político entre democracia (onde o medo de que alguém monopolize o poder é suficientemente distribuído que nenhum bloco consegue dominação total) e tirania (onde o medo é monopolizado por um). A Camada 3 é o design dessas instituições de medo distribuído.
 
 Operacionalmente, isso implica separação de poderes real (não a formalidade constitucional que persiste em presidencialismos plebiscitários), mecanismos de revogação de mandato que permitem remover governantes eleitos, transparência fiscal radical (toda decisão sobre recursos é auditável pela população) e participação direta em decisões estratégicas (política monetária, alocação de recursos entre regiões, acordos internacionais). A Câmara dos Deputados que funciona agora como representação ficcional de "vontade popular" cede lugar a formas híbridas de democracia que combinam deliberação direta (em temas que afetam direitos básicos) e delegação revogável (para temas que exigem continuidade técnica).
 
@@ -961,7 +961,7 @@ A Camada 3 revisita essas lições. Como manter a universalidade e descentraliza
 
 **Agrupamentos cooperativos de municípios**
 
-A Mesorregião não coincide com a divisão administrativa do IBGE, mas designa um agrupamento de municípios que compõem cadeia produtiva, bacia hidrográfica ou bioma comum. O Agreste pernambucano forma uma mesorregião têxtil, com cidades de produção (Caruaru, Santa Cruz do Capibaribe, Toritama, Arcoverde) que atuam na mesma cadeia. A organização cooperativa dessa cadeia constitui a Camada 4.
+A Mesorregião não coincide com a divisão administrativa do IBGE, mas corresponde a um agrupamento de municípios que compõem cadeia produtiva, bacia hidrográfica ou bioma comum. O Agreste pernambucano forma uma mesorregião têxtil, com cidades de produção (Caruaru, Santa Cruz do Capibaribe, Toritama, Arcoverde) que atuam na mesma cadeia. A organização cooperativa dessa cadeia constitui a Camada 4.
 
 O mecanismo funciona assim. Os municípios que compõem a cadeia produtiva se federalizam, não em partido político, mas em cooperativa. Decisões sobre preço mínimo, distribuição de crédito, capacitação técnica, infraestrutura produtiva são tomadas conjuntamente. Cada município preserva autonomia sobre decisões que o afetam especificamente; coordena decisões que afetam a cadeia. Essa dinâmica realiza o que Guattari chamou de transversalidade, máxima comunicação entre níveis sem hierarquia que sufoca nem horizontalidade que dispersa.
 
@@ -981,7 +981,7 @@ A Via Campesina operacionaliza Ostrom na escala de cadeias de produção agríco
 
 Aqui é onde Camadas 3 e 4 dialogam. Nenhuma das duas prescreve o que a outra faz, mas cada uma instala as condições para a outra funcionar. O Estado Federativo (Camada 3) garante que o crédito flui para cooperativas (Camada 4) sem captura privada. A mesorregião cooperativa (Camada 4) gera dados de decisões que alimentam as políticas federativas (Camada 3). Conflitos escaláveis (que uma cooperativa não consegue resolver sozinha) são passados ao estado federativo; conflitos que o estado não pode resolver (porque requerem autonomia local) permanecem na cooperativa.
 
-Ostrom identificou essa característica como crucial para que sistemas de gestão de comum durem. Sistemas aninhados onde cada nível tem poder sobre o que o afeta, e nenhum nível se basta sozinho. Camada 4 sem Camada 3 fica isolada, vulnerável a invasão estatal e a captura privada. Camada 3 sem Camada 4 se reduz a burocracia, prescrevendo de cima sem capacidade de escuta do que as comunidades já praticam. Juntas, sob o princípio 8, elas engendram a federação que dura.
+Ostrom identificou essa característica como crucial para que sistemas de gestão de comum durem. Sistemas aninhados onde cada nível tem poder sobre o que o afeta; nenhum nível se basta sozinho. Camada 4 sem Camada 3 fica isolada, vulnerável a invasão estatal e a captura privada. Camada 3 sem Camada 4 se reduz a burocracia, prescrevendo de cima sem capacidade de escuta do que as comunidades já praticam. Juntas, sob o princípio 8, elas engendram a federação que dura.
 
 <mermaid src="cap-XVI" description="Camadas 3 e 4: Estado Federativo redesenhado (C3) e Mesorregião/Polo Produtivo (C4). Descentralização fiscal real. Ostrom Princípio 8: governança aninhada em múltiplas escalas."></mermaid>
 
@@ -1006,9 +1006,9 @@ _Educação como prática da liberdade_
 
 A cidade designa a escala onde a educação problematizadora de Freire se materializa. A escola municipal, o CRAS, a UBS, a biblioteca pública constituem os pontos de contato onde o Estado encontra o cidadão. Quando esses pontos funcionam pela lógica bancária (depositar conhecimento/saúde/assistência sobre receptáculos passivos), engendram eu falso institucionalizado. Quando funcionam pela lógica problematizadora (criar condições para que o sujeito construa seu próprio saber sobre sua própria condição), geram potência.
 
-A transformação desses pontos de contato não se limita a reforma curricular ou capacitação de profissionais, mas exige mudança de paradigma institucional.
+A transformação desses pontos de contato vai além de reforma curricular ou capacitação de profissionais: exige mudança de paradigma institucional.
 
-O CAPS que diagnostica e medica sem escutar precisa se tornar espaço de escuta que eventualmente medica. A UBS sobrecarregada que atende sem presença precisa de condições materiais (profissionais suficientes, tempo de consulta adequado, infraestrutura digna) que permitam a presença. A escola que humilha o sotaque nordestino precisa de pedagogia que parta desse sotaque como riqueza, não como erro a corrigir.
+O CAPS que diagnostica e medica sem escutar tem de se tornar espaço de escuta que eventualmente medica. A UBS sobrecarregada que atende sem presença exige condições materiais (profissionais suficientes, tempo de consulta adequado, infraestrutura digna) que permitam a presença. A escola que humilha o sotaque nordestino precisa de pedagogia que parta desse sotaque como riqueza, não como erro a corrigir.
 
 _Cultura como contraconduta_
 
@@ -1019,19 +1019,19 @@ _Camada 6, O Bairro / O Território_
 
 _A escala do rosto_
 
-O bairro designa o lugar onde a abstração do social ganha rosto humano. Nele se sabe quem está doente, quem perdeu emprego, quem está em risco. Nele a solidariedade concreta se materializa, pela vizinha que cuida, pelo mutirão que constrói, pela rede de proteção informal que age antes e depois de qualquer política pública. A cordialidade que compõe, no sentido spinoziano, atravessa esta escala.
+O bairro é o lugar onde a abstração do social ganha rosto humano. Nele se sabe quem está doente, quem perdeu emprego, quem está em risco. Nele a solidariedade concreta se materializa, pela vizinha que cuida, pelo mutirão que constrói, pela rede de proteção informal que age antes e depois de qualquer política pública. A cordialidade que compõe, no sentido spinoziano, atravessa esta escala.
 
 _Legibilidade para o povo, não para o Estado_
 
 James Scott demonstrou em _Seeing Like a State_ que a legibilidade, a capacidade de tornar uma população legível, contável, mapeável, funciona historicamente como instrumento de controle estatal. O cadastro, o censo, o mapa são ferramentas de dominação que tornam o sujeito visível para o poder que o governa.
 
-A Camada 6 inverte a lógica. A legibilidade passa a servir ao próprio povo, não ao Estado extrator. O mapeamento coletivo do Banco Palmas (onde moradores descreveram, uns para os outros, o que tinham e o que precisavam) constitui o paradigma. Os dados gerados pertencem à comunidade. São usados para planejamento local, não para vigilância ou focalização de políticas que tratam a pobreza como desvio individual.
+A Camada 6 inverte a lógica. A legibilidade passa a servir ao próprio povo, não ao Estado extrator. O mapeamento coletivo do Banco Palmas (onde moradores descreveram, uns para os outros, o que tinham e o que precisavam) é o paradigma. Os dados gerados pertencem à comunidade. São usados para planejamento local, não para vigilância ou focalização de políticas que tratam a pobreza como desvio individual.
 
 Como infraestrutura comunitária de dados, atuaria nesta camada por meio de ferramentas de coleta, processamento e visualização de dados que sejam operáveis pela própria comunidade, com governança local sobre acesso e uso. Quem gera e governa os dados não é o pesquisador de fora que chega, coleta, publica e vai embora, mas a própria comunidade, que constrói conhecimento sobre si mesma para tomar decisões sobre si mesma.
 
 _Opacidade soberana e transparência forense_
 
-Mas a legibilidade comunitária revela uma tensão que o ensaio precisa nomear. A comunidade precisa de ilegibilidade diante do extrator (escudo) e de produção de evidência contra o Estado (lente). Glissant nomeou o direito à opacidade: recusa de ser totalmente compreendido nos termos do outro. Simone Browne, em _Dark Matters_, demonstrou que a vigilância moderna nasce na escravidão, no _lantern law_ de Nova York (1713) que obrigava negros a carregar lanternas após o anoitecer para serem visíveis. Zach Blas, no _Facial Weaponization Suite_, criou máscaras coletivas indetectáveis por biometria: não desaparecer, mas criar visibilidades autônomas.
+Mas a legibilidade comunitária revela uma tensão que precisa ser nomeada. A comunidade precisa de ilegibilidade diante do extrator (escudo) e de produção de evidência contra o Estado (lente). Glissant nomeou o direito à opacidade: recusa de ser totalmente compreendido nos termos do outro. Simone Browne, em _Dark Matters_, demonstrou que a vigilância moderna nasce na escravidão, no _lantern law_ de Nova York (1713) que obrigava negros a carregar lanternas após o anoitecer para serem visíveis. Zach Blas, no _Facial Weaponization Suite_, criou máscaras coletivas indetectáveis por biometria: não desaparecer, mas criar visibilidades autônomas.
 
 Eyal Weizman e o coletivo Forensic Architecture demonstraram que, quando o Estado destrói evidências, as comunidades precisam de capacidade forense própria para reconstruir a verdade. O conceito de limiar de detectabilidade é operacional: abaixo de certo limiar, a violência se torna invisível. A chacina que não aparece no jornal. A contaminação que não entra na estatística. O despejo que não gera processo.
 
@@ -1041,7 +1041,7 @@ _Saúde territorial_
 
 A saúde mental e física da periferia não se resolve no consultório individual. Resolve-se (quando se resolve) na escala do território, por meio de agentes comunitários de saúde que conhecem cada família, equipes de saúde da família enraizadas no bairro, hortas comunitárias que alimentam e criam vínculo, espaços de escuta coletiva que nomeiam o sofrimento antes de medicá-lo.
 
-A Estratégia Saúde da Família (ESF) constitui o precedente institucional mais próximo, com 45 mil equipes em todo o Brasil, cobrindo mais de 60% da população. O que falta são condições materiais (equipes completas, infraestrutura adequada, remuneração digna) e paradigma (saúde como composição de potência, não como ausência de doença).
+A Estratégia Saúde da Família (ESF) é o precedente institucional mais próximo, com 45 mil equipes em todo o Brasil, cobrindo mais de 60% da população. O que falta são condições materiais (equipes completas, infraestrutura adequada, remuneração digna) e paradigma (saúde como composição de potência, não como ausência de doença).
 
 _Segurança como cuidado, não como policiamento_
 
@@ -1060,7 +1060,7 @@ Esta é a escala que o capitalismo atomizou. A casa individual, a máquina de la
 
 _Os encontros transformadores no cotidiano_
 
-Os quatro movimentos fenomenológicos descritos no capítulo IX do ensaio (nomeação coletiva, reconhecimento, identificação de causalidade, ação emergente) acontecem nesta camada, não como evento extraordinário, mas como prática cotidiana.
+Os quatro movimentos fenomenológicos descritos no capítulo IX (nomeação coletiva, reconhecimento, identificação de causalidade, ação emergente) acontecem nesta camada, não como evento extraordinário, mas como prática cotidiana.
 
 - **Nomeação coletiva:** na cozinha comunitária, a mulher que diz "não é que eu não sei cozinhar direito, é que o gás subiu 40% e eu não dou conta" está nomeando coletivamente uma situação que era sofrida privativamente como vergonha. O ato de nomear já transforma a relação com a situação.
 - **Reconhecimento:** as outras mulheres na cozinha reconhecem a experiência como partilhada. O sofrimento deixa de ser culpa individual e se torna diagnóstico coletivo. A depressão do sujeito que não consegue mais, aquilo que Han descreveu como esgotamento do desempenho, encontra coletivo que a acolhe e a transforma.
@@ -1069,7 +1069,7 @@ Os quatro movimentos fenomenológicos descritos no capítulo IX do ensaio (nomea
 
 A escala muda quando esses mesmos movimentos se tornam política de Estado. Cuba tratou saúde como bem comum, não mercadoria, e construiu, sob bloqueio, o sistema mais denso do hemisfério, com nove médicos por mil habitantes, vacinas próprias, biotecnologia soberana. O Abdala, vacina cubana contra COVID-19, alcançou 98,2% de eficácia contra doença grave em estudo com mais de um milhão de pessoas. Um país asfixiado economicamente gerou o que multinacionais farmacêuticas do Norte vendem por lucro. A razão é estrutural. Quando a saúde não é mercadoria, a pesquisa não precisa dar retorno ao acionista.
 
-No Vietnã e na China, a terra nunca foi privatizada. A propriedade formal é coletiva ou estatal. O agricultor vietnamita tem segurança de posse — pode transferir, arrendar, herdar — mas a terra em si permanece do povo. A diferença não se limita ao jurídico, mas alcança o ontológico. A terra como commons impede que a acumulação primitiva se complete. E a acumulação primitiva incompleta corresponde ao que Luxemburg diagnosticou como necessidade permanente do capital.
+No Vietnã e na China, a terra nunca foi privatizada. A propriedade formal é coletiva ou estatal. O agricultor vietnamita tem segurança de posse — pode transferir, arrendar, herdar — mas a terra em si permanece do povo. A diferença alcança o ontológico. A terra como commons impede que a acumulação primitiva se complete. E a acumulação primitiva incompleta corresponde ao que Luxemburg diagnosticou como necessidade permanente do capital.
 
 _Economia do cuidado e reprodução social_
 
@@ -1092,7 +1092,7 @@ A Rua (7) produz os encontros que geram consciência e organização. O Bairro (
 
 O fluxo corre de baixo para cima. A potência nasce na Rua e se acumula até a escala nacional. A proteção corre de cima para baixo. O País protege as condições que permitem à Rua existir. Quando o fluxo se inverte (o Estado prescreve o que a Rua deve fazer), a Comunidade-Nação se transforma em Estado-Nação convencional e reproduz o mecanismo que afirmava combater.
 
-A transversalidade que Guattari formulou atravessa todas as camadas como princípio organizador, viabilizando máxima comunicação entre níveis diferentes, sem hierarquia vertical que sufoca nem horizontalidade que dispersa sem acumular. A federação não funciona como partido nem como frente, mas como tecido. Cada fio (cada camada, cada coletivo, cada experiência) mantém sua consistência própria enquanto se entrelaça com os demais. O tear está armado. Os fios estão prontos.
+A transversalidade que Guattari formulou atravessa todas as camadas como princípio organizador, viabilizando máxima comunicação entre níveis diferentes, sem hierarquia vertical que sufoca nem horizontalidade que dispersa sem acumular. A federação não é partido nem frente, mas tecido. Cada fio (cada camada, cada coletivo, cada experiência) mantém sua consistência própria enquanto se entrelaça com os demais. O tear está armado. Os fios estão prontos.
 
 <mermaid src="cap-XVII" description="Camadas 5, 6, 7: Município, Comunidade, Pessoa. A vida comum em escala humana. Serviços locais, vizinhança e cuidado mútuo, bem-estar afetivo. Práxis do comum."></mermaid>
 
@@ -1103,7 +1103,7 @@ A transversalidade que Guattari formulou atravessa todas as camadas como princí
 
 A arquitetura acima não pode pressupor que o Estado vai tolerar sua construção. A história das experiências populares no Brasil é a história de acampamentos queimados, lideranças assassinadas, liminares judiciais, cortes de crédito, criminalização.
 
-A Comunidade-Nação precisa de uma teoria da relação com o Estado que funcione em três registros ao mesmo tempo.
+A Comunidade-Nação exige uma teoria da relação com o Estado que funcione em três registros ao mesmo tempo.
 
 **Registro 1, Uso sem dependência.** Acessar recursos do PRONAF, do INCRA, do BNDES como insumo para construção de autonomia, não como substituto dela. Os assentamentos do MST mais sustentáveis são os que usaram o crédito estatal para construir cooperativas que gradualmente reduziram a dependência desse mesmo crédito.
 
@@ -1113,15 +1113,15 @@ Um exemplo concreto. Famílias que recebem financiamento público para produçã
 
 Na prática, isso significa mapeamento de quem é alvo, protocolos de comunicação redundantes para que a detenção de lideranças não silencie o coletivo, transmissão ao vivo de operações e acampamentos (tecnologia celular que dá visibilidade a quem o Estado quer invisível), redes de apoio jurídico (defensoria popular, advogados militantes) que elevam o custo legal da repressão. O objetivo não é impedir a repressão, mas impedir que a repressão seja grátis. Quando o custo de matar um acampamento é perder eleição ou legitimidade internacional, a repressão se torna menos frequente e mais seletiva. Há tempo para consolidar as estruturas.
 
-**Registro 3, Construção de poder para disputar o Estado.** A autonomia não funciona como alternativa ao Estado, mas como a base desde a qual se disputa o Estado. O MST não rejeita o Estado. Constrói poder territorial enquanto disputa as instituições. Jones Manoel candidatando-se a deputado federal por Pernambuco encarna essa lógica. Disputa do espaço molar a partir de base molecular já construída.
+**Registro 3, Construção de poder para disputar o Estado.** A autonomia não é alternativa ao Estado, mas a base desde a qual se disputa o Estado. O MST não rejeita o Estado. Constrói poder territorial enquanto disputa as instituições. Jones Manoel candidatando-se a deputado federal por Pernambuco encarna essa lógica. Disputa do espaço molar a partir de base molecular já construída.
 
 A diferença estratégica aparece com clareza. O candidato que chega ao legislativo com uma base territorial de 30 mil famílias organizadas tem mais poder do que aquele que chega com voto de máquina. Pode ser preso, mas não pode ser isolado. A construção de poder territorial e a disputa institucional não são contraditórias, são complementares. A primeira sem a segunda é autonomismo que deixa o Estado intacto. A segunda sem a primeira é eleitoralismo que reproduz a captura.
 
 ### A economia da organização: quem paga?
 
-A arquitetura de sete camadas custa dinheiro, tempo e infraestrutura. O Banco Palmas existe porque houve financiamento inicial e porque a comunidade do Conjunto Palmeiras já tinha grau de organização territorial prévia. O MST tem 450 mil famílias assentadas porque acumulou ao longo de décadas (com cooperativas, doações internacionais e recursos estatais) condições que permitiram sustentar a luta.
+A arquitetura de sete camadas custa dinheiro, tempo e infraestrutura. O Banco Palmas existe porque houve financiamento inicial e porque a comunidade do Conjunto Palmeiras já tinha grau de organização territorial prévia. O MST acumulou ao longo de décadas, com cooperativas, doações internacionais e recursos estatais, as condições que permitiram sustentar a luta.
 
-A federação que este ensaio propõe precisa de modelo de financiamento que não dependa exclusivamente do Estado nem do capital. As possibilidades documentadas funcionam de forma combinada.
+A federação proposta exige modelo de financiamento que não dependa exclusivamente do Estado nem do capital. As possibilidades documentadas funcionam de forma combinada.
 
 **Autofinanciamento cooperativo.** Uma porcentagem da produção das cooperativas (usualmente 2-5%) alimenta o fundo federativo que paga articuladores, forma educadores, mantém centros de documentação, engendra conhecimento sistemático. No Banco Palmas, 1% das operações de crédito giram para o capital de giro do próprio banco. Essa lógica escala. Se cada camada comunitária de cooperativa alimenta a camada municipal de confederação, que alimenta a camada estadual, etc., a infraestrutura de articulação fica financiada pela própria produção que articula.
 
@@ -1131,17 +1131,17 @@ O problema reside no tempo inicial. Nos primeiros anos, a cooperativa ainda não
 
 **Pesquisa-ação com universidades públicas.** Universidades têm agências de fomento (CNPq, CAPES, FAPs estaduais) que financiam pesquisa e extensão. Um projeto que estude (simultaneamente) a produção agroecológica de uma Unidade Territorial Viva _enquanto ajuda a comunidade a organizar essa produção_ transforma o processo em programa de pesquisa financiado. A UNE (União Nacional dos Estudantes) e o movimento estudantil têm histórico de fazer isso, com o cientista que não cobra da comunidade porque o Estado paga sua bolsa. Isso reduz a assimetria de conhecimento sem gerar dívida.
 
-**Redes de solidariedade com o Sul Global.** Movimentos que enfrentam desafios análogos (Via Campesina, Intercontinental Network of Independent Telecom, plataformas cooperativas na Argentina) têm fundos e campanhas de financiamento que financiam experiências no hemisfério sul. O tráfego não designa caridade, mas comércio justo de conhecimento entre pares que enfrentam o mesmo inimigo.
+**Redes de solidariedade com o Sul Global.** Movimentos que enfrentam desafios análogos (Via Campesina, Intercontinental Network of Independent Telecom, plataformas cooperativas na Argentina) têm fundos e campanhas de financiamento que financiam experiências no hemisfério sul. O tráfego não é caridade, mas comércio justo de conhecimento entre pares que enfrentam o mesmo inimigo.
 
 O desafio reside na fase crítica, os primeiros 5-10 anos quando a cooperativa precisa de capital inicial, educação, infraestrutura, mas não tem produção bastante para autofinanciar. É nesse ponto que o uso pragmático de recursos estatais (Registro 1) ganha peso. O financiamento pluralista (mistura de Estado, cooperativa, universidade, solidariedade) descreve a realidade empiricamente documentada das experiências que duraram.
 
 ### As células que já existem
 
-O Banco Palmas constitui mais de 130 bancos comunitários criados no Brasil ao longo de duas décadas, modelo replicado em dezenas de comunidades. Não um banco convencional, mas um sistema de finança comunitária onde a moeda social (palmas) está enraizada num território específico. O Banco Palmas de Fortaleza funciona como Camada 7 (mercado da comunidade, crédito baseado em confiança relacional) enraizado numa Camada 6 (bairro do Conjunto Palmeiras). Sua viabilidade não prova que seja possível sem Estado. Prova que é possível com Estado como parceiro pragmático (financiamento inicial), não como patrão. A estrutura de governança funciona de modo assembleístico, onde cada família que usa o banco tem voto nas decisões. O Banco Palmas demonstra que finança comunitária escala (130 bancos replicam o modelo) e que mercados reais funcionam sem mediação de instituições financeiras dominantes.
+O Banco Palmas constitui mais de 130 bancos comunitários criados no Brasil ao longo de duas décadas, modelo replicado em dezenas de comunidades. Não um banco convencional, mas um sistema de finança comunitária onde a moeda social (palmas) está enraizada num território específico. O Banco Palmas de Fortaleza funciona como Camada 7 (mercado da comunidade, crédito baseado em confiança relacional) enraizado numa Camada 6 (bairro do Conjunto Palmeiras). Sua viabilidade não prova que seja possível sem Estado. Prova que é possível com Estado como parceiro pragmático (financiamento inicial), não como patrão. A estrutura de governança funciona de modo assembleístico, onde cada família que usa o banco tem voto nas decisões. O modelo demonstra que finança comunitária escala e que mercados reais funcionam sem mediação de instituições financeiras dominantes.
 
 O MST, maior organização de reforma agrária das Américas, reúne 450 mil famílias assentadas e cofundou a Via Campesina. Sua estrutura interna (células de base, círculos de controle de mística, escola própria com currículo político, produção cooperativa em múltiplas escala) atravessa os sete princípios de Ostrom em prática. O MST não espera pela revolução. Atua como se a revolução já tivesse começado, ocupando terra como se fosse de quem trabalha, organizando educação como se a escola já fosse do movimento, comercializando como se o mercado já respondesse à produção justa. A estrutura de articulação (estadual, regional, nacional) replica a ideia de federação, com decisão descentralizada mas articulação horizontal. O MST prova que estrutura de potência coletiva (não de comando) pode coordenar 450 mil pessoas e sustentar uma luta de 40 anos contra repressão violenta.
 
-Os territórios quilombolas reúnem mais de 3.800 comunidades certificadas pela Fundação Palmares, com cerca de 4% de titulação definitiva. Dado que mede tanto a resistência quanto o custo que o Estado impõe a ela. Os quilombos funcionam como Comunidade-Nação em miniatura, autogovernando a reprodução da vida a partir de princípios próprios (respeito à ancestralidade, organização comunitária de trabalho, relação com a terra como sujeito vivo, produção para uso preferencialmente a venda). Enfrentam sistematicamente grilagem de terra, migração de jovens, falta de infraestrutura, mas mantêm a lógica de organização própria. O quilombo não designa folclore, mas tecnologia política de resistência que dura séculos.
+Os territórios quilombolas reúnem mais de 3.800 comunidades certificadas pela Fundação Palmares, com cerca de 4% de titulação definitiva. Dado que mede tanto a resistência quanto o custo que o Estado impõe a ela. Os quilombos funcionam como Comunidade-Nação em miniatura, autogovernando a reprodução da vida a partir de princípios próprios (respeito à ancestralidade, organização comunitária de trabalho, relação com a terra como sujeito vivo, produção para uso preferencialmente a venda). Enfrentam sistematicamente grilagem de terra, migração de jovens, falta de infraestrutura, mas mantêm a lógica de organização própria. O quilombo é tecnologia política de resistência que dura séculos.
 
 Esses não são exemplos para ilustrar uma tese, mas demonstrações empíricas de que comunidades que organizam a reprodução da vida a partir de princípios próprios existem, geram riqueza e resistem, enfrentando sistematicamente o custo dessa recusa à totalidade dominante. Banco Palmas mostra que finança comunitária é viável. MST mostra que organização de potência (não de comando) escala a centenas de milhares de pessoas. Quilombos mostram que alternativas sistêmicas resistem por séculos mesmo sob pressão de extermínio. A teoria não precisa inventar o que já existe. Precisa tornar legível o que a experiência já pratica. A Comunidade-Nação não pertence ao futuro. Está aqui, fragmentada, sob sitiamento, esperando por articulação federativa que a torne visível como força político-histórica.
 
@@ -1160,7 +1160,7 @@ Esses não são exemplos para ilustrar uma tese, mas demonstrações empíricas 
 
 ### O momento como diagnóstico
 
-Este ensaio foi escrito em 2026. Isso não é dado neutro.
+O texto foi escrito em 2026. Isso não é dado neutro.
 
 O Brasil habita um entre-lugar. Segundo mandato de Lula com a sensação crescente de que a gestão progressista do Estado capitalista dependente não equivale a transformação estrutural. O bolsonarismo, derrotado eleitoralmente, persiste como regime molecular de afetos. Microfascismo que prescinde do Estado formal porque já governa nos grupos de família, nos cultos neopentecostais, nas abordagens policiais.
 
@@ -1168,23 +1168,23 @@ No plano mundial, colapso da ordem unipolar, multipolaridade instável, autorita
 
 Os donos do poder econômico reencontraram a velha fórmula que sempre encontram à disposição. Chama-se fascismo. Corja de ilusionistas criadores de espantalhos e falsos inimigos. A fórmula não é nova. O que muda é a figura que a atravessa. Na antiguidade, o Imperador. Na idade média, o Rei. Na idade moderna, o Industrial. Até ontem, o Gestor de Fundos. Hoje, o *Big Tech Guy*.
 
-O feudalismo não foi superado pela modernidade. Está em modernização permanente. Estados semi-privatizados proíbem composições que ameacem suas bolhas, seus feudos. O tecnofeudalismo não designa uma novidade. O feudalismo nunca saiu de cena.
+O feudalismo não foi superado pela modernidade. Está em modernização permanente. Estados semi-privatizados proíbem composições que ameacem suas bolhas, seus feudos. O tecnofeudalismo não é novidade. O feudalismo nunca saiu de cena.
 
 ### Dois intelectuais orgânicos, uma mesma base material
 
-Duas figuras da própria cena pernambucana se tornam incontornáveis para este ensaio. Jones Manoel e Heribaldo Maia não funcionam aqui como autoridades externas, mas como sintomas de potência, sujeitos que emergiram das condições que este ensaio diagnostica e geraram, a partir delas, teoria viva.
+Duas figuras da própria cena pernambucana se tornam incontornáveis. Jones Manoel e Heribaldo Maia não funcionam aqui como autoridades externas, mas como sintomas de potência, sujeitos que emergiram das condições diagnosticadas nos capítulos anteriores e geraram, a partir delas, teoria viva.
 
 **Jones Manoel da Silva** nasceu na favela do Borborema. Aos 14 anos vendia jornais na rua. Chegou ao marxismo-leninismo pelo rap, pelos Racionais MCs, pelo Tupac que mencionava Fidel Castro. A universidade não lhe trouxe a teoria. A vida o levou à universidade.
 
 Sua dissertação de mestrado na UFPE (_Em Busca da Revolução Brasileira_) constitui a autopsia mais precisa do reformismo petista disponível em língua portuguesa. Seu canal do YouTube redistribui o sensível, tornando audível como discurso o que o sistema acadêmico produzia como ruído. Em agosto de 2025, o Meta derrubou suas contas sem aviso ou justificativa. O alcance construído ao longo de anos tornou-se temporariamente inacessível por decisão unilateral de uma corporação. O episódio prova em tempo real que soberania de comunicação é extensão de soberania política. Sem infraestrutura própria, toda construção de consciência política está vulnerável ao ponto de falha corporativo.
 
-**Heribaldo Maia**, também recifense, historiador e mestre em Filosofia pela UFPE, atua no cruzamento que este ensaio preparou entre marxismo, psicanálise e patologia social. _Neoliberalismo e Sofrimento Psíquico_ (Ruptura Editorial, 2022) e _Marxismo, Psicanálise e Revolução_ (co-organizado com Jones Manoel e Christian Dunker) são os documentos mais avançados que a esquerda brasileira engendrou para nomear o que Han chamou de psicopolítica.
+**Heribaldo Maia**, também recifense, historiador e mestre em Filosofia pela UFPE, atua no cruzamento entre marxismo, psicanálise e patologia social preparado nos capítulos anteriores. _Neoliberalismo e Sofrimento Psíquico_ (Ruptura Editorial, 2022) e _Marxismo, Psicanálise e Revolução_ (co-organizado com Jones Manoel e Christian Dunker) são os documentos mais avançados que a esquerda brasileira engendrou para nomear o que Han chamou de psicopolítica.
 
-A tese que Maia recupera de Benjamin atravessa todo o ensaio. O capitalismo nos controla nos melancolizando. O sofrimento privatizado não funciona como efeito colateral, mas como tecnologia de controle. O que une os dois não é linha partidária, já que suas trajetórias organizativas divergiram. O que os une é a base material e a recusa. Pernambuco, UFPE, periferia do sistema, subdesenvolvimento dependente. A recusa de que a teoria pertença a quem pode pagá-la. A recusa de que o sofrimento seja destino privado.
+A tese que Maia recupera de Benjamin atravessa todo o argumento. O capitalismo nos controla nos melancolizando. O sofrimento privatizado não funciona como efeito colateral, mas como tecnologia de controle. O que une os dois não é linha partidária, já que suas trajetórias organizativas divergiram. O que os une é a base material e a recusa. Pernambuco, UFPE, periferia do sistema, subdesenvolvimento dependente. A recusa de que a teoria pertença a quem pode pagá-la. A recusa de que o sofrimento seja destino privado.
 
 ### A subjetividade do poder na divisão da esquerda
 
-Há um fenômeno que qualquer militante com mais de dez anos de organização conhece visceralmente, a geração ativa de fragmentação. O assujettissement descrito por Foucault não para na porta das organizações de esquerda. Os padrões de dominação instalados pelo sistema são trazidos para dentro da reunião de célula, e quando não são reconhecidos e trabalhados, se reproduzem com fidelidade perturbadora.
+Há um fenômeno que qualquer militante com mais de dez anos de organização conhece visceralmente: a geração ativa de fragmentação. O assujettissement descrito por Foucault não para na porta das organizações de esquerda. Os padrões de dominação instalados pelo sistema são trazidos para dentro da reunião de célula; quando não são reconhecidos e trabalhados, reproduzem-se com fidelidade perturbadora.
 
 As divisões da esquerda atuam em três camadas simultâneas.
 
@@ -1192,27 +1192,27 @@ As divisões da esquerda atuam em três camadas simultâneas.
 
 **Camada 2, Narcisista:** o narcisismo das pequenas diferenças que Freud descreveu age aqui como microfascismo organizativo. Grupos que são 90% iguais gastam 90% da energia disputando os 10% de diferença, alimentando defecção por antecipação que resulta no Equilíbrio de Nash da desconfiança mútua.
 
-**Camada 3, Material:** disputas sobre recursos reais. Financiamento, alianças eleitorais, acesso ao Estado. Essas disputas não constituem patologia subjetiva, e sim luta de classes dentro da esquerda. Frações distintas da classe trabalhadora têm interesses que não são automaticamente convergentes, e nenhum design institucional elimina esse conflito. Apenas cria mecanismos para geri-lo sem destruir o vínculo.
+**Camada 3, Material:** disputas sobre recursos reais. Financiamento, alianças eleitorais, acesso ao Estado. Essas disputas não constituem patologia subjetiva, mas luta de classes dentro da esquerda. Frações distintas da classe trabalhadora têm interesses que não são automaticamente convergentes; nenhum design institucional elimina esse conflito. Apenas cria mecanismos para geri-lo sem destruir o vínculo.
 
 ### A forma da federação: nem vanguarda, nem amorfia
 
-Agora a questão prática. Como organizar a potência que já existe nas comunidades (Banco Palmas, MST, quilombos, sindicatos, movimentos) em força capaz de transformar estrutura? Nem partido-vanguarda (que prescreve linha de cima para baixo) nem horizontalidade amorfa (que dispersa sem acumular). A transversalidade proposta por Guattari funciona como princípio organizativo. Máxima comunicação entre níveis diferentes, sem hierarquia vertical que sufoca nem horizontalidade que dispersa sem acumular. A forma é o que importa. Uma organização pode ter programa correto e forma errada, nesse caso, reproduz internamente o mecanismo que quer destruir no mundo.
+Agora a questão prática. Como organizar a potência que já existe nas comunidades, nos assentamentos, nos territórios ancestrais, nos sindicatos, em força capaz de transformar estrutura? Nem partido-vanguarda (que prescreve linha de cima para baixo) nem horizontalidade amorfa (que dispersa sem acumular). A transversalidade proposta por Guattari funciona como princípio organizativo. Máxima comunicação entre níveis diferentes, sem hierarquia vertical que sufoca nem horizontalidade que dispersa sem acumular. A forma é o que importa. Uma organização pode ter programa correto e forma errada, nesse caso, reproduz internamente o mecanismo que quer destruir no mundo.
 
-Mas a forma não se reduz a estrutura. A forma são corpos. A federação não pode ser construída por sujeitos no modo do ter, que acumulam para si, que competem por poder. Precisa ser construída por corpos vibráteis, que se deixam afetar pelo encontro em vez de se defender dele. Corpos capazes de ira, não apenas de irritação.
+A forma vai além da estrutura. A forma são corpos. A federação não pode ser construída por sujeitos no modo do ter, que acumulam para si, que competem por poder. Precisa ser construída por corpos vibráteis, que se deixam afetar pelo encontro em vez de se defender dele. Corpos capazes de ira, não apenas de irritação.
 
-Han distingue as duas. A irritação é reativa, responde ao estímulo e o alimenta (o ciclo infinito de denúncia nas redes). A ira interrompe. "Coloca definitivamente em questão o presente" e "está em condições de interromper um estado e fazer com que se inicie um novo estado." A ocupação de terra pelo MST é ira. A criação de um banco comunitário é ira. A federação precisa de sujeitos que cultivem essa pausa interruptora em vez da reatividade que perpetua o estado de coisas.
+Han distingue as duas. A irritação é reativa, responde ao estímulo e o alimenta (o ciclo infinito de denúncia nas redes). A ira interrompe. "Coloca definitivamente em questão o presente" e "está em condições de interromper um estado e fazer com que se inicie um novo estado." A ocupação de terra pelo MST é ira. A criação de um banco comunitário é ira. A federação requer sujeitos que cultivem essa pausa interruptora em vez da reatividade que perpetua o estado de coisas.
 
 <mermaid src="cap-XIX" description="A revolução como ética vivida: conjuntura, organização, horizonte. Jones Manoel e Heribaldo Maia como intelectuais orgânicos. A federação nem vanguarda nem amorfia."></mermaid>
 
 ### As revoluções que permanecem
 
-O ensaio diagnosticou. A história oferece contraprova empírica. Três revoluções do século XX permanecem como experiências vivas no Sul Global, não como museu, mas como laboratório em escala nacional do que este ensaio pensa em escala comunitária.
+O diagnóstico está feito. A história oferece contraprova empírica. Três revoluções do século XX permanecem como experiências vivas no Sul Global, como laboratório em escala nacional do que aqui se pensa em escala comunitária.
 
 **Cuba: a soberania como prática e como preço**
 
 Cuba prova que soberania periférica é possível e que o império cobra. Sob bloqueio há mais de sessenta anos, o país construiu o que nenhum país de porte comparável construiu. Biotecnologia soberana capaz de gerar vacinas próprias, alfabetização universal, saúde pública com a maior densidade médica per capita do mundo. As brigadas médicas cubanas atuam em mais de 160 países, solidariedade Sul-Sul como prática material, não como retórica de congresso.
 
-O bloqueio não funciona como "contexto". Constitui a causa primeira da crise. Vinte milhões de dólares por dia em perdas. Restrição de acesso a petróleo, insumos farmacêuticos, equipamentos. E quando o bloqueio se intensifica, como sob Trump em 2017 e novamente em 2025, a crise se agrava previsivelmente. A narrativa imperial precisa apresentar o colapso como "fracasso do socialismo" para justificar a asfixia que ela mesma impõe.
+O bloqueio não é "contexto". É a causa primeira da crise. Vinte milhões de dólares por dia em perdas. Restrição de acesso a petróleo, insumos farmacêuticos, equipamentos. E quando o bloqueio se intensifica, como sob Trump em 2017 e novamente em 2025, a crise se agrava previsivelmente. A narrativa imperial precisa apresentar o colapso como "fracasso do socialismo" para justificar a asfixia que ela mesma impõe.
 
 Mas a honestidade composicional exige reconhecer o que o bloqueio não explica sozinho. Onde Cuba prescreveu, tratando protesto popular como caso criminal em vez de sinal político, mantendo controle que limita a organização autônoma, agiu no discurso do mestre. A pergunta não é se Cuba "falhou", mas onde criou condições e onde prescreveu. E o que se pode aprender da diferença.
 
@@ -1220,15 +1220,15 @@ Mas a honestidade composicional exige reconhecer o que o bloqueio não explica s
 
 O Vietnã em 1986 estava à beira do colapso. A resposta não veio de fora, mas da própria experiência revolucionária que se autocorrigiu. O Đổi Mới, renovação que abriu a economia sem terapia de choque e sem condicionalidades do FMI. O resultado se verifica nos números. Pobreza extrema de 50% para 1% em quatro décadas. Crescimento de 8% ao ano. IDH na faixa de "Alto Desenvolvimento Humano".
 
-A diplomacia do bambu, raízes firmes, caule flexível, designa soberania sem rigidez. O Vietnã mantém Parcerias Estratégicas Abrangentes com os EUA e com a China simultaneamente, sem permitir bases estrangeiras, sem se alinhar a nenhum pólo. O conceito não é equidistância, mas equilíbrio de dependências para que nenhuma se torne subordinação.
+A diplomacia do bambu, raízes firmes, caule flexível, designa soberania sem rigidez. O Vietnã mantém Parcerias Estratégicas Abrangentes com os EUA e com a China simultaneamente, sem permitir bases estrangeiras, sem se alinhar a nenhum pólo. O conceito é equilíbrio de dependências para que nenhuma se torne subordinação.
 
-A terra no Vietnã nunca foi privatizada. A propriedade formal é coletiva desde 1980. O agricultor tem segurança de posse real, pode transferir e herdar. Mas a terra é do povo. Isso não constitui detalhe jurídico, e sim a barreira estrutural que impede que a acumulação primitiva se complete.
+A terra no Vietnã nunca foi privatizada. A propriedade formal é coletiva desde 1980. O agricultor tem segurança de posse real, pode transferir e herdar. Mas a terra é do povo. Longe de ser detalhe jurídico, é barreira estrutural que impede que a acumulação primitiva se complete.
 
 O teto do modelo aparece no enquadre político. O partido decide até onde o rio pode ser cruzado. Isso funciona ao mesmo tempo como proteção contra desestabilização externa e como limite à potência de agir interna.
 
 **China: a escala do possível**
 
-Nenhum país na história retirou mais pessoas da miséria do que a China. Oitocentos milhões de seres humanos saíram da pobreza extrema entre 1978 e 2021. Isso não é propaganda, e sim dado do Banco Mundial, verificável.
+Nenhum país na história retirou mais pessoas da miséria do que a China. Oitocentos milhões de seres humanos saíram da pobreza extrema entre 1978 e 2021. Isso não é propaganda: trata-se de dado do Banco Mundial, verificável.
 
 A soberania tecnológica chinesa é a mais completa do Sul Global. A BYD ultrapassou a Tesla em produção de veículos elétricos. A CATL controla 69% do mercado mundial de baterias. O DeepSeek, modelo de inteligência artificial desenvolvido sob sanções, superou o ChatGPT como aplicativo mais baixado na App Store americana em janeiro de 2025. Quando o adversário reconhece o avanço, ele é real.
 
@@ -1240,11 +1240,11 @@ Mas a prescrição mais cara também veio da China. Quando o Estado decidiu quan
 
 A lição não é que "o socialismo funciona" ou "o socialismo falha". Essa é a pergunta do adversário, formulada para engendrar uma resposta que o sirva. A pergunta composicional é outra. Onde cada experiência criou condições e onde prescreveu? Onde ampliou potência de agir e onde a diminuiu?
 
-As três criaram condições, e funcionou. Saúde como commons em Cuba. Abertura gradual no Vietnã. Soberania tecnológica na China. As três prescreveram, e cobra-se. Censura e controle político como teto. Prescrição demográfica como crise estrutural.
+As três criaram condições; funcionou. Saúde como commons em Cuba. Abertura gradual no Vietnã. Soberania tecnológica na China. As três prescreveram; cobra-se. Censura e controle político como teto. Prescrição demográfica como crise estrutural.
 
 E nenhuma das três alcançou autocorreção permanente. Cuba tratou 11 de julho como crime em vez de sinal. A China processa erros apenas postumamente, pela geração seguinte. O Vietnã queima o forno da corrupção mas não abre o teto político. A revisão histórica periódica, processar o passado quando politicamente conveniente, não equivale a canal aberto de dissidência em tempo real.
 
-O Pacto propõe aqui o que nenhuma revolução até agora realizou. O Princípio VIII, autocorreção permanente, não designa adorno constitucional. Designa a peça que faltou. A capacidade de ser transformado pelo confronto com quem vive o que se teoriza, sem que o enquadre colapse. Aceitar o protesto como sinal, não como ameaça. Processar o erro enquanto ele acontece, não depois que alguém morre.
+O Pacto propõe aqui o que nenhuma revolução até agora realizou. O Princípio VIII, autocorreção permanente, não é adorno constitucional. É a peça que faltou. A capacidade de ser transformado pelo confronto com quem vive o que se teoriza, sem que o enquadre colapse. Aceitar o protesto como sinal, não como ameaça. Processar o erro enquanto ele acontece, não depois que alguém morre.
 
 As três revoluções que permanecem provam que a transformação material é possível. E provam, pelo que não conseguiram, que a autocorreção permanente é o desafio que nenhuma estrutura de poder existente resolveu. O Pacto não pretende ter resolvido. Pretende ter nomeado.
 
@@ -1253,7 +1253,7 @@ As três revoluções que permanecem provam que a transformação material é po
 
 ### A figura que o momento exige
 
-O ensaio não propõe apenas arquitetura institucional. Propõe um sujeito político, o hacker-cientista, não como metáfora, mas como a figura que operacionaliza a defesa contra o tecnofeudalismo, que joga no tabuleiro do adversário sem seguir suas regras, que engendra autonomia nos interstícios do controle. Este capítulo desenvolve essa figura não como tipo ideal, mas como emergência empírica da cena brasileira contemporânea.
+Não se propõe apenas arquitetura institucional. Propõe-se um sujeito político, o hacker-cientista: a figura que operacionaliza a defesa contra o tecnofeudalismo, que joga no tabuleiro do adversário sem seguir suas regras, que engendra autonomia nos interstícios do controle. O que segue desenvolve essa figura como emergência empírica da cena brasileira contemporânea.
 
 O hacker-cientista recusa o vanguardismo (não prescreve o que o povo deve fazer) e o espontaneísmo (não abandona a questão da técnica, do conhecimento, da infraestrutura como se fossem autoevidentes). Funciona como quem atravessa os sistemas do adversário para construir os sistemas da autonomia, sem acreditar que o jogo do adversário é o único jogo possível.
 
@@ -1261,7 +1261,7 @@ O hacker-cientista recusa o vanguardismo (não prescreve o que o povo deve fazer
 
 Poucas trajetórias condensam a figura do hacker-cientista como a de Jones Manoel da Silva. Nasceu na favela do Borborema, em Recife. Aos 14 anos vendia jornais na rua. Não teve acesso à universidade que dura 18 anos antes do ensino superior. Chegou ao marxismo-leninismo pelo rap, pelos Racionais MCs, pelo Tupac que mencionava Fidel Castro. A universidade não o levou à teoria. A vida o levou à universidade.
 
-O passo crucial foi sua dissertação de mestrado na UFPE, _Em Busca da Revolução Brasileira_, a autópsia mais precisa do reformismo petista disponível em português. O texto não descreve sociologia, mas constitui psicopatologia política, revelando onde o PT reproduz, institucionalmente, o mecanismo que promete destruir.
+O passo crucial foi sua dissertação de mestrado na UFPE, _Em Busca da Revolução Brasileira_, a autópsia mais precisa do reformismo petista disponível em português. O texto é psicopatologia política, revelando onde o PT reproduz, institucionalmente, o mecanismo que promete destruir.
 
 A inovação de Jones consiste em usar o sistema de produção de conhecimento (a universidade pública brasileira) como ferramenta de contra-insurgência teórica. Colocar no currículo da UFPE a crítica que o sistema nega.
 
@@ -1273,19 +1273,19 @@ O episódio de agosto de 2025 revela o mecanismo. O Meta derrubou suas contas se
 
 ### Heribaldo Maia: a clínica como formação política
 
-Heribaldo Maia, também recifense, historiador e mestre em Filosofia pela UFPE, atua no cruzamento que este ensaio preparou entre marxismo, psicanálise e patologia social. Livros como _Neoliberalismo e Sofrimento Psíquico_ (Ruptura Editorial, 2022) e _Marxismo, Psicanálise e Revolução_ (co-organizado com Jones Manoel e Christian Dunker) são documentos que a esquerda brasileira contemporânea ainda não superou.
+Heribaldo Maia, também recifense, historiador e mestre em Filosofia pela UFPE, atua no cruzamento entre marxismo, psicanálise e patologia social preparado ao longo dos capítulos anteriores. Livros como _Neoliberalismo e Sofrimento Psíquico_ (Ruptura Editorial, 2022) e _Marxismo, Psicanálise e Revolução_ (co-organizado com Jones Manoel e Christian Dunker) são documentos que a esquerda brasileira contemporânea ainda não superou.
 
-A tese que Maia recupera de Benjamin, via Han, sustenta que o capitalismo nos controla nos melancolizando. O sofrimento privatizado não funciona como efeito colateral da exploração, mas como tecnologia de controle. Quem sofre sozinho não luta. Quem sofre sabe que está sozinho. Aí reside a psicopatologia do neoliberalismo, a depressão como resposta racional a um mundo que aparece como sem saída.
+A tese que Maia recupera de Benjamin, via Han, sustenta que o capitalismo nos controla nos melancolizando. O sofrimento privatizado não é efeito colateral da exploração, mas tecnologia de controle. Quem sofre sozinho não luta. Quem sofre sabe que está sozinho. Aí reside a psicopatologia do neoliberalismo, a depressão como resposta racional a um mundo que aparece como sem saída.
 
-E então Maia faz o movimento que poucos conseguem, passando do diagnóstico à instalação de possibilidade. "A possibilidade é sofrermos melhor juntos, sofrer não mais em depressão, mas sofrer em ação, em agência, em potência de transformação." Sofrer em ação designa sofrer como ira em vez de como irritação, sofrer sabendo que há potência coletiva enraizada capaz de responder. A clínica de Heribaldo não funciona como consultório, mas como organização política.
+E então Maia faz o movimento que poucos conseguem, passando do diagnóstico à instalação de possibilidade. "A possibilidade é sofrermos melhor juntos, sofrer não mais em depressão, mas sofrer em ação, em agência, em potência de transformação." Sofrer em ação é sofrer como ira em vez de como irritação, sofrer sabendo que há potência coletiva enraizada capaz de responder. A clínica de Heribaldo é organização política.
 
-O que une Jones e Heribaldo não se reduz a linha partidária (suas trajetórias organizativas divergiram). A base material e a recusa os aproximam. Pernambuco, UFPE, periferia do sistema, dependência. A recusa de que a teoria pertença a quem pode pagá-la. A recusa de que o sofrimento seja destino privado. Cada um deles age como hacker-cientista, entrando no sistema (UFPE, YouTube, mercado editorial) para desarmá-lo de dentro.
+O que une Jones e Heribaldo vai além de linha partidária (suas trajetórias organizativas divergiram). A mesma base material, a mesma recusa. Cada um deles age como hacker-cientista, entrando no sistema (UFPE, YouTube, mercado editorial) para desarmá-lo de dentro.
 
 ### Hacker-cientista: a prática foucaultiana de liberdade
 
-Foucault (capítulo V) propõe que resistência não designa recusa total das instituições, mas prática de liberdade dentro delas, tecnologias do eu que reinventam a subjetividade nos interstícios da dominação. O hacker-cientista operacionaliza essa proposição no plano organizativo.
+Foucault (capítulo V) propõe que resistência não é recusa total das instituições, mas prática de liberdade dentro delas, tecnologias do eu que reinventam a subjetividade nos interstícios da dominação. O hacker-cientista operacionaliza essa proposição no plano organizativo.
 
-O "cuidado de si" foucaultiano desdobra-se em três dimensões: trabalho sobre a própria formação (intelectual, afetiva, política), trabalho com pares que compartilham a mesma recusa (pares-hackers), e construção de condições materiais para que outros possam fazer o mesmo (infraestrutura). O hacker-cientista não designa o indivíduo que domina código ou conhecimento, mas o coletivo que pratica a liberdade como ato contínuo dentro de estruturas de controle.
+O "cuidado de si" foucaultiano desdobra-se em três dimensões: trabalho sobre a própria formação (intelectual, afetiva, política), trabalho com pares que compartilham a mesma recusa (pares-hackers), e construção de condições materiais para que outros possam fazer o mesmo (infraestrutura). O hacker-cientista não é o indivíduo que domina código ou conhecimento, mas o coletivo que pratica a liberdade como ato contínuo dentro de estruturas de controle.
 
 Jones e Heribaldo o fazem ao transformar as instituições onde existem (universidade, YouTube, editora) em espaço de prática de liberdade para outros, não como gesto salvacionista, mas como abertura de brechas. A dissertação de Jones que critica o PT abre brecha. O podcast de Heribaldo que articula psicanálise e luta de classes sem separá-las abre brecha.
 
@@ -1295,11 +1295,11 @@ Cada brecha abre possibilidade para que outros entes atuem fora do padrão presc
 
 ### Han: a ira que interrompe vs. a irritação que alimenta
 
-Han identifica o mecanismo decisivo. O regime psicopolítico contemporâneo não reprime a agressão, a induz. Quer que você se irrite, que denuncie, que compartilhe a indignação nas redes. A irritação, reativa, pontual, impotente, responde ao estímulo e o alimenta. A ira que este ensaio procura age de outro modo. Han a descreve como aquilo que "coloca definitivamente em questão o presente" e "está em condições de interromper um estado e fazer com que se inicie um novo estado."
+Han identifica o mecanismo decisivo. O regime psicopolítico contemporâneo não reprime a agressão, a induz. Quer que você se irrite, que denuncie, que compartilhe a indignação nas redes. A irritação, reativa, pontual, impotente, responde ao estímulo e o alimenta. A ira que se procura aqui age de outro modo. Han a descreve como aquilo que "coloca definitivamente em questão o presente" e "está em condições de interromper um estado e fazer com que se inicie um novo estado."
 
-A ocupação de terra pelo MST funciona como ira, porque não denuncia nem faz campanha, mas interrompe materialmente o estado das coisas. A criação de um banco comunitário funciona como ira ao recusar a operação normal do sistema financeiro. A escrita de um livro que articula psicanálise e luta de classes funciona como ira ao rejeitar a fragmentação disciplinar que torna ambas impossíveis de pensar juntas.
+A ocupação de terra pelo MST é ira, porque não denuncia nem faz campanha, mas interrompe materialmente o estado das coisas. A criação de um banco comunitário é ira ao recusar a operação normal do sistema financeiro. A escrita de um livro que articula psicanálise e luta de classes é ira ao rejeitar a fragmentação disciplinar que torna ambas impossíveis de pensar juntas.
 
-A esquerda contemporânea age demasiado por irritação. O ciclo infinito de denúncia e indignação nas redes alimenta o algoritmo que deveria destruir. O hacker-cientista é quem cultiva a pausa interruptora que a ira exige em vez da reatividade que a irritação perpetua. Esse discernimento, e não cinismo, distingue onde a energia gera novo estado e onde a energia alimenta o estado existente.
+A esquerda contemporânea age demasiado por irritação. O ciclo infinito de denúncia e indignação nas redes alimenta o algoritmo que deveria destruir. O hacker-cientista é quem cultiva a pausa interruptora que a ira exige em vez da reatividade que a irritação perpetua. Esse discernimento, não cinismo, é o que distingue onde a energia gera novo estado e onde alimenta o estado existente.
 
 ### A soberania técnica como prática de liberdade
 
@@ -1309,7 +1309,7 @@ Jones usando plataformas federadas para coordenar com ativistas age como hacker-
 
 Há uma distinção crucial. O empreendedor de Silicon Valley (que, superficialmente similar, cria alternativas, usa código, inova) privatiza o comum. Converte relacionamento em dados que lucra vendendo.
 
-O hacker-cientista reconstitui o comum. Cada ato de infraestrutura que constrói constitui prática de liberdade que amplia a capacidade de outros agirem. A tecnologia não funciona como instrumento neutro, mas a escolha por quem a controla determina se ela serve à expansão ou à redução de potência.
+O hacker-cientista reconstitui o comum. Cada ato de infraestrutura que constrói é prática de liberdade que amplia a capacidade de outros agirem. A tecnologia não é instrumento neutro; a escolha por quem a controla determina se ela serve à expansão ou à redução de potência.
 
 A China demonstrou o que acontece quando um país do Sul Global constrói soberania digital em escala, criando as condições para que um ecossistema inteiro emergisse (WeChat, Alipay, DeepSeek, BYD) em vez de ser colonizado pelas plataformas do Norte. O DeepSeek constitui prova material de que sanções podem acelerar inovação quando existe base soberana. Sem essa base, a periferia consome tecnologia que não controla, alimenta com dados que não possui, e depende de infraestrutura que pode ser desligada por decisão unilateral de quem atua sobre ela. O hacker-cientista periférico olha para a China e não vê modelo a copiar. Vê prova de que é possível.
 
@@ -1317,7 +1317,7 @@ A China demonstrou o que acontece quando um país do Sul Global constrói sobera
 
 Yuk Hui propõe que toda técnica é a unificação de uma ordem cósmica com uma ordem moral, através de atividades técnicas. Não existe "a" tecnologia universal. Existem cosmotécnicas, sempre locais, sempre vinculadas a epistemologias específicas. A imposição de uma única pilha tecnológica (o stack do Vale do Silício) é o equivalente contemporâneo do epistemicídio.
 
-A infraestrutura digital soberana que este ensaio propõe é  cosmotécnica: unificação da ecologia do semiárido, da memória quilombola, da reciprocidade da vizinhança (ordem cósmica) com os princípios de soberania, commons e autocorreção (ordem moral) através de atividade técnica. Tecnodiversidade, o conceito de Hui, funciona como equivalente técnico do ch'ixi de Rivera Cusicanqui: coexistência de técnicas sem convergência, assim como o ch'ixi é coexistência de contrários sem síntese.
+A infraestrutura digital soberana proposta é cosmotécnica: unificação da ecologia do semiárido, da memória quilombola, da reciprocidade da vizinhança (ordem cósmica) com os princípios de soberania, commons e autocorreção (ordem moral) através de atividade técnica. Tecnodiversidade, o conceito de Hui, é o equivalente técnico do ch'ixi de Rivera Cusicanqui: coexistência de técnicas sem convergência, assim como o ch'ixi é coexistência de contrários sem síntese.
 
 Já existe uma tríade brasileira que pensou isso antes de Hui: Álvaro Vieira Pinto (1909-1987), que demonstrou em _O Conceito de Tecnologia_ que a técnica dos países periféricos não é "atrasada", mas funcionalmente produzida pela divisão internacional do trabalho como dependência; Milton Santos, que nomeou a tecnosfera (objetos técnicos que artificializam o espaço) e a psicosfera (ideias e imaginários que fundamentam politicamente a globalização), além da "alienação territorial" que fragmenta o espaço por forças distantes; e Renato Dagnino, que propôs a tecnologia social como alternativa construída desde necessidades locais. A cosmotécnica nordestina não precisa ser inventada. Está fragmentada em departamentos de filosofia, geografia e política científica. Precisa ser reunida e nomeada.
 
@@ -1334,11 +1334,11 @@ Arturo Escobar, em _Designs for the Pluriverse_, formula a consequência: cada d
 
 Cada coletivo, cada organização, cada movimento que adere à federação preserva sua identidade programática própria. A federação não prescreve o que você deve pensar ou fazer. Coordena as noções comuns genuínas, aquelas que emergem de necessidade material concreta e não de imposição de cima. O princípio que Zupančič formulou para a clínica vale aqui. O analista não se autoriza senão por si mesmo. Cada coletivo na federação se autoriza por si mesmo e por alguns outros, não pelo endosso de uma instância superior que distribui legitimidade.
 
-Mas para isso funcionar, precisa de protocolos que reconheçam as assimetrias coloniais de potência. O movimento de mulheres tem voz diferente do movimento agrário. O movimento LGBTQIA+ tem urgência que não é a mesma do movimento de trabalhadores. A federação existe para que essas diferenças não se transformem em hierarquia que cala a voz do menos potente. Criando estruturas onde falar custa menos para quem historicamente foi expropriado da fala.
+Mas para isso funcionar, exige protocolos que reconheçam as assimetrias coloniais de potência. O movimento de mulheres tem voz diferente do movimento agrário. O movimento LGBTQIA+ tem urgência que não é a mesma do movimento de trabalhadores. A federação existe para que essas diferenças não se transformem em hierarquia que cala a voz do menos potente. Criando estruturas onde falar custa menos para quem historicamente foi expropriado da fala.
 
 **2. Acordo sobre o inimigo antes do programa**
 
-Marx-leninistas, ecosocialistas, feministas socialistas e anarco-comunistas têm projetos diferentes para a transição. Tentam resolver isso primeiro e nunca chegam em lugar nenhum, cada fração espera que a outra reconheça sua linha como correta. A federação começa diferente, pela pergunta sobre qual inimigo comum todos nós enfrentamos. A teoria da dependência oferece esse terreno mínimo. O capitalismo imperialista. A estrutura colonial que nos produz como periféricos. Desde aí, não desde a transição, que é questão para depois da vitória, é possível estar junto. Diferentes táticas, mesma estratégia de recusa ao sistema dominante.
+Marx-leninistas, ecossocialistas, feministas socialistas e anarco-comunistas têm projetos diferentes para a transição. Tentam resolver isso primeiro e nunca chegam em lugar nenhum, cada fração espera que a outra reconheça sua linha como correta. A federação começa diferente, pela pergunta sobre qual inimigo comum todos nós enfrentamos. A teoria da dependência oferece esse terreno mínimo. O capitalismo imperialista. A estrutura colonial que nos produz como periféricos. Desde aí, não desde a transição, que é questão para depois da vitória, é possível estar junto. Diferentes táticas, mesma estratégia de recusa ao sistema dominante.
 
 **3. Dados como infraestrutura de confiança**
 
@@ -1346,7 +1346,7 @@ A desconfiança que fragmenta a esquerda é racional. Cada organização tem inf
 
 **4. Protocolos de conflito sem expurgo**
 
-A revolução não funciona como festa de harmonia. Há conflitos reais porque há interesses que não são completamente convergentes. Frações distintas da classe trabalhadora têm necessidades que podem entrar em tensão.
+A revolução não é festa de harmonia. Há conflitos reais porque há interesses que não são completamente convergentes. Frações distintas da classe trabalhadora têm necessidades que podem entrar em tensão.
 
 A esquerda tradicional resolve isso com expurgo. Quem discorda vira traidor. A federação oferece protocolo diferente. Direito de divergência pública sem implicar expulsão. Revisão periódica de linha como norma, não como crise. O acting out político (o militante que recua ao próximo significante-mestre quando a abertura do desejo se torna insuportável) designa uma realidade que precisa de contenção institucional, não de punição. A lição de Ostrom se aplica aqui. Comunidades reais têm conflitos reais, e sistemas que duram têm mecanismos específicos de resolvê-los.
 
@@ -1358,7 +1358,7 @@ As três revoluções que permanecem provam por que esse protocolo é necessári
 
 **5. Inteligência coletiva soberana**
 
-Uma organização revolucionária tem de ter um departamento de hackers. Não como metáfora, mas como função organizativa real. Porque a repressão agora não vem apenas da polícia, vem de plataformas privadas que decidem unilateralmente quem pode falar. Comunicação que não dependa de plataformas do adversário é condição de continuidade.
+Uma organização revolucionária tem de ter um departamento de hackers. Como função organizativa real. Porque a repressão agora não vem apenas da polícia, vem de plataformas privadas que decidem unilateralmente quem pode falar. Comunicação que não dependa de plataformas do adversário é condição de continuidade.
 
 Isso implica infraestrutura própria (servidores que você controla), escolha de protocolos que você entende (não caixas pretas corporativas), e formação técnica massiva (para que não haja gargalo de expertise). O hacker-cientista é a figura que essa função exige, sujeito que joga nos sistemas do adversário para construir autonomia, que conhece o código como linguagem, que atua simultaneamente em múltiplos campos.
 
@@ -1370,7 +1370,7 @@ A federação não emerge de pactos entre siglas, mas de encontros reais entre p
 
 **2. Financiamento cooperativo**
 
-A arquitetura de sete camadas custa dinheiro. O Banco Palmas não existe sem investimento inicial. O MST não tem 450 mil famílias assentadas sem décadas de acúmulo de recursos. A federação precisa de modelo de financiamento que não dependa exclusivamente do Estado nem do capital.
+Como o capítulo XVIII demonstrou, nenhuma dessas experiências existiu sem investimento inicial e décadas de acúmulo. A federação exige modelo de financiamento que não dependa exclusivamente do Estado nem do capital.
 
 O modelo exige pluralismo. Autofinanciamento das cooperativas (porcentagem da produção que alimenta o fundo federativo), contribuições militantes regulares (quem vive da organização contribui parte do salário de volta), pesquisa-ação com universidades públicas (que transformam a luta em programa de pesquisa financiado por agências), redes de solidariedade com movimentos do Sul Global (que compartilham fundos e aprendizados). A potência brota da base, mas a base precisa de condições materiais para sustentar-se.
 
@@ -1384,9 +1384,9 @@ A revolução não designa um evento único que virá, mas uma prática contínu
 
 ### O futuro já começou
 
-A revolução como ética vivida não promete um futuro, mas descreve o que já existe. O Banco Palmas funciona hoje. O MST organiza hoje. Os territórios quilombolas resistem hoje. As cozinhas solidárias servem comida hoje. Essas experiências não funcionam como ilhas de utopia num mar de capitalismo. Funcionam como precedentes que demonstram que a Comunidade-Nação não constitui invenção teórica, mas formalização de práticas que a classe trabalhadora já realiza. A teoria precisa tornar legível o que a experiência já pratica. E a práxis, a ação consciente baseada em diagnóstico, é o que faz com que essas práticas se articulem em força política capaz de transformar a estrutura.
+A revolução como ética vivida não promete um futuro. Descreve o que já existe. As células vivas descritas no capítulo anterior funcionam hoje. A Comunidade-Nação é formalização de práticas que a classe trabalhadora já realiza. A práxis, a ação consciente baseada em diagnóstico, é o que faz com que essas práticas se articulem em força política capaz de transformar a estrutura.
 
-A federação transversal que este ensaio propõe não pertence ao futuro. Está sendo construída agora nas brechas, nos interstícios, nos encontros que engendram noções comuns genuínas. O trabalho que falta é de articulação. Fazer com que essas experiências dispersas reconheçam-se como parte de um tecido único. Fazer com que o Banco Palmas dialogue com o MST, que os territórios quilombolas dialoguem com os movimentos urbanos, que a ira dos hackers se una com a ira dos sem-terra. Essa articulação é a revolução no seu sentido mais profundo, não como tomada do poder, mas como rearranjo das relações de potência que torna possível, enfim, que os corpos que compõem esta rede possam decidir sobre suas próprias vidas.
+A federação transversal proposta não pertence ao futuro. Está sendo construída agora nas brechas, nos interstícios, nos encontros que engendram noções comuns genuínas. O trabalho que falta é de articulação. Fazer com que essas experiências dispersas reconheçam-se como parte de um tecido único. Fazer com que as finanças comunitárias dialoguem com a reforma agrária, que os territórios ancestrais dialoguem com os movimentos urbanos, que a ira dos hackers se una com a ira dos sem-terra. Essa articulação é a revolução no seu sentido mais profundo, não como tomada do poder, mas como rearranjo das relações de potência que torna possível, enfim, que os corpos que compõem esta rede possam decidir sobre suas próprias vidas.
 
 <mermaid src="cap-XXI" description="A federação transversal e os próximos passos: 5 princípios fundantes (autonomia sem isolamento, cooperação sem fusão, diferença como potência, escala humana, tecnologia como ferramenta)."></mermaid>
 
@@ -1401,19 +1401,19 @@ O moleque que me batia não era meu inimigo. Era o mensageiro de uma projeção 
 
 Esse mecanismo, agora sei, tem nome em Spinoza. Tem estrutura em Lacan. Tem capilaridade em Foucault. Tem regime molecular em Deleuze e Guattari. Tem cor em Fanon, terra em Krenak, moeda em Banco Palmas. Tem rosto concreto em cada mãe que cria filho sozinha na Zona Norte do Recife enquanto o Estado aparece como CAPS que medica sem escutar.
 
-Este ensaio não resolve nada disso. Ensaio nenhum resolve. O que ele faz, o que tentou fazer, é nomear o mecanismo com precisão suficiente para que o reconhecimento substitua a culpa. Para que o sofrimento que era privado se torne diagnóstico coletivo. Para que a pergunta deixe de ser "o que há de errado comigo" e passe a ser "que tipo de encontro amplia minha potência de agir e a de quem está ao meu lado."
+Nada disso se resolve aqui. Texto nenhum resolve. O que se faz, o que se tentou fazer, é nomear o mecanismo com precisão suficiente para que o reconhecimento substitua a culpa. Para que o sofrimento que era privado se torne diagnóstico coletivo. Para que a pergunta deixe de ser "o que há de errado comigo" e passe a ser "que tipo de encontro amplia minha potência de agir e a de quem está ao meu lado."
 
 A ética do desejo não propõe uma teoria sobre o que as pessoas devem querer. Designa a recusa de projetar sobre o outro o que ele deve ser. É disciplina. Dura, cotidiana, que se perde e se reconquista. Criar condições para que o outro construa seu próprio saber em vez de consumir o meu.
 
-Não tenho garantia de que funciona. Banco Palmas, MST, quilombos, cozinhas comunitárias, o podcast que ensina Marx em Borborema. Demonstram que composições que ampliam potência existem e resistem. Demonstram também que o custo dessa resistência é real, pago no corpo, e que nenhuma teoria compensa quem o paga.
+Não tenho garantia de que funciona. As experiências vivas, do crédito comunitário à ocupação de terra, do terreiro quilombola ao podcast que ensina Marx em Borborema, demonstram que composições que ampliam potência existem e resistem. Demonstram também que o custo dessa resistência é real, pago no corpo, e que nenhuma teoria compensa quem o paga.
 
 O que posso oferecer é isto. A convicção, construída no confronto entre a experiência vivida e as melhores ferramentas conceituais que encontrei, de que o desejo projetado é a célula primordial do câncer social. E de que a cura não vem de programa imposto de cima, mas da construção paciente, molecular, territorial, federativa, de encontros onde a potência de agir se amplie sem que ninguém precise ser o que o outro precisa que ele seja.
 
 Transforme sua dor em potência, o tempo todo, sempre.
 
-Essa frase que abre o ensaio não funciona como autoajuda. Carrega um imperativo ético com condições materiais. A dor se transforma em potência quando encontra coletivo que a nomeie. Quando a nomeação revela a causa estrutural. Quando a compreensão gera ação que não foi prescrita por ninguém. E quando a ação, ao transformar o mundo, transforma também quem age. Sem garantia. Sem roteiro. Sem mestre que diga como.
+Essa frase de abertura não é autoajuda. Carrega um imperativo ético com condições materiais. A dor se transforma em potência quando encontra coletivo que a nomeie. Quando a nomeação revela a causa estrutural. Quando a compreensão gera ação que não foi prescrita por ninguém. E quando a ação, ao transformar o mundo, transforma também quem age. Sem garantia. Sem roteiro. Sem mestre que diga como.
 
-O ensaio termina aqui. O trabalho não.
+O texto termina aqui. O trabalho não.
 
 <mermaid src="coda" description="Coda: a dor que não se privatiza. Dor como diagnóstico do corpo social. Nomeação coletiva da causa estrutural. A potência nasce da ferida compartilhada, conatus coletivo em espiral."></mermaid>
 
