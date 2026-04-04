@@ -37,21 +37,31 @@ Não é utopia. É protocolo.
 
 O Capiba não é só infraestrutura técnica. É infraestrutura ética.
 
-O capitalismo nos controla nos melancolizando — privatizando o sofrimento, transformando a dor coletiva em depressão individual. A CAPIDATA é o espaço onde esse sofrimento ganha nome coletivo, causa identificada e ação que emerge da compreensão.
+O capitalismo nos controla nos melancolizando — privatizando o sofrimento, transformando a dor coletiva em depressão individual. O espaço cibernético se sobrepõe a cada lugar onde pessoas se encontram (a rua, a cozinha, a assembleia, o quarto) e modula o desejo antes que o sujeito perceba que está escolhendo. A CAPIDATA é o espaço onde esse sofrimento ganha nome coletivo, causa identificada e ação que emerge da compreensão.
 
-Cinco ideias orientam tudo que construímos:
+Toda decisão que tomamos responde a três perguntas:
 
-**1. Conatus** — Cada pessoa, cada comunidade, cada território se esforça para perseverar no próprio ser. A tecnologia ou amplia essa potência ou a diminui. Não existe meio-termo. Quando corpos se encontram e se fortalecem mutuamente, o que nasce é alegria. Quando se destroem, tristeza. O bem é aquilo que amplia a potência de agir; o mal é aquilo que a diminui.
+> **1. Amplia ou diminui a potência de agir?**
+> **2. O que faz com o que sobra?**
+> **3. Expande ou contrai o espaço de possibilidades futuras?**
 
-**2. O desejo é produção, não falta** — A CAPIDATA não existe para preencher uma carência. Existe para produzir realidade. A criação deliberada de falta é a arte da classe dominante. O Capiba recusa essa lógica: o que as comunidades já praticam — o mutirão, a cozinha comunitária, a moeda social, o coco de roda — são expressões de potência que a teoria não precisa inventar, apenas tornar legível.
+Sete ideias orientam tudo que construímos:
 
-**3. O poder está em toda parte — inclusive aqui dentro** — Este projeto não cria um espaço livre de poder. Cria um espaço que assume a responsabilidade de tornar seus mecanismos de poder legíveis e contestáveis. Os padrões de dominação do sistema que combatemos podem se reproduzir aqui dentro. Reconhecê-los é dever de todos.
+**1. Conatus** — Cada pessoa, cada comunidade, cada território se esforça para perseverar no próprio ser. A tecnologia ou amplia essa potência ou a diminui. Quando corpos se encontram e se fortalecem mutuamente, o que nasce é alegria. Quando se destroem, tristeza.
 
-**4. Uma paixão compreendida é o começo de uma ação** — Compreender a causa do afeto é o primeiro ato político. Não basta sentir a injustiça; é preciso nomear sua mecânica. É por isso que o Capiba exige explicabilidade de toda IA, transparência de todo processo, e legibilidade de toda decisão.
+**2. O desejo é produção, não falta** — A CAPIDATA existe para produzir realidade. O que as comunidades já praticam (o mutirão, a cozinha comunitária, a moeda social, o coco de roda) são expressões de potência que a teoria não precisa inventar, apenas tornar legível. Toda composição gera excedente. Sem vias para esse excedente (festa, arte, ritual), ele retorna como conflito.
 
-**5. Condições, não programa** — A transformação não é decreto que se adota. São condições de possibilidade que se constroem. A diferença entre prescrever o que as pessoas devem ser e criar espaço para que elas produzam seu próprio saber é a diferença entre dominação e liberdade.
+**3. O poder está em toda parte — inclusive aqui dentro** — Este projeto cria um espaço que assume a responsabilidade de tornar seus mecanismos de poder legíveis e contestáveis. Os padrões de dominação do sistema que combatemos (inclusive de gênero, raça e capacidade) podem se reproduzir aqui dentro. Reconhecê-los é dever de todos.
 
-O ensaio *Brasil e A Ética do Desejo* desenvolve essa fundamentação em profundidade. O glossário operativo dos conceitos está em [`docs/ETICA_DO_DESEJO.md`](./docs/ETICA_DO_DESEJO.md).
+**4. Uma paixão compreendida é o começo de uma ação** — Compreender a causa do afeto é o primeiro ato político. É por isso que o Capiba exige explicabilidade acessível de toda IA, transparência de todo processo, e legibilidade de toda decisão.
+
+**5. Condições, não programa** — A transformação são condições de possibilidade que se constroem. A diferença entre prescrever o que as pessoas devem ser e criar espaço para que elas produzam seu próprio saber é a diferença entre dominação e liberdade. No centro de toda composição há um vazio que nenhuma prescrição alcança.
+
+**6. Consentimento material** — Consentimento formal sem condições materiais é ficção jurídica. Quem não come não consente. A comunidade que delibera sobre seus dados precisa de segurança alimentar, tempo protegido de aceleração algorítmica, e governança desagregada que inclua a voz de quem é mais afetado.
+
+**7. Experimentar, acumular, proteger** — Decisões se calibram pelo custo de reversão. A cozinha comunitária experimenta receitas (custo baixo). A organização de base acumula confiança ao longo de anos (custo moderado). A soberania alimentar e os dados genéticos se protegem (custo irreversível). A velocidade do erro não compensa quando o dano não se reverte.
+
+O ensaio *Brasil e A Ética do Desejo* desenvolve essa fundamentação em profundidade: [`docs/ETICA_DO_DESEJO.md`](./docs/ETICA_DO_DESEJO.md).
 
 ---
 
@@ -62,8 +72,9 @@ O ensaio *Brasil e A Ética do Desejo* desenvolve essa fundamentação em profun
 - [x] Modelo de governança (quórum dinâmico, proteção de assimetria, protocolos de conflito)
 - [x] Modelo de identidade (DID soberano + Perfil de Horizonte Temporal)
 - [x] Protocolo de commons (PRIVATE / HIDDEN / COMMONS / PUBLIC)
-- [x] Fundamentação filosófico-política (ensaio *Brasil e A Ética do Desejo*)
-- [x] Pacto Fundante v0.2 (estatuto com preâmbulo, 8 princípios, resolução de conflitos)
+- [x] Fundamentação filosófico-política (ensaio *Brasil e A Ética do Desejo* — com Benjamin, cibernética, espaço tridimensional de potência, δ formal, gênero, raça, ecologia, crip theory)
+- [x] Pacto Fundante v0.3 (estatuto com critério composicional triplo, 8 princípios evoluídos, governança desagregada, calibragem por custo de reversão)
+- [x] Licença Ética Capiba v0.3 (9 vedações, consentimento material, proteção do excedente, calibragem por custo de reversão)
 - [x] Mapa de soluções (20+ repositórios planejados)
 - [x] [**Histórias de contribuição**](https://github.com/capidata/.github/issues) — problemas reais, sujeitos reais, prontos para construir
 - [ ] **Você**
@@ -619,7 +630,7 @@ Cada issue tem cenários reais (incluindo bloqueios), stack técnico quando apli
 
 ### Outras formas de começar
 
-- Leia o [Pacto Fundante](./estatuto/pacto-fundante-v0.2.md) — é o documento que define quem somos
+- Leia o [Pacto Fundante](./estatuto/pacto-fundante-v0.3.md) — é o documento que define quem somos
 - [Se apresente nas Discussions](https://github.com/orgs/capidata/discussions/categories/apresentacoes) — é o gesto fundante
 - Abra uma Discussion em [💡 Ideias](https://github.com/orgs/capidata/discussions/categories/ideias) se sua ideia ainda não tem issue
 - Primeiro PR bem-vindo: qualquer coisa que funcione offline num Raspberry Pi
@@ -632,7 +643,7 @@ Cada issue tem cenários reais (incluindo bloqueios), stack técnico quando apli
 2. **Anti-colonial**: o projeto é escrito em português primeiro, sempre. A tensão entre contrários é potência, não defeito
 3. **Assimetria como dado**: quem tem mais a perder decide mais sobre o que perde — e o protocolo compensa assimetrias de potência ativamente
 4. **Ilegibilidade estratégica**: o direito à opacidade é protegido por design. Legibilidade serve ao povo, não ao extrator
-5. **Conatus coletivo**: a tecnologia aumenta a potência, nunca a substitui. Critério composicional: ampliou a potência de agir?
+5. **Conatus coletivo**: a tecnologia aumenta a potência, nunca a substitui. Critério composicional triplo: ampliou a potência de agir? O que faz com o excedente? Expande ou contrai possibilidades futuras?
 6. **Commons, não mercadoria**: o código é livre; os dados das comunidades, soberanos. A vedação é recusa ética à expropriação
 7. **Prática, não discurso**: cada feature precisa rodar em território real. Se o usuário não entende, a feature falhou
 8. **Autocorreção permanente**: a CAPIDATA aceita ser transformada pelo confronto com quem vive o que ela teoriza
@@ -654,9 +665,9 @@ Cada issue tem cenários reais (incluindo bloqueios), stack técnico quando apli
 
 ## Licença
 
-Capiba usa a **Licença Ética Capiba** (derivada da Peer Production License).
+Capiba usa a **[Licença Ética Capiba v0.3](./LICENCA.md)** (derivada da Peer Production License e da Hippocratic License).
 
-As vedações abaixo não são regras arbitrárias de restrição de uso: constituem a recusa ética à expropriação da subjetividade criativa das comunidades pelo capital.
+As vedações constituem a recusa ética à expropriação da subjetividade criativa das comunidades pelo capital e à governamentalidade algorítmica que preempta decisões coletivas.
 
 - ✅ Uso livre para entidades sem fins lucrativos e commons
 - ✅ Uso livre para cooperativas e economia solidária
@@ -664,8 +675,11 @@ As vedações abaixo não são regras arbitrárias de restrição de uso: consti
 - ⚠️ Uso mediante contribuição ao commons para entidades comerciais
 - ❌ Vedado: venda de dados de usuários
 - ❌ Vedado: publicidade comportamental
-- ❌ Vedado: extração de dados para IA sem consentimento comunitário
-- ❌ Vedado: uso por forças repressivas, vigilância e controle social
+- ❌ Vedado: vigilância, controle social e perfilamento algorítmico preditivo
+- ❌ Vedado: IA sem consentimento material das comunidades
+- ❌ Vedado: governamentalidade algorítmica (preempção de decisões, captura atencional)
+- ❌ Vedado: biopirataria e extração ecológica
+- ❌ Vedado: reprodução de hierarquias internas de gênero, raça e capacidade
 
 ---
 
@@ -673,11 +687,11 @@ As vedações abaixo não são regras arbitrárias de restrição de uso: consti
 
 | Documento | Descrição |
 | --- | --- |
-| [`estatuto/pacto-fundante-v0.2.md`](./estatuto/pacto-fundante-v0.2.md) | Pacto Fundante — quem somos, como decidimos, o que nos protege |
+| [`estatuto/pacto-fundante-v0.3.md`](./estatuto/pacto-fundante-v0.3.md) | Pacto Fundante — quem somos, como decidimos, o que nos protege |
 | [`docs/Brasil_e_A_Etica_do_Desejo.md`](./docs/Brasil_e_A_Etica_do_Desejo.md) | Ensaio completo — fundamentação filosófico-política |
-| [`docs/ETICA_DO_DESEJO.md`](./docs/ETICA_DO_DESEJO.md) | Glossário operativo dos conceitos |
+| [`docs/ETICA_DO_DESEJO.md`](./docs/ETICA_DO_DESEJO.md) | Ensaio completo — fundamentação filosófico-política |
 | [`CONTRIBUTING.md`](./CONTRIBUTING.md) | Como contribuir |
-| [`LICENCA.md`](./LICENCA.md) | Licença Ética Capiba |
+| [`LICENCA.md`](./LICENCA.md) | Licença Ética Capiba v0.3 |
 
 ---
 

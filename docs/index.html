@@ -56,6 +56,12 @@
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-title" content="CAPIDATA" />
         <link rel="apple-touch-icon" href="assets/images/favicon-256x256.png" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,400;0,600;0,700;1,400&family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400&family=IBM+Plex+Mono:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500;600;700&family=Lora:ital,wght@0,400;0,600;0,700;1,400&family=Merriweather:ital,wght@0,400;0,700;1,400&family=Spectral:ital,wght@0,400;0,500;0,600;0,700;1,400&subset=latin-ext&display=swap"
+            rel="stylesheet"
+        />
         <link rel="stylesheet" href="assets/css/styles.css" />
         <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon" />
     </head>
@@ -69,11 +75,12 @@
                 <p class="subtitle">documentação</p>
                 <ul id="doc-list">
                     <li>
-                        <a href="#" id="home-link">Home</a>
+                        <a href="/" id="home-link">Home</a>
                     </li>
                     <li class="loading">carregando...</li>
                 </ul>
                 <div class="social-links">
+                    <label>Links</label>
                     <a
                         href="https://github.com/capidata"
                         target="_blank"
@@ -113,34 +120,48 @@
                 </div>
 
                 <div class="theme-toggle">
+                    <label>Tema</label>
                     <button id="theme-light" title="Modo claro">☀️</button>
+                    <button id="theme-gray" title="Modo cinza">🌫️</button>
                     <button id="theme-dark" title="Modo escuro">🌙</button>
+                </div>
+
+                <div class="color-selector">
+                    <label>Cor</label>
+                    <div class="color-selector-buttons">
+                        <button data-color="red" title="Vermelho" style="background:#ef4444"></button>
+                        <button data-color="orange" title="Laranja" style="background:#f97316"></button>
+                        <button data-color="yellow" title="Amarelo" style="background:#eab308"></button>
+                        <button data-color="green" title="Verde" style="background:#22c55e"></button>
+                        <button data-color="blue" title="Azul" style="background:#3b82f6"></button>
+                        <button data-color="indigo" title="Anil" style="background:#6366f1"></button>
+                        <button data-color="violet" title="Violeta" style="background:#a855f7"></button>
+                    </div>
                 </div>
 
                 <div class="font-selector">
                     <label>Fonte</label>
                     <div class="font-selector-buttons">
-                        <button
-                            id="font-serif"
-                            class="font-serif"
-                            title="Serif"
-                        >
-                            Aa
-                        </button>
-                        <button
-                            id="font-sans"
-                            class="font-sans"
-                            title="Sans-serif"
-                        >
-                            Aa
-                        </button>
-                        <button
-                            id="font-mono"
-                            class="font-mono"
-                            title="Monospace"
-                        >
-                            Aa
-                        </button>
+                        <button id="font-spectral" title="Spectral" style="font-family:'Spectral',serif">Aa</button>
+                        <button id="font-lora" title="Lora" style="font-family:'Lora',serif">Aa</button>
+                        <button id="font-garamond" title="EB Garamond" style="font-family:'EB Garamond',serif">Aa</button>
+                        <button id="font-merriweather" title="Merriweather" style="font-family:'Merriweather',serif">Aa</button>
+                        <button id="font-bitter" title="Bitter" style="font-family:'Bitter',serif">Aa</button>
+                        <button id="font-inter" title="Inter" style="font-family:'Inter',sans-serif">Aa</button>
+                        <button id="font-plex" title="IBM Plex Mono" style="font-family:'IBM Plex Mono',monospace">Aa</button>
+                    </div>
+                </div>
+
+                <div class="lang-selector">
+                    <label>Idioma</label>
+                    <div class="lang-selector-buttons">
+                        <button data-lang="pt" title="Português" class="active">PT</button>
+                        <button data-lang="es" title="Español">ES</button>
+                        <button data-lang="en" title="English">EN</button>
+                        <button data-lang="fr" title="Français">FR</button>
+                        <button data-lang="ar" title="العربية">AR</button>
+                        <button data-lang="zh" title="中文">ZH</button>
+                        <button data-lang="hi" title="हिन्दी">HI</button>
                     </div>
                 </div>
             </nav>
@@ -149,6 +170,8 @@
             </main>
         </div>
 
+        <button id="scroll-top" class="scroll-top-btn" title="Voltar ao topo" aria-label="Voltar ao topo">↑</button>
+
         <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
         <script>
@@ -156,6 +179,11 @@
         </script>
         <script src="assets/scripts/docs.js"></script>
         <script>
+            fetch("docs.json")
+                .then((r) => r.json())
+                .then((config) => DocsEngine.init(config))
+                .catch(() => DocsEngine.init());
+
             if ("serviceWorker" in navigator) {
                 navigator.serviceWorker.register("/sw.js");
             }

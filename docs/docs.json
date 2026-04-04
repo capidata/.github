@@ -1,0 +1,35 @@
+{
+  "github": {
+    "owner": "capidata",
+    "repo": ".github",
+    "path": "docs",
+    "branch": "main"
+  },
+  "localDocs": [
+    "ETICA_DO_DESEJO.md",
+    "LICENCA.md",
+    "O_QUE_E_CAPIDATA.md",
+    "PACTO_FUNDANTE.md"
+  ],
+  "prefix": "capidata",
+  "home": {
+    "image": "assets/images/sil.png",
+    "title": "Documentação da CAPIDATA"
+  },
+  "fonts": [
+    "spectral",
+    "lora",
+    "garamond",
+    "merriweather",
+    "bitter",
+    "inter",
+    "plex"
+  ],
+  "defaultFont": "spectral",
+  "defaultLang": "pt",
+  "toc": {
+    "label": "Sumário",
+    "minHeadings": 3
+  },
+  "diagramsPath": "diagramas"
+}

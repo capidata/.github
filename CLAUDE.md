@@ -19,8 +19,8 @@ Este repositório não tem código — é exclusivamente documentação de gover
 - Novos registros em `decisoes/` seguem numeração sequencial (`NNNN-slug.md`) e são **imutáveis após merge** — não editar, apenas adicionar adendos. A partir da decisão 0004, toda decisão Estratégica ou Política inclui a seção "Avaliação prévia (Art. 17)" com três campos obrigatórios: quem é afetado e assimetria de horizonte temporal, se a decisão prescreve ou cria condições, e custo de reversão.
 - Membros são adicionados em `membros/README.md` via PR (o PR é o ato jurídico de adesão)
 - Toda alteração no `estatuto/` requer quórum estratégico — não faça edits diretos sem registro de decisão correspondente
-- O Pacto Fundante vigente é a **v0.2** — toda referência ao pacto deve apontar para `pacto-fundante-v0.2.md`, não para a v0.1
-- A Licença vigente é a **v0.2** — toda referência à licença deve apontar para a versão atual do `LICENCA.md`
+- O Pacto Fundante vigente é a **v0.3** — toda referência ao pacto deve apontar para `pacto-fundante-v0.3.md`, não para versões anteriores
+- A Licença vigente é a **v0.3** — toda referência à licença deve apontar para a versão atual do `LICENCA.md`
 - As cláusulas pétreas são **8** (não 7) — incluir sempre o princípio VIII (Autocorreção permanente)
 - O critério hermenêutico central do Pacto é composicional: "amplia ou diminui a potência de agir dos corpos que compõem esta rede?" — usar essa pergunta como orientação quando houver ambiguidade interpretativa
 
@@ -47,7 +47,7 @@ Enquanto as ferramentas próprias de governança do protocolo não existem, este
 ├── .gitignore
 ├── CLAUDE.md               este arquivo — guia para Claude Code
 ├── CONTRIBUTING.md          processo de contribuição em 5 fases
-├── LICENCA.md               Licença Ética Capiba v0.2
+├── LICENCA.md               Licença Ética Capiba v0.3
 ├── README.md                README da comunidade (ecossistema, feature stories, áreas)
 ├── .github/
 │   └── ISSUE_TEMPLATE/      templates para cada tipo de contribuição
@@ -77,7 +77,7 @@ Enquanto as ferramentas próprias de governança do protocolo não existem, este
 │   ├── CHANGELOG.md
 │   ├── README.md
 │   ├── pacto-fundante-v0.1.md          versão anterior (registro histórico)
-│   └── pacto-fundante-v0.2.md          versão vigente
+│   └── pacto-fundante-v0.3.md          versão vigente
 │
 ├── membros/                 registro de Membros Plenos
 │   └── README.md
@@ -210,8 +210,8 @@ Issue → template `nova-solucao.md` → ou Discussion em 💡 Ideias
 ## Estado atual da comunidade
 
 ```
-Pacto Fundante:        v0.2 — com fundamentação filosófico-política
-Licença:               Ética Capiba v0.2
+Pacto Fundante:        v0.3 — com fundamentação filosófico-política evoluída
+Licença:               Ética Capiba v0.3
 Membros Plenos:        1 (Silvano Neto — fundador)
 Brigadas Técnicas:     0
 Entidades Cadastradas: 0
@@ -222,7 +222,7 @@ Próximo marco:         5 pessoas nas Discussions → primeira assembleia
 
 ## Links essenciais
 
-- Pacto Fundante vigente: `estatuto/pacto-fundante-v0.2.md`
+- Pacto Fundante vigente: `estatuto/pacto-fundante-v0.3.md`
 - Ensaio de fundamentação: `docs/Brasil_e_A_Etica_do_Desejo.md`
 - Glossário operativo: `docs/ETICA_DO_DESEJO.md`
 - Licença: `LICENCA.md`

@@ -1,4 +1,4 @@
-const CACHE_NAME = "capidata-v1";
+const CACHE_NAME = "capidata-v3.1";
 const STATIC_ASSETS = [
   "/",
   "/index.html",
@@ -34,6 +34,16 @@ self.addEventListener("fetch", (event) => {
 
   // Arquivos estáticos locais: cache-first
   if (url.origin === self.location.origin) {
+    // SPA fallback: if not a file request (no extension), serve index.html
+    const hasExtension = url.pathname.split("/").pop().includes(".");
+    if (!hasExtension && url.pathname !== "/") {
+      event.respondWith(
+        caches.match("/index.html").then(
+          (cached) => cached ?? fetch("/index.html"),
+        ),
+      );
+      return;
+    }
     event.respondWith(
       caches.match(event.request).then(
         (cached) => cached ?? fetch(event.request),
