@@ -1,6 +1,4 @@
-# Brasil e A Ética do Desejo
-
-## Amor, Justiça, Potência e Sociedade em Cibernética
+# Brasil e A Ética do Desejo: amor, justiça, potência e sociedade em cibernética
 
 _Compilação de ideias estruturada por **Silvano Neto**, com apoio de pesquisa por ferramenta de inteligência artificial generativa_
 

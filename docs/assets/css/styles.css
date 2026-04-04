@@ -462,7 +462,17 @@ main {
     width: 100%;
     margin-bottom: 2rem;
     border-radius: 12px;
+    transition: filter 0.4s ease;
 }
+
+/* color tinting for home image */
+body.color-red .index-view img    { filter: sepia(0.4) saturate(2.0) hue-rotate(-10deg); }
+body.color-orange .index-view img { filter: sepia(0.4) saturate(2.0) hue-rotate(15deg); }
+body.color-yellow .index-view img { filter: sepia(0.4) saturate(2.0) hue-rotate(35deg); }
+body.color-green .index-view img  { filter: sepia(0.4) saturate(1.8) hue-rotate(90deg); }
+body.color-blue .index-view img   { filter: sepia(0.4) saturate(2.0) hue-rotate(180deg); }
+body.color-indigo .index-view img { filter: sepia(0.4) saturate(2.0) hue-rotate(210deg); }
+body.color-violet .index-view img { filter: sepia(0.4) saturate(2.0) hue-rotate(250deg); }
 
 .index-view h2 {
     font-size: 1.6rem;
